@@ -1,0 +1,1602 @@
+[
+  {
+    "sentence": "adıyaman atatürk bulvarı mimar sinan caddesi çevre şehircilik binasının karşısındaki uluslar apartmanı elif hatun bilen bertan tabakçi ibrahim barış can tabakçi enkaz altındalar ve yardım ekipleri yetmiyor buraya acil yardım gerekiyor lütfen acilll rt",
+    "labels": [
+      {"word":"adıyaman","label":"B-LOC"},{"word":"atatürk","label":"B-LOC"},{"word":"bulvarı","label":"I-LOC"},
+      {"word":"mimar","label":"B-LOC"},{"word":"sinan","label":"I-LOC"},{"word":"caddesi","label":"I-LOC"},
+      {"word":"çevre","label":"B-LOC"},{"word":"şehircilik","label":"I-LOC"},{"word":"binasının","label":"I-LOC"},{"word":"karşısındaki","label":"I-LOC"},
+      {"word":"uluslar","label":"B-LOC"},{"word":"apartmanı","label":"I-LOC"},
+      {"word":"elif","label":"O"},{"word":"hatun","label":"O"},{"word":"bilen","label":"O"},
+      {"word":"bertan","label":"O"},{"word":"tabakçi","label":"O"},
+      {"word":"ibrahim","label":"O"},{"word":"barış","label":"O"},{"word":"can","label":"O"},{"word":"tabakçi","label":"O"},
+      {"word":"enkaz","label":"O"},{"word":"altındalar","label":"O"},{"word":"ve","label":"O"},{"word":"yardım","label":"O"},{"word":"ekipleri","label":"O"},{"word":"yetmiyor","label":"O"},{"word":"buraya","label":"O"},{"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"gerekiyor","label":"O"},{"word":"lütfen","label":"O"},{"word":"acilll","label":"O"},{"word":"rt","label":"O"}
+    ]
+  },
+  {
+    "sentence": "şerefhan mutlu askerhan kurucuova çat bu köylere yardım götürdük ama yetmedi acil erzak yardımı gitmesi gerekiyor",
+    "labels": [
+      {"word":"şerefhan","label":"B-LOC"},{"word":"mutlu","label":"I-LOC"},
+      {"word":"askerhan","label":"I-LOC"},
+      {"word":"kurucuova","label":"B-LOC"},
+      {"word":"çat","label":"B-LOC"},
+      {"word":"bu","label":"O"},{"word":"köylere","label":"O"},{"word":"yardım","label":"O"},{"word":"götürdük","label":"O"}
+    ]
+  },{
+    "sentence": "iskenderundumlupınar eski ssk hastanesinin karşısındaki toplanma alanına giyim battaniye fener ışıldak vb acil yardım malzemeleri gerekiyor yardım gitmemiş irtibat için nalan kumru 05313536337",
+    "labels": [
+      {"word":"iskenderundumlupınar","label":"B-LOC"},
+      {"word":"eski","label":"O"},{"word":"ssk","label":"O"},{"word":"hastanesinin","label":"O"},
+      {"word":"karşısındaki","label":"O"},{"word":"toplanma","label":"O"},{"word":"alanına","label":"O"},
+      {"word":"giyim","label":"O"},{"word":"battaniye","label":"O"},{"word":"fener","label":"O"},
+      {"word":"ışıldak","label":"O"},{"word":"vb","label":"O"},{"word":"acil","label":"O"},
+      {"word":"yardım","label":"O"},{"word":"malzemeleri","label":"O"},{"word":"gerekiyor","label":"O"},
+      {"word":"yardım","label":"O"},{"word":"gitmemiş","label":"O"},{"word":"irtibat","label":"O"},
+      {"word":"için","label":"O"},{"word":"nalan","label":"O"},{"word":"kumru","label":"O"},
+      {"word":"05313536337","label":"O"}
+    ]
+  },
+  {
+    "sentence": "teyitli bilek mahallesi 12018 nolu sokak no 51 şehitkamil gaziantep köy bölgesi olduğu için yardım ulaşmamış yemek konusunda problemleri yok çadır ve ısıtıcıya ihtiyaçları var acil kalabalıklar hüseyin gözükara 05362052121",
+    "labels": [
+      {"word":"teyitli","label":"O"},
+      {"word":"bilek","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"12018","label":"B-LOC"},{"word":"nolu","label":"I-LOC"},
+      {"word":"sokak","label":"I-LOC"},{"word":"no","label":"B-LOC"},{"word":"51","label":"I-LOC"},
+      {"word":"şehitkamil","label":"B-LOC"},{"word":"gaziantep","label":"I-LOC"},
+      {"word":"köy","label":"O"},{"word":"bölgesi","label":"O"},{"word":"olduğu","label":"O"},{"word":"için","label":"O"},
+      {"word":"yardım","label":"O"},{"word":"ulaşmamış","label":"O"},{"word":"yemek","label":"O"},
+      {"word":"konusunda","label":"O"},{"word":"problemleri","label":"O"},{"word":"yok","label":"O"},
+      {"word":"çadır","label":"O"},{"word":"ve","label":"O"},{"word":"ısıtıcıya","label":"O"},
+      {"word":"ihtiyaçları","label":"O"},{"word":"var","label":"O"},{"word":"acil","label":"O"},
+      {"word":"kalabalıklar","label":"O"},{"word":"hüseyin","label":"O"},{"word":"gözükara","label":"O"},
+      {"word":"05362052121","label":"O"}
+    ]
+  },
+  {
+    "sentence": "merve gen göçük altında acil yardım sümerler mah harbiye caddesi maksim park karşısı umut apt duvara vurdu kardeşim seslendiğinde şahap sen misin diye cevap verdi defnehatay tlf05534915620",
+    "labels": [
+      {"word":"merve","label":"O"},{"word":"gen","label":"O"},{"word":"göçük","label":"O"},
+      {"word":"altında","label":"O"},{"word":"acil","label":"O"},{"word":"yardım","label":"O"},
+      {"word":"sümerler","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+      {"word":"harbiye","label":"B-LOC"},{"word":"caddesi","label":"I-LOC"},
+      {"word":"maksim","label":"B-LOC"},{"word":"park","label":"I-LOC"},
+      {"word":"karşısı","label":"O"},{"word":"umut","label":"B-LOC"},{"word":"apt","label":"I-LOC"},
+      {"word":"duvara","label":"O"},{"word":"vurdu","label":"O"},{"word":"kardeşim","label":"O"},
+      {"word":"seslendiğinde","label":"O"},{"word":"şahap","label":"O"},{"word":"sen","label":"O"},
+      {"word":"misin","label":"O"},{"word":"diye","label":"O"},{"word":"cevap","label":"O"},
+      {"word":"verdi","label":"O"},{"word":"defnehatay","label":"B-LOC"},
+      {"word":"tlf05534915620","label":"O"}
+    ]
+  },
+  {
+    "sentence": "akevler mahallesi 432sokak torunlar apt no 8 içkapı no7 hatay antakya hamis mertcan güler 0538 490 91 51 güncel bilgi lütfen yardım edelim",
+    "labels": [
+      {"word":"akevler","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"432sokak","label":"B-LOC"},{"word":"torunlar","label":"B-LOC"},
+      {"word":"apt","label":"I-LOC"},{"word":"no","label":"B-LOC"},{"word":"8","label":"I-LOC"},
+      {"word":"içkapı","label":"B-LOC"},{"word":"no7","label":"I-LOC"},
+      {"word":"hatay","label":"B-LOC"},{"word":"antakya","label":"I-LOC"},
+      {"word":"hamis","label":"O"},{"word":"mertcan","label":"O"},{"word":"güler","label":"O"},
+      {"word":"0538","label":"O"},{"word":"490","label":"O"},{"word":"91","label":"O"},{"word":"51","label":"O"},
+      {"word":"güncel","label":"O"},{"word":"bilgi","label":"O"},{"word":"lütfen","label":"O"},
+      {"word":"yardım","label":"O"},{"word":"edelim","label":"O"}
+    ]
+  },
+  {
+    "sentence": "general şükrü kanatlı mahallesi fevzi paşa cad celal kaptan apartmanı no 12 daire 1 antakya hatay bir arkadasimizin eşi enkaz altında ses veriyormuş lütfen acil yardım",
+    "labels": [
+      {"word":"general","label":"B-LOC"},{"word":"şükrü","label":"I-LOC"},{"word":"kanatlı","label":"I-LOC"},
+      {"word":"mahallesi","label":"I-LOC"},
+      {"word":"fevzi","label":"B-LOC"},{"word":"paşa","label":"I-LOC"},{"word":"cad","label":"I-LOC"},
+      {"word":"celal","label":"B-LOC"},{"word":"kaptan","label":"I-LOC"},{"word":"apartmanı","label":"I-LOC"},
+      {"word":"no","label":"B-LOC"},{"word":"12","label":"I-LOC"},
+      {"word":"daire","label":"B-LOC"},{"word":"1","label":"I-LOC"},
+      {"word":"antakya","label":"B-LOC"},{"word":"hatay","label":"I-LOC"},
+      {"word":"bir","label":"O"},{"word":"arkadasimizin","label":"O"},{"word":"eşi","label":"O"},
+      {"word":"enkaz","label":"O"},{"word":"altında","label":"O"},{"word":"ses","label":"O"},
+      {"word":"veriyormuş","label":"O"},{"word":"lütfen","label":"O"},{"word":"acil","label":"O"},
+      {"word":"yardım","label":"O"}
+    ]
+  },
+  {
+    "sentence": "hatay antakya akasya mahallesi 100 sokak no84 elif melisa burnumdan kan geliyor acil yardım",
+    "labels": [
+      {"word":"hatay","label":"B-LOC"},{"word":"antakya","label":"I-LOC"},
+      {"word":"akasya","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"100","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},
+      {"word":"no84","label":"I-LOC"},
+      {"word":"elif","label":"O"},{"word":"melisa","label":"O"},{"word":"burnumdan","label":"O"},
+      {"word":"kan","label":"O"},{"word":"geliyor","label":"O"},{"word":"acil","label":"O"},{"word":"yardım","label":"O"}
+    ]
+  },
+  {
+    "sentence": "karadut köyü dağ obası göksun kahramanmaraş yolu kapalı çadır ihtiyacı var acil yardım",
+    "labels": [
+      {"word":"karadut","label":"B-LOC"},{"word":"köyü","label":"I-LOC"},
+      {"word":"dağ","label":"B-LOC"},{"word":"obası","label":"I-LOC"},
+      {"word":"göksun","label":"B-LOC"},{"word":"kahramanmaraş","label":"I-LOC"},
+      {"word":"yolu","label":"O"},{"word":"kapalı","label":"O"},{"word":"çadır","label":"O"},
+      {"word":"ihtiyacı","label":"O"},{"word":"var","label":"O"},{"word":"acil","label":"O"},{"word":"yardım","label":"O"}
+    ]
+  },
+  {
+    "sentence": "adıyaman hacıhalil köyü eski köy okulu bahçesi 10 günlük bebek ve çocuklar var soğuktan donmak üzereler acil yardım gönderilmesi gerekiyor",
+    "labels": [
+      {"word":"adıyaman","label":"B-LOC"},
+      {"word":"hacıhalil","label":"B-LOC"},{"word":"köyü","label":"I-LOC"},
+      {"word":"eski","label":"B-LOC"},{"word":"köy","label":"I-LOC"},{"word":"okulu","label":"I-LOC"},
+      {"word":"bahçesi","label":"I-LOC"},
+      {"word":"10","label":"O"},{"word":"günlük","label":"O"},{"word":"bebek","label":"O"}
+    ]
+  },
+  {
+    "sentence": "bahçelievler mahallesi atatürk bulvarı dilek apartmani no 334 merkez adıyaman çok acil",
+    "labels": [
+      {"word":"bahçelievler","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"atatürk","label":"B-LOC"},{"word":"bulvarı","label":"I-LOC"},
+      {"word":"dilek","label":"B-LOC"},{"word":"apartmani","label":"I-LOC"},
+      {"word":"no","label":"B-LOC"},{"word":"334","label":"I-LOC"},
+      {"word":"merkez","label":"B-LOC"},{"word":"adıyaman","label":"I-LOC"},
+      {"word":"çok","label":"O"},{"word":"acil","label":"O"}
+    ]
+  },
+  {
+    "sentence": "12 şubat mercimektepe mah adnan menderes bulvarikırçiçeği apt maraş enkazdan sesler geliyor acil yardım",
+    "labels": [
+      {"word":"12","label":"B-LOC"},{"word":"şubat","label":"I-LOC"},
+      {"word":"mercimektepe","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+      {"word":"adnan","label":"B-LOC"},{"word":"menderes","label":"I-LOC"},
+      {"word":"bulvarikırçiçeği","label":"B-LOC"},{"word":"apt","label":"I-LOC"},
+      {"word":"maraş","label":"B-LOC"},
+      {"word":"enkazdan","label":"O"},{"word":"sesler","label":"O"},{"word":"geliyor","label":"O"},{"word":"acil","label":"O"},{"word":"yardım","label":"O"}
+    ]
+  }
+,
+  {
+    "sentence": "tecde mahallesi yediveren sokak no 11 yeşilyurt malatya canan şireci 05308659244 acil erzak su battaniye ihtiyaçları varmış yardım edin lütfen",
+    "labels": [
+      {"word":"tecde","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"yediveren","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},
+      {"word":"no","label":"B-LOC"},{"word":"11","label":"I-LOC"},
+      {"word":"yeşilyurt","label":"B-LOC"},{"word":"malatya","label":"I-LOC"}
+    ]
+  },
+  {
+    "sentence": "adana güzelyalı mahallesi zeray apartmanı en üst kat ama merdiven boşluğundayız armağan gül 17 yaşında yeşil gözlü boy 174 çok kişiyiz acil yardım gerekiyor",
+    "labels": [
+      {"word":"adana","label":"B-LOC"},
+      {"word":"güzelyalı","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"zeray","label":"B-LOC"},{"word":"apartmanı","label":"I-LOC"}
+    ]
+  },
+  {
+    "sentence": "hatay kırıkhan bir aileye acil olarak bir çadır lazım elbiseleri yakıyorlarmış lütfen acil yardım",
+    "labels": [
+      {"word":"hatay","label":"B-LOC"},{"word":"kırıkhan","label":"I-LOC"}
+    ]
+  },
+  {
+    "sentence": "eskişehir büyükşehir belediyesi depremden etkilenen illere 54 tır insani yardım malzemesi gönderdi",
+    "labels": [
+      {"word":"eskişehir","label":"B-LOC"},
+      {"word":"büyükşehir","label":"O"},{"word":"belediyesi","label":"O"}
+    ]
+  },
+  {
+    "sentence": "hatay kırıkhan atatürk anıtına hiçbir yardım ulaşmamış acil barınma ısınma ve gıda lazım iletişim eda melisa sen 05055376889",
+    "labels": [
+      {"word":"hatay","label":"B-LOC"},{"word":"kırıkhan","label":"I-LOC"},
+      {"word":"atatürk","label":"B-LOC"},{"word":"anıtına","label":"I-LOC"}
+    ]
+  },
+  {
+    "sentence": "destan hatay harbiye mahallesi destan sokak semir apartman no2 9 kişiler 3ü bebek acil mama bez ped çadır ısıtıcı besin gerekli",
+    "labels": [
+      {"word":"destan","label":"B-LOC"},{"word":"hatay","label":"I-LOC"},
+      {"word":"harbiye","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"destan","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},
+      {"word":"semir","label":"B-LOC"},{"word":"apartman","label":"I-LOC"},
+      {"word":"no2","label":"I-LOC"}
+    ]
+  },
+  {
+    "sentence": "odabaşı mah uğur mumcu cad özgür apt antakya belediyesi ek binası yanı bir baba yalvarıyor 2 evladı göçük altında seslerini duyuyormuş acil yardım",
+    "labels": [
+      {"word":"odabaşı","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+      {"word":"uğur","label":"B-LOC"},{"word":"mumcu","label":"I-LOC"},{"word":"cad","label":"I-LOC"},
+      {"word":"özgür","label":"B-LOC"},{"word":"apt","label":"I-LOC"},
+      {"word":"antakya","label":"B-LOC"}
+    ]
+  },
+  {
+    "sentence": "iskenderun organize sanayi bölgesi yazıcı demir çelik fabrikası acil battaniye yiyecek lazım",
+    "labels": [
+      {"word":"iskenderun","label":"B-LOC"},
+      {"word":"organize","label":"B-LOC"},{"word":"sanayi","label":"I-LOC"},{"word":"bölgesi","label":"I-LOC"},
+      {"word":"yazıcı","label":"B-LOC"},{"word":"demir","label":"I-LOC"},{"word":"çelik","label":"I-LOC"},{"word":"fabrikası","label":"I-LOC"}
+    ]
+  },
+  {
+    "sentence": "cumhuriyet mahallesi 302 sokak gökkuşağı sitesi b blok hataykırıkhan ambulans",
+    "labels": [
+      {"word":"cumhuriyet","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"302","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},
+      {"word":"gökkuşağı","label":"B-LOC"},{"word":"sitesi","label":"I-LOC"},
+      {"word":"b","label":"B-LOC"},{"word":"blok","label":"I-LOC"},
+      {"word":"hataykırıkhan","label":"B-LOC"},
+      {"word":"ambulans","label":"O"}
+    ]
+  },
+  {
+    "sentence": "elbistan tepebaşı mah iskender efendi sok no 7 elbistan kahramanmaraş 506 508 22 95 ersin çankal 2021 kişiden oluşan 4 aile için çadır mont bot kıyafet ihtiyacı var",
+    "labels": [
+      {"word":"elbistan","label":"B-LOC"},
+      {"word":"tepebaşı","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+      {"word":"iskender","label":"B-LOC"},{"word":"efendi","label":"I-LOC"},{"word":"sok","label":"I-LOC"},
+      {"word":"no","label":"B-LOC"},{"word":"7","label":"I-LOC"},
+      {"word":"elbistan","label":"B-LOC"},
+      {"word":"kahramanmaraş","label":"I-LOC"}
+    ]
+  },
+  {
+    "sentence": "malatya yeşilyurt sivas yolu topsöğut mahallesi hilal sokak altay kışlası karşısı battaniye gıda acil hiç bir yardım ulaşmamış",
+    "labels": [
+      {"word":"malatya","label":"B-LOC"},
+      {"word":"yeşilyurt","label":"B-LOC"},
+      {"word":"sivas","label":"B-LOC"},{"word":"yolu","label":"I-LOC"},
+      {"word":"topsöğut","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"hilal","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},
+      {"word":"altay","label":"B-LOC"},{"word":"kışlası","label":"I-LOC"},{"word":"karşısı","label":"I-LOC"}
+    ]
+  },
+  {
+    "sentence": "kahramanmaraş on iki şubat ilçesi döngel köyüne hiçbir şekilde yardım ulaşmamış insanların acil çadıra ihtiyaçları var lütfen destek",
+    "labels": [
+      {"word":"kahramanmaraş","label":"B-LOC"},
+      {"word":"on","label":"B-LOC"},{"word":"iki","label":"I-LOC"},{"word":"şubat","label":"I-LOC"},{"word":"ilçesi","label":"I-LOC"},
+      {"word":"döngel","label":"B-LOC"},{"word":"köyüne","label":"I-LOC"}
+    ]
+  },
+  {
+    "sentence": "502 sokak no 12 kırıkhanbahçelievler hatay acil çadır aile yağmalardan korkuyor yardım alanlarına ulaşamıyorlar",
+    "labels": [
+      {"word":"502","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},
+      {"word":"no","label":"B-LOC"},{"word":"12","label":"I-LOC"},
+      {"word":"kırıkhanbahçelievler","label":"B-LOC"},
+      {"word":"hatay","label":"I-LOC"}
+    ]
+  },
+  {
+    "sentence": "hatay hassa bölgesine acil yardım gerekiyor şebeke yok su yok yemek yok enkaz altinda kalanlar var",
+    "labels": [
+      {"word":"hatay","label":"B-LOC"},{"word":"hassa","label":"I-LOC"},{"word":"bölgesine","label":"I-LOC"}
+    ]
+  },
+  {
+    "sentence": "çelikhanadıyaman a acil olarak çocuklar için mont bot bere lazım lütfen yardım",
+    "labels": [
+      {"word":"çelikhanadıyaman","label":"B-LOC"}
+    ]
+  },
+  {
+    "sentence": "nurdağının gözlühöyük köyünün çok acil çadıra ve ısınmaya ihtiyacı var yardım edin",
+    "labels": [
+      {"word":"nurdağının","label":"B-LOC"},
+      {"word":"gözlühöyük","label":"B-LOC"},{"word":"köyünün","label":"I-LOC"}
+    ]
+  },
+  {
+    "sentence": "antakya hatay ürgenpaşa mahallesi 18sokak huzur apartmanı no 12 buse özkan ve ailesi enkaz altında 3 gündür hiçbir profesyonel ekip gitmemiş yardım edin acil",
+    "labels": [
+      {"word":"antakya","label":"B-LOC"},{"word":"hatay","label":"I-LOC"},
+      {"word":"ürgenpaşa","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"18sokak","label":"B-LOC"},
+      {"word":"huzur","label":"B-LOC"},{"word":"apartmanı","label":"I-LOC"},
+      {"word":"no","label":"B-LOC"},{"word":"12","label":"I-LOC"}
+    ]
+  },
+  {
+    "sentence": "hatay altinözü enek köyü hiçbir yardım gitmemiş acil çadıra ihtiyaçları var ahmet irmak 0530 978 35 15",
+    "labels": [
+      {"word":"hatay","label":"B-LOC"},
+      {"word":"altinözü","label":"B-LOC"},
+      {"word":"enek","label":"B-LOC"},{"word":"köyü","label":"I-LOC"}
+    ]
+  },
+  {
+    "sentence": "iskenderun organize sanayi bölgesi yazıcı demir çelik fabrikası acil battaniye sıcak tutacak şeyler ve yiyecek gerekiyor",
+    "labels": [
+      {"word":"iskenderun","label":"B-LOC"},
+      {"word":"organize","label":"B-LOC"},{"word":"sanayi","label":"I-LOC"},{"word":"bölgesi","label":"I-LOC"},
+      {"word":"yazıcı","label":"B-LOC"},{"word":"demir","label":"I-LOC"},{"word":"çelik","label":"I-LOC"},{"word":"fabrikası","label":"I-LOC"}
+    ]
+  },
+  {
+    "sentence": "cumhuriyet mahallesi 302 sokak gökkuşağı sitesi b blok hataykırıkhan ambulans çağrısı göçük altından 2 kişiden ses alınıyor acil",
+    "labels": [
+      {"word":"cumhuriyet","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"302","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},
+      {"word":"gökkuşağı","label":"B-LOC"},{"word":"sitesi","label":"I-LOC"},
+      {"word":"b","label":"B-LOC"},{"word":"blok","label":"I-LOC"},
+      {"word":"hataykırıkhan","label":"B-LOC"}
+    ]
+  },
+  {
+    "sentence": "merve göker pazarcık ilçesi bağdınısağır mah 05414629832 çadir ihtiyaci var",
+    "labels": [
+      {"word":"merve","label":"O"},{"word":"göker","label":"O"},
+      {"word":"pazarcık","label":"B-LOC"},{"word":"ilçesi","label":"I-LOC"},
+      {"word":"bağdınısağır","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+      {"word":"05414629832","label":"O"},{"word":"çadir","label":"O"},{"word":"ihtiyaci","label":"O"},{"word":"var","label":"O"}
+    ]
+  },
+  {
+    "sentence": "çekmece mahallesi çekmece caddesi 408 sokak defne hatay dilan bostancioglu 0 535 824 25 06 yardım eder misiniz enkazdan kurtuldular acil battaniye mont ayakkabı ihtiyaçları var mağdur durumdalar",
+    "labels": [
+      {"word":"çekmece","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"çekmece","label":"B-LOC"},{"word":"caddesi","label":"I-LOC"},
+      {"word":"408","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},
+      {"word":"defne","label":"B-LOC"},{"word":"hatay","label":"I-LOC"},
+      {"word":"dilan","label":"O"},{"word":"bostancioglu","label":"O"},
+      {"word":"0","label":"O"},{"word":"535","label":"O"},{"word":"824","label":"O"},{"word":"25","label":"O"},{"word":"06","label":"O"} 
+    ]
+  },
+  {
+    "sentence": "adıyaman besni oyali köyde cok zor durumdaymis orayada acil yardim enkaz altinda cok insan varmis henuz oraya ekip gitmis butun evler yıkılmış",
+    "labels": [
+      {"word":"adıyaman","label":"B-LOC"},{"word":"besni","label":"I-LOC"},
+      {"word":"oyali","label":"B-LOC"},{"word":"köyde","label":"I-LOC"},
+      {"word":"cok","label":"O"},{"word":"zor","label":"O"},{"word":"durumdaymis","label":"O"}
+    ]
+  },
+  {
+    "sentence": "kahramanmaraş kuddisi bava blv 3 gözler apartmanı hala haber alınamıyor enkaz altında raziye doğan acil lütfen yardım edin",
+    "labels": [
+      {"word":"kahramanmaraş","label":"B-LOC"},
+      {"word":"kuddisi","label":"B-LOC"},{"word":"bava","label":"I-LOC"},{"word":"blv","label":"I-LOC"},
+      {"word":"3","label":"B-LOC"},{"word":"gözler","label":"I-LOC"},{"word":"apartmanı","label":"I-LOC"},
+      {"word":"hala","label":"O"},{"word":"haber","label":"O"}
+    ]
+  },
+  {
+    "sentence": "ekinci mah inönü bulvarı gökkuşağı apartmanı 741 4 kat 16 numara hatayantakya meltem doğru bülent doğru özge doğru ibrahim doğru enkazdan ses geliyor acil yardım",
+    "labels": [
+      {"word":"ekinci","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+      {"word":"inönü","label":"B-LOC"},{"word":"bulvarı","label":"I-LOC"},
+      {"word":"gökkuşağı","label":"B-LOC"},{"word":"apartmanı","label":"I-LOC"},
+      {"word":"741","label":"B-LOC"},{"word":"4","label":"I-LOC"},{"word":"kat","label":"I-LOC"},{"word":"16","label":"I-LOC"},{"word":"numara","label":"I-LOC"},
+      {"word":"hatayantakya","label":"B-LOC"},
+      {"word":"meltem","label":"O"},{"word":"doğru","label":"O"} 
+    ]
+  },
+  {
+    "sentence": "akevler mah 432sokak torunlar apt no8 içkapıno7 hatay antakya hamis mertcan güler 90 538 490 91 51 teyitli güncel acil yardım",
+    "labels": [
+      {"word":"akevler","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+      {"word":"432sokak","label":"B-LOC"},
+      {"word":"torunlar","label":"B-LOC"},{"word":"apt","label":"I-LOC"},
+      {"word":"no8","label":"I-LOC"},{"word":"içkapıno7","label":"I-LOC"},
+      {"word":"hatay","label":"B-LOC"},{"word":"antakya","label":"I-LOC"},
+      {"word":"hamis","label":"O"},{"word":"mertcan","label":"O"},{"word":"güler","label":"O"}
+    ]
+  },
+  {
+    "sentence": "hatay antakya akasya mahallesi 100 sokak no84 elif melisa allah rızası için yardım gönderin 40 saattir enkaz altındayım",
+    "labels": [
+      {"word":"hatay","label":"B-LOC"},{"word":"antakya","label":"I-LOC"},
+      {"word":"akasya","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"100","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},
+      {"word":"no84","label":"I-LOC"},
+      {"word":"elif","label":"O"},{"word":"melisa","label":"O"} 
+    ]
+  },
+  {
+    "sentence": "turunçlu mahallesi şehit hakan üç yıldız ilkokulu bahçesi defne hatay hamile kadına rhogam iğnesi lazım acil yardım",
+    "labels": [
+      {"word":"turunçlu","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"şehit","label":"B-LOC"},{"word":"hakan","label":"I-LOC"},{"word":"üç","label":"I-LOC"},{"word":"yıldız","label":"I-LOC"},{"word":"ilkokulu","label":"I-LOC"},{"word":"bahçesi","label":"I-LOC"},
+      {"word":"defne","label":"B-LOC"},{"word":"hatay","label":"I-LOC"} 
+    ]
+  },
+  {
+    "sentence": "cebrail mah fatih cad no13 katipoğlu apt hatayantakya begüm annesi ve binadaki diğer insanların acil yardıma ihtiyacı var",
+    "labels": [
+      {"word":"cebrail","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+      {"word":"fatih","label":"B-LOC"},{"word":"cad","label":"I-LOC"},
+      {"word":"no13","label":"I-LOC"},
+      {"word":"katipoğlu","label":"B-LOC"},{"word":"apt","label":"I-LOC"},
+      {"word":"hatayantakya","label":"B-LOC"}
+    ]
+  },
+  {
+    "sentence": "kahramanmaraş dulkadiroğlu maraş valiliği yani ismetpaşa mah şehit mücahit şimsek sok konak apartmani 17 yaşında zeynepin enkaz altından sesi geliyor acil vinç araniyor",
+    "labels": [
+      {"word":"kahramanmaraş","label":"B-LOC"},
+      {"word":"dulkadiroğlu","label":"B-LOC"},
+      {"word":"maraş","label":"B-LOC"},{"word":"valiliği","label":"I-LOC"},
+      {"word":"yani","label":"O"},
+      {"word":"ismetpaşa","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+      {"word":"şehit","label":"B-LOC"},{"word":"mücahit","label":"I-LOC"},{"word":"şimsek","label":"I-LOC"},{"word":"sok","label":"I-LOC"},
+      {"word":"konak","label":"B-LOC"},{"word":"apartmani","label":"I-LOC"} 
+    ]
+  },
+  {
+    "sentence": "harbiye ma destan sokak semir apartman no2 destan hatay 9 kişiler 3ü bebek acil mama bez ped çadır ısıtıcı besin gerekli",
+    "labels": [
+      {"word":"harbiye","label":"B-LOC"},{"word":"ma","label":"I-LOC"},
+      {"word":"destan","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},
+      {"word":"semir","label":"B-LOC"},{"word":"apartman","label":"I-LOC"},
+      {"word":"no2","label":"I-LOC"},
+      {"word":"destan","label":"B-LOC"},
+      {"word":"hatay","label":"I-LOC"}
+    ]
+  },
+  {
+    "sentence": "hatayhassa söğüt köyü şuana kadar yardım ve ulaşım sağlanamamış lütfen bölgede bulunan arkadaşlarımız ilgilenirse çok sevinirim tel 0539 222 57 85",
+    "labels": [
+      {"word":"hatayhassa","label":"B-LOC"},
+      {"word":"söğüt","label":"B-LOC"},{"word":"köyü","label":"I-LOC"} 
+    ]
+  },
+  {
+    "sentence": "nurdağının gözlühöyük köyünün çok acil çadıra ve ısınmaya ihtiyacı var yardım ediiinn",
+    "labels": [
+      {"word":"nurdağının","label":"B-LOC"},
+      {"word":"gözlühöyük","label":"B-LOC"},{"word":"köyünün","label":"I-LOC"} 
+    ]
+  },
+  {
+    "sentence": "uzunbağ mahallesi filiz sokak no15a samandağ hatay iletişim numarası 90 537 777 50 07 veya 0537 297 2704 çok acil hiç yardım gitmemiş ailelere",
+    "labels": [
+      {"word":"uzunbağ","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"filiz","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},
+      {"word":"no15a","label":"I-LOC"},
+      {"word":"samandağ","label":"B-LOC"},{"word":"hatay","label":"I-LOC"} 
+    ]
+  },
+  {
+    "sentence": "güzelburç mahallesi 600 konut yapı koopkime evleri 600 konutlar sitesi 58blok no1ab antakyahatay vücut ısıları düşmüş enkaz altındalar lütfen acil yardım",
+    "labels": [
+      {"word":"güzelburç","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"600","label":"B-LOC"},{"word":"konut","label":"I-LOC"},{"word":"yapı","label":"I-LOC"},{"word":"koopkime","label":"I-LOC"},{"word":"evleri","label":"I-LOC"},
+      {"word":"600","label":"B-LOC"},{"word":"konutlar","label":"I-LOC"},{"word":"sitesi","label":"I-LOC"},
+      {"word":"58blok","label":"B-LOC"},
+      {"word":"no1ab","label":"I-LOC"},
+      {"word":"antakyahatay","label":"B-LOC"} 
+    ]
+  },{
+    "sentence": "acil insanların kardan ayakları kurumuyormuş yeterli yemek yok acil yardım gaziantep akkent sosyal tesisleri",
+    "labels": [
+      {"word":"acil","label":"O"},
+      {"word":"insanların","label":"O"},
+      {"word":"kardan","label":"O"},
+      {"word":"ayakları","label":"O"},
+      {"word":"kurumuyormuş","label":"O"},
+      {"word":"yeterli","label":"O"},
+      {"word":"yemek","label":"O"},
+      {"word":"yok","label":"O"},
+      {"word":"acil","label":"O"},
+      {"word":"yardım","label":"O"},
+      {"word":"gaziantep","label":"B-LOC"},
+      {"word":"akkent","label":"I-LOC"},
+      {"word":"sosyal","label":"I-LOC"},
+      {"word":"tesisleri","label":"I-LOC"}
+    ]
+  },
+  {
+    "sentence": "beydilli sok no94 acil yardıma muhtaç insanlar var yatalak hastaları var bı yere gidemiyorlar yiyecekleri yok yardim edin siz bugünler için varsınız",
+    "labels": [
+      {"word":"beydilli","label":"B-LOC"},
+      {"word":"sok","label":"I-LOC"},
+      {"word":"no94","label":"I-LOC"},
+      {"word":"acil","label":"O"},
+      {"word":"yardıma","label":"O"},
+      {"word":"muhtaç","label":"O"},
+      {"word":"insanlar","label":"O"},
+      {"word":"var","label":"O"},
+      {"word":"yatalak","label":"O"},
+      {"word":"hastaları","label":"O"},
+      {"word":"var","label":"O"},
+      {"word":"bı","label":"O"},
+      {"word":"yere","label":"O"},
+      {"word":"gidemiyorlar","label":"O"},
+      {"word":"yiyecekleri","label":"O"},
+      {"word":"yok","label":"O"},
+      {"word":"yardim","label":"O"},
+      {"word":"edin","label":"O"},
+      {"word":"siz","label":"O"},
+      {"word":"bugünler","label":"O"},
+      {"word":"için","label":"O"},
+      {"word":"varsınız","label":"O"}
+    ]
+  },
+  {
+    "sentence": "teyit 8i çocuk toplam 30 kişilik gruba henüz yardım gitmeyen bölgeye acil çadır ihtiyacı adres kömekavak mahallesi akçadağ malatya evin hemen bitişiğinde açık alandalar iletişim 0537 737 82 23 gözde tura",
+    "labels": [
+      {"word":"teyit","label":"O"},
+      {"word":"8i","label":"O"},{"word":"çocuk","label":"O"},{"word":"toplam","label":"O"},
+      {"word":"30","label":"O"},{"word":"kişilik","label":"O"},{"word":"gruba","label":"O"},
+      {"word":"henüz","label":"O"},{"word":"yardım","label":"O"},{"word":"gitmeyen","label":"O"},
+      {"word":"bölgeye","label":"O"},{"word":"acil","label":"O"},{"word":"çadır","label":"O"},
+      {"word":"ihtiyacı","label":"O"},{"word":"adres","label":"O"},
+      {"word":"kömekavak","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"akçadağ","label":"B-LOC"},{"word":"malatya","label":"I-LOC"},
+      {"word":"evin","label":"O"},{"word":"hemen","label":"O"},{"word":"bitişiğinde","label":"O"},
+      {"word":"açık","label":"O"},{"word":"alandalar","label":"O"},
+      {"word":"iletişim","label":"O"},{"word":"0537","label":"O"},{"word":"737","label":"O"},
+      {"word":"82","label":"O"},{"word":"23","label":"O"},{"word":"gözde","label":"O"},
+      {"word":"tura","label":"O"}
+    ]
+  },
+  {
+    "sentence": "akevler mah 432sokak torunlar apt no8 içkapıno7 hatay antakya hamis mertcan güler 90 538 490 91 51 enkazda yaşıyor nolur yardım",
+    "labels": [
+      {"word":"akevler","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+      {"word":"432sokak","label":"B-LOC"},{"word":"torunlar","label":"B-LOC"},
+      {"word":"apt","label":"I-LOC"},{"word":"no8","label":"I-LOC"},
+      {"word":"içkapıno7","label":"I-LOC"},
+      {"word":"hatay","label":"B-LOC"},{"word":"antakya","label":"I-LOC"},
+      {"word":"hamis","label":"O"},{"word":"mertcan","label":"O"},{"word":"güler","label":"O"},
+      {"word":"90","label":"O"},{"word":"538","label":"O"},{"word":"490","label":"O"},
+      {"word":"91","label":"O"},{"word":"51","label":"O"},
+      {"word":"enkazda","label":"O"},{"word":"yaşıyor","label":"O"},
+      {"word":"nolur","label":"O"},{"word":"yardım","label":"O"}
+    ]
+  },
+  {
+    "sentence": "kahramanmaraş afşin arıtaş köyü bebekler var ve açlar yardım ulaşmıyor yardım bekliyorlar çok acil beyza türkmen 0536 412 35 37",
+    "labels": [
+      {"word":"kahramanmaraş","label":"B-LOC"},
+      {"word":"afşin","label":"I-LOC"},
+      {"word":"arıtaş","label":"B-LOC"},{"word":"köyü","label":"I-LOC"},
+      {"word":"bebekler","label":"O"},{"word":"var","label":"O"},{"word":"ve","label":"O"},
+      {"word":"açlar","label":"O"},{"word":"yardım","label":"O"},{"word":"ulaşmıyor","label":"O"},
+      {"word":"yardım","label":"O"},{"word":"bekliyorlar","label":"O"},{"word":"çok","label":"O"},
+      {"word":"acil","label":"O"},{"word":"beyza","label":"O"},{"word":"türkmen","label":"O"},
+      {"word":"0536","label":"O"},{"word":"412","label":"O"},{"word":"35","label":"O"},{"word":"37","label":"O"}
+    ]
+  },
+  {
+    "sentence": "armutlu mah gündüz caddesimehmet nurlu apt 5 kişi mahsur yardım lazım acil",
+    "labels": [
+      {"word":"armutlu","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+      {"word":"gündüz","label":"B-LOC"},{"word":"caddesimehmet","label":"I-LOC"},
+      {"word":"nurlu","label":"I-LOC"},{"word":"apt","label":"I-LOC"},
+      {"word":"5","label":"O"},{"word":"kişi","label":"O"},{"word":"mahsur","label":"O"},
+      {"word":"yardım","label":"O"},{"word":"lazım","label":"O"},{"word":"acil","label":"O"}
+    ]
+  },
+  {
+    "sentence": "acilinsanların kardan ayakları kurumuyormuş yeterli yemek yok acil yardım gaziantep akkent sosyal tesisleri",
+    "labels": [
+      {"word":"acilinsanların","label":"O"},{"word":"kardan","label":"O"},{"word":"ayakları","label":"O"},
+      {"word":"kurumuyormuş","label":"O"},{"word":"yeterli","label":"O"},{"word":"yemek","label":"O"},
+      {"word":"yok","label":"O"},{"word":"acil","label":"O"},{"word":"yardım","label":"O"},
+      {"word":"gaziantep","label":"B-LOC"},{"word":"akkent","label":"I-LOC"},
+      {"word":"sosyal","label":"I-LOC"},{"word":"tesisleri","label":"I-LOC"}
+    ]
+  },
+  {
+    "sentence": "bilek mahallesi 12018 nolu sokak no 51 şehitkamil gaziantep",
+    "labels": [
+      {"word":"bilek","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"12018","label":"B-LOC"},{"word":"nolu","label":"I-LOC"},
+      {"word":"sokak","label":"I-LOC"},{"word":"no","label":"B-LOC"},
+      {"word":"51","label":"I-LOC"},{"word":"şehitkamil","label":"B-LOC"},
+      {"word":"gaziantep","label":"I-LOC"}
+    ]
+  },
+  {
+    "sentence": "malatya merkez acil yardım",
+    "labels": [
+      {"word":"malatya","label":"B-LOC"},{"word":"merkez","label":"I-LOC"},
+      {"word":"acil","label":"O"},{"word":"yardım","label":"O"}
+    ]
+  },{
+    "sentence": "hızlıca yayar mısınız arkadaşlar allah rızası için yardım gönderin 40 saattir enkaz altındayım şarjım var internetim var ama sesimi duyuramiyorum burnumdan kan geliyor hatay antakya akasya mahallesi 100 sokak no84 elif melisa teyitli bilgi",
+    "labels": [
+      {"word":"hızlıca","label":"O"},{"word":"yayar","label":"O"},{"word":"mısınız","label":"O"},
+      {"word":"arkadaşlar","label":"O"},{"word":"allah","label":"O"},{"word":"rızası","label":"O"},
+      {"word":"için","label":"O"},{"word":"yardım","label":"O"},{"word":"gönderin","label":"O"},
+      {"word":"40","label":"O"},{"word":"saattir","label":"O"},{"word":"enkaz","label":"O"},
+      {"word":"altındayım","label":"O"},{"word":"şarjım","label":"O"},{"word":"var","label":"O"},
+      {"word":"internetim","label":"O"},{"word":"var","label":"O"},{"word":"ama","label":"O"},
+      {"word":"sesimi","label":"O"},{"word":"duyuramiyorum","label":"O"},{"word":"burnumdan","label":"O"},
+      {"word":"kan","label":"O"},{"word":"geliyor","label":"O"},
+      {"word":"hatay","label":"B-LOC"},{"word":"antakya","label":"I-LOC"},
+      {"word":"akasya","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"100","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},{"word":"no84","label":"I-LOC"},
+      {"word":"elif","label":"O"},{"word":"melisa","label":"O"},{"word":"teyitli","label":"O"},{"word":"bilgi","label":"O"}
+    ]
+  },
+  {
+    "sentence": "maraş merkeze bağlı önsen köyü acil yardıma ihtiyacı var bırakın çadırı yiyecek ekmek bile yokmuş soğukta dışarıda yatıyorlar lütfen yardım gitmesi için sesimizi duyurun",
+    "labels": [
+      {"word":"maraş","label":"B-LOC"},{"word":"merkeze","label":"I-LOC"},
+      {"word":"bağlı","label":"O"},{"word":"önsen","label":"B-LOC"},{"word":"köyü","label":"I-LOC"},
+      {"word":"acil","label":"O"},{"word":"yardıma","label":"O"},{"word":"ihtiyacı","label":"O"},
+      {"word":"var","label":"O"},{"word":"bırakın","label":"O"},{"word":"çadırı","label":"O"},
+      {"word":"yiyecek","label":"O"},{"word":"ekmek","label":"O"},{"word":"bile","label":"O"},
+      {"word":"yokmuş","label":"O"},{"word":"soğukta","label":"O"},{"word":"dışarıda","label":"O"},
+      {"word":"yatıyorlar","label":"O"},{"word":"lütfen","label":"O"},{"word":"yardım","label":"O"},
+      {"word":"gitmesi","label":"O"},{"word":"için","label":"O"},{"word":"sesimizi","label":"O"},
+      {"word":"duyurun","label":"O"}
+    ]
+  },
+  {
+    "sentence": "acil yardım arkadaşımın annesi ve babası göçük altında cebrail mah işık cad emlakbank evleri 1 kısım hatay daha yeni kendi imkanlarıyla enkaz kaldırmaya çalışıyorlar",
+    "labels": [
+      {"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"arkadaşımın","label":"O"},
+      {"word":"annesi","label":"O"},{"word":"ve","label":"O"},{"word":"babası","label":"O"},
+      {"word":"göçük","label":"O"},{"word":"altında","label":"O"},
+      {"word":"cebrail","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+      {"word":"ışık","label":"B-LOC"},{"word":"cad","label":"I-LOC"},
+      {"word":"emlakbank","label":"B-LOC"},{"word":"evleri","label":"I-LOC"},
+      {"word":"1","label":"B-LOC"},{"word":"kısım","label":"I-LOC"},
+      {"word":"hatay","label":"B-LOC"},
+      {"word":"daha","label":"O"},{"word":"yeni","label":"O"},{"word":"kendi","label":"O"},
+      {"word":"imkanlarıyla","label":"O"},{"word":"enkaz","label":"O"},
+      {"word":"kaldırmaya","label":"O"},{"word":"çalışıyorlar","label":"O"}
+    ]
+  },
+  {
+    "sentence": "adana güzelyalı mahallesi zeray apartmanı en üst kat ama merdiven boşluğundayız diye haber geldi armağan gül 17 yaşında yeşil gözlü hafif uzun saçlı boy 174 çok kişiyiz diye mesaj geldi lütfen acil yardım gerekiyor",
+    "labels": [
+      {"word":"adana","label":"B-LOC"},{"word":"güzelyalı","label":"B-LOC"},
+      {"word":"mahallesi","label":"I-LOC"},{"word":"zeray","label":"B-LOC"},
+      {"word":"apartmanı","label":"I-LOC"},
+      {"word":"en","label":"O"},{"word":"üst","label":"O"},{"word":"kat","label":"O"},
+      {"word":"ama","label":"O"},{"word":"merdiven","label":"O"},{"word":"boşluğundayız","label":"O"},
+      {"word":"diye","label":"O"},{"word":"haber","label":"O"},{"word":"geldi","label":"O"},
+      {"word":"armağan","label":"O"},{"word":"gül","label":"O"},
+      {"word":"17","label":"O"},{"word":"yaşında","label":"O"},{"word":"yeşil","label":"O"},
+      {"word":"gözlü","label":"O"},{"word":"hafif","label":"O"},{"word":"uzun","label":"O"},
+      {"word":"saçlı","label":"O"},{"word":"boy","label":"O"},{"word":"174","label":"O"},
+      {"word":"çok","label":"O"},{"word":"kişiyiz","label":"O"},{"word":"diye","label":"O"},
+      {"word":"mesaj","label":"O"},{"word":"geldi","label":"O"},{"word":"lütfen","label":"O"},
+      {"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"gerekiyor","label":"O"}
+    ]
+  },
+  {
+    "sentence": "besni köylerinde insanlar yardım bekliyorlar soğuktan donmak üzereler acil yardım",
+    "labels": [
+      {"word":"besni","label":"B-LOC"},{"word":"köylerinde","label":"I-LOC"},
+      {"word":"insanlar","label":"O"},{"word":"yardım","label":"O"},{"word":"bekliyorlar","label":"O"},
+      {"word":"soğuktan","label":"O"},{"word":"donmak","label":"O"},{"word":"üzereler","label":"O"},
+      {"word":"acil","label":"O"},{"word":"yardım","label":"O"}
+    ]
+  },
+  {
+    "sentence": "adiyaman merkez yeni mahalle piri reis caddesi mehmet arık 05418854751 5396605414 iki numarada açik 3 aile 10 kişi 4 küçük çoçuk acil bez ihtiyacı yemek kıyafet çadir sokakta kaliyolar acil yardım gerekli hocam durum çok acil",
+    "labels": [
+      {"word":"adiyaman","label":"B-LOC"},{"word":"merkez","label":"I-LOC"},
+      {"word":"yeni","label":"B-LOC"},{"word":"mahalle","label":"I-LOC"},
+      {"word":"piri","label":"B-LOC"},{"word":"reis","label":"I-LOC"},
+      {"word":"caddesi","label":"I-LOC"},
+      {"word":"mehmet","label":"O"},{"word":"arık","label":"O"},
+      {"word":"05418854751","label":"O"},{"word":"5396605414","label":"O"},
+      {"word":"iki","label":"O"},{"word":"numarada","label":"O"},{"word":"açik","label":"O"},
+      {"word":"3","label":"O"},{"word":"aile","label":"O"},{"word":"10","label":"O"},{"word":"kişi","label":"O"},
+      {"word":"4","label":"O"},{"word":"küçük","label":"O"},{"word":"çoçuk","label":"O"},
+      {"word":"acil","label":"O"},{"word":"bez","label":"O"},{"word":"ihtiyacı","label":"O"},
+      {"word":"yemek","label":"O"},{"word":"kıyafet","label":"O"},{"word":"çadir","label":"O"},
+      {"word":"sokakta","label":"O"},{"word":"kaliyolar","label":"O"},
+      {"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"gerekli","label":"O"},
+      {"word":"hocam","label":"O"},{"word":"durum","label":"O"},{"word":"çok","label":"O"},
+      {"word":"acil","label":"O"}
+    ]
+  },
+  {
+    "sentence": "hasan tütün mah şekip önder caddesi üzümkent besniadıyaman vinç gerekiyormuş",
+    "labels": [
+      {"word":"hasan","label":"B-LOC"},{"word":"tütün","label":"I-LOC"},
+      {"word":"mah","label":"I-LOC"},{"word":"şekip","label":"B-LOC"},
+      {"word":"önder","label":"I-LOC"},{"word":"caddesi","label":"I-LOC"},
+      {"word":"üzümkent","label":"B-LOC"},
+      {"word":"besniadıyaman","label":"B-LOC"},
+      {"word":"vinç","label":"O"},{"word":"gerekiyormuş","label":"O"}
+    ]
+  },
+  {
+    "sentence": "istanbul anadolu yakası için afad kartal yardım toplama lojistik merkezinde acil insan gücü desteği adres afad lojistik destek merkezi kartal depolarıadres inönü caddesi no143 esentepe mahallesi kartal gece sabaha kadar insani güce ihtiyaç var",
+    "labels": [
+      {"word":"istanbul","label":"B-LOC"},{"word":"anadolu","label":"I-LOC"},
+      {"word":"yakası","label":"I-LOC"},
+      {"word":"için","label":"O"},{"word":"afad","label":"O"},{"word":"kartal","label":"B-LOC"},
+      {"word":"yardım","label":"O"},{"word":"toplama","label":"O"},{"word":"lojistik","label":"O"},
+      {"word":"merkezinde","label":"O"},{"word":"acil","label":"O"},{"word":"insan","label":"O"},
+      {"word":"gücü","label":"O"},{"word":"desteği","label":"O"},{"word":"adres","label":"O"},
+      {"word":"afad","label":"O"},{"word":"lojistik","label":"O"},{"word":"destek","label":"O"},
+      {"word":"merkezi","label":"O"},{"word":"kartal","label":"B-LOC"},
+      {"word":"depolarıadres","label":"O"},
+      {"word":"inönü","label":"B-LOC"},{"word":"caddesi","label":"I-LOC"},
+      {"word":"no143","label":"I-LOC"},{"word":"esentepe","label":"B-LOC"},
+      {"word":"mahallesi","label":"I-LOC"},{"word":"kartal","label":"B-LOC"},
+      {"word":"gece","label":"O"},{"word":"sabaha","label":"O"},{"word":"kadar","label":"O"},
+      {"word":"insani","label":"O"},{"word":"güce","label":"O"},{"word":"ihtiyaç","label":"O"},
+      {"word":"var","label":"O"}
+    ]
+  },
+  {
+    "sentence": "gaziantepde hatice vural ve babası hâlâ enkaz altında acil yardım ekipleri gönderin lütfen rt yapın hacı ali öztürk mahallesi mezbahane caddesi zaman apartmanı bblok kat 3 no10 islahiyegaziantep",
+    "labels": [
+      {"word":"gaziantepde","label":"B-LOC"},
+      {"word":"hatice","label":"O"},{"word":"vural","label":"O"},{"word":"ve","label":"O"},
+      {"word":"babası","label":"O"},{"word":"hâlâ","label":"O"},{"word":"enkaz","label":"O"},
+      {"word":"altında","label":"O"},{"word":"acil","label":"O"},{"word":"yardım","label":"O"},
+      {"word":"ekipleri","label":"O"},{"word":"gönderin","label":"O"},{"word":"lütfen","label":"O"},
+      {"word":"rt","label":"O"},{"word":"yapın","label":"O"},
+      {"word":"hacı","label":"B-LOC"},{"word":"ali","label":"I-LOC"},
+      {"word":"öztürk","label":"I-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"mezbahane","label":"B-LOC"},{"word":"caddesi","label":"I-LOC"},
+      {"word":"zaman","label":"B-LOC"},{"word":"apartmanı","label":"I-LOC"},
+      {"word":"bblok","label":"I-LOC"},{"word":"kat","label":"B-LOC"},
+      {"word":"3","label":"I-LOC"},{"word":"no10","label":"I-LOC"},
+      {"word":"islahiyegaziantep","label":"B-LOC"}
+    ]
+  },
+  {
+    "sentence": "gaziantep şehitkamil ibrahimli naci topçuoğlu bulvari ayse mehmet polat sitesi ailemiz enkaz altinda ekipman yetersiz hâlâ bekliyoruz yardım edin acil",
+    "labels": [
+      {"word":"gaziantep","label":"B-LOC"},{"word":"şehitkamil","label":"I-LOC"},
+      {"word":"ibrahimli","label":"B-LOC"},{"word":"naci","label":"I-LOC"},
+      {"word":"topçuoğlu","label":"I-LOC"},{"word":"bulvari","label":"I-LOC"},
+      {"word":"ayse","label":"O"},{"word":"mehmet","label":"O"},{"word":"polat","label":"O"},
+      {"word":"sitesi","label":"O"},
+      {"word":"ailemiz","label":"O"},{"word":"enkaz","label":"O"},{"word":"altinda","label":"O"},
+      {"word":"ekipman","label":"O"},{"word":"yetersiz","label":"O"},
+      {"word":"hâlâ","label":"O"},{"word":"bekliyoruz","label":"O"},
+      {"word":"yardım","label":"O"},{"word":"edin","label":"O"},{"word":"acil","label":"O"}
+    ]
+  },{
+    "sentence": "depremin derin üzüntüsünü yaşıyoruz ilk günden itibaren afad ve diğer kurumlarla hızlıca iletişime geçerek battaniye yorgan tencere gibi acil ihtiyaçları deprem bölgesine gönderdik önümüzdeki dönemde de başta mutfak malzemeleri olmak üzere yardım sağlamaya devam edeceğiz",
+    "labels": [
+      {"word":"depremin","label":"O"},{"word":"derin","label":"O"},{"word":"üzüntüsünü","label":"O"},
+      {"word":"yaşıyoruz","label":"O"},{"word":"ilk","label":"O"},{"word":"günden","label":"O"},
+      {"word":"itibaren","label":"O"},{"word":"afad","label":"O"},{"word":"ve","label":"O"},
+      {"word":"diğer","label":"O"},{"word":"kurumlarla","label":"O"},{"word":"hızlıca","label":"O"},
+      {"word":"iletişime","label":"O"},{"word":"geçerek","label":"O"},{"word":"battaniye","label":"O"},
+      {"word":"yorgan","label":"O"},{"word":"tencere","label":"O"},{"word":"gibi","label":"O"},
+      {"word":"acil","label":"O"},{"word":"ihtiyaçları","label":"O"},{"word":"deprem","label":"O"},
+      {"word":"bölgesine","label":"O"},{"word":"gönderdik","label":"O"},{"word":"önümüzdeki","label":"O"},
+      {"word":"dönemde","label":"O"},{"word":"de","label":"O"},{"word":"başta","label":"O"},
+      {"word":"mutfak","label":"O"},{"word":"malzemeleri","label":"O"},{"word":"olmak","label":"O"},
+      {"word":"üzere","label":"O"},{"word":"yardım","label":"O"},{"word":"sağlamaya","label":"O"},
+      {"word":"devam","label":"O"},{"word":"edeceğiz","label":"O"}
+    ]
+  },
+  {
+    "sentence": "kahramanmaraş çağlayancerit ilçesine acil ısıtıcı odun yardımı yapılsın ordaki insanlar soğuğa dayanamıyor acill yardım",
+    "labels": [
+      {"word":"kahramanmaraş","label":"B-LOC"},{"word":"çağlayancerit","label":"I-LOC"},
+      {"word":"ilçesine","label":"I-LOC"},
+      {"word":"acil","label":"O"},{"word":"ısıtıcı","label":"O"},{"word":"odun","label":"O"},
+      {"word":"yardımı","label":"O"},{"word":"yapılsın","label":"O"},{"word":"ordaki","label":"O"},
+      {"word":"insanlar","label":"O"},{"word":"soğuğa","label":"O"},{"word":"dayanamıyor","label":"O"},
+      {"word":"acill","label":"O"},{"word":"yardım","label":"O"}
+    ]
+  },
+  {
+    "sentence": "depremin derin üzüntüsünü yaşıyoruz ilk günden itibaren afad ve diğer kurumlarla hızlıca iletişime geçerek battaniye yorgan tencere gibi acil ihtiyaçları deprem bölgesine gönderdik önümüzdeki dönemde de başta mutfak malzemeleri olmak üzere yardım sağlamaya devam edeceğiz",
+    "labels":[
+      {"word":"depremin","label":"O"},{"word":"derin","label":"O"},{"word":"üzüntüsünü","label":"O"},
+      {"word":"yaşıyoruz","label":"O"},{"word":"ilk","label":"O"},{"word":"günden","label":"O"},
+      {"word":"itibaren","label":"O"},{"word":"afad","label":"O"},{"word":"ve","label":"O"},
+      {"word":"diğer","label":"O"},{"word":"kurumlarla","label":"O"},{"word":"hızlıca","label":"O"},
+      {"word":"iletişime","label":"O"},{"word":"geçerek","label":"O"},{"word":"battaniye","label":"O"},
+      {"word":"yorgan","label":"O"},{"word":"tencere","label":"O"},{"word":"gibi","label":"O"},
+      {"word":"acil","label":"O"},{"word":"ihtiyaçları","label":"O"},{"word":"deprem","label":"O"},
+      {"word":"bölgesine","label":"O"},{"word":"gönderdik","label":"O"},{"word":"önümüzdeki","label":"O"},
+      {"word":"dönemde","label":"O"},{"word":"de","label":"O"},{"word":"başta","label":"O"},
+      {"word":"mutfak","label":"O"},{"word":"malzemeleri","label":"O"},{"word":"olmak","label":"O"},
+      {"word":"üzere","label":"O"},{"word":"yardım","label":"O"},{"word":"sağlamaya","label":"O"},
+      {"word":"devam","label":"O"},{"word":"edeceğiz","label":"O"}
+    ]
+  },
+  {
+    "sentence": "depremin derin üzüntüsünü yaşıyoruz ilk günden itibaren afad ve diğer kurumlarla hızlıca iletişime geçerek battaniye yorgan tencere gibi acil ihtiyaçları deprem bölgesine gönderdik önümüzdeki dönemde de başta mutfak malzemeleri olmak üzere yardım sağlamaya devam edeceğiz",
+    "labels":[
+      {"word":"depremin","label":"O"},{"word":"derin","label":"O"},{"word":"üzüntüsünü","label":"O"},
+      {"word":"yaşıyoruz","label":"O"},{"word":"ilk","label":"O"},{"word":"günden","label":"O"},
+      {"word":"itibaren","label":"O"},{"word":"afad","label":"O"},{"word":"ve","label":"O"},
+      {"word":"diğer","label":"O"},{"word":"kurumlarla","label":"O"},{"word":"hızlıca","label":"O"},
+      {"word":"iletişime","label":"O"},{"word":"geçerek","label":"O"},{"word":"battaniye","label":"O"},
+      {"word":"yorgan","label":"O"},{"word":"tencere","label":"O"},{"word":"gibi","label":"O"},
+      {"word":"acil","label":"O"},{"word":"ihtiyaçları","label":"O"},{"word":"deprem","label":"O"},
+      {"word":"bölgesine","label":"O"},{"word":"gönderdik","label":"O"},{"word":"önümüzdeki","label":"O"},
+      {"word":"dönemde","label":"O"},{"word":"de","label":"O"},{"word":"başta","label":"O"},
+      {"word":"mutfak","label":"O"},{"word":"malzemeleri","label":"O"},{"word":"olmak","label":"O"},
+      {"word":"üzere","label":"O"},{"word":"yardım","label":"O"},{"word":"sağlamaya","label":"O"},
+      {"word":"devam","label":"O"},{"word":"edeceğiz","label":"O"}
+    ]
+  },
+  {
+    "sentence": "zafer caddesi yeniyol 12 sokak no 1 durucasu yazıhan malatya yardım gitmemiş acil ihtiyaç var",
+    "labels":[
+      {"word":"zafer","label":"B-LOC"},{"word":"caddesi","label":"I-LOC"},
+      {"word":"yeniyol","label":"B-LOC"},{"word":"12","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},
+      {"word":"no","label":"B-LOC"},{"word":"1","label":"I-LOC"},
+      {"word":"durucasu","label":"B-LOC"},{"word":"yazıhan","label":"I-LOC"},{"word":"malatya","label":"I-LOC"},
+      {"word":"yardım","label":"O"},{"word":"gitmemiş","label":"O"},{"word":"acil","label":"O"},
+      {"word":"ihtiyaç","label":"O"},{"word":"var","label":"O"}
+    ]
+  },
+  {
+    "sentence": "enkaz altında bugün termal kamerayla bakılıp 4 kişinin canlı göründüğü söylenmiş hasan tütün mah şekip önder caddesi üzümkent besniadıyaman",
+    "labels":[
+      {"word":"enkaz","label":"O"},{"word":"altında","label":"O"},{"word":"bugün","label":"O"},
+      {"word":"termal","label":"O"},{"word":"kamerayla","label":"O"},{"word":"bakılıp","label":"O"},
+      {"word":"4","label":"O"},{"word":"kişinin","label":"O"},{"word":"canlı","label":"O"},
+      {"word":"göründüğü","label":"O"},{"word":"söylenmiş","label":"O"},
+      {"word":"hasan","label":"B-LOC"},{"word":"tütün","label":"I-LOC"},{"word":"mah","label":"I-LOC"},
+      {"word":"şekip","label":"B-LOC"},{"word":"önder","label":"I-LOC"},{"word":"caddesi","label":"I-LOC"},
+      {"word":"üzümkent","label":"B-LOC"},{"word":"besniadıyaman","label":"I-LOC"}
+    ]
+  },
+  {
+    "sentence": "önemli antakya hatayda karaksı köyüne acil yardim gerekli kuru gida giysi su cadir yardimi yapilmasi gerekiyor hatay antakya karaksi köyü",
+    "labels":[
+      {"word":"önemli","label":"O"},{"word":"antakya","label":"B-LOC"},
+      {"word":"hatayda","label":"I-LOC"},{"word":"karaksı","label":"B-LOC"},{"word":"köyüne","label":"I-LOC"},
+      {"word":"acil","label":"O"},{"word":"yardim","label":"O"},{"word":"gerekli","label":"O"},
+      {"word":"kuru","label":"O"},{"word":"gida","label":"O"},{"word":"giysi","label":"O"},
+      {"word":"su","label":"O"},{"word":"cadir","label":"O"},{"word":"yardimi","label":"O"},
+      {"word":"yapilmasi","label":"O"},{"word":"gerekiyor","label":"O"},
+      {"word":"hatay","label":"B-LOC"},{"word":"antakya","label":"I-LOC"},
+      {"word":"karaksi","label":"I-LOC"},{"word":"köyü","label":"I-LOC"}
+    ]
+  },
+  {
+    "sentence": "adana güzelyalı mahallesi zeray apartmanı en üst kat ama merdiven boşluğundayız diye haber geldi armağan gül 17 yaşında yeşil gözlü hafif uzun saçlı boy 174 çok kişiyiz diye mesaj geldi lütfen acil yardım gerekiyor",
+    "labels":[
+      {"word":"adana","label":"B-LOC"},{"word":"güzelyalı","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"zeray","label":"B-LOC"},{"word":"apartmanı","label":"I-LOC"},
+      {"word":"en","label":"O"},{"word":"üst","label":"O"},{"word":"kat","label":"O"},
+      {"word":"ama","label":"O"},{"word":"merdiven","label":"O"},{"word":"boşluğundayız","label":"O"},
+      {"word":"diye","label":"O"},{"word":"haber","label":"O"},{"word":"geldi","label":"O"},
+      {"word":"armağan","label":"O"},{"word":"gül","label":"O"},{"word":"17","label":"O"},
+      {"word":"yaşında","label":"O"},{"word":"yeşil","label":"O"},{"word":"gözlü","label":"O"},
+      {"word":"hafif","label":"O"},{"word":"uzun","label":"O"},{"word":"saçlı","label":"O"},
+      {"word":"boy","label":"O"},{"word":"174","label":"O"},{"word":"çok","label":"O"},
+      {"word":"kişiyiz","label":"O"},{"word":"diye","label":"O"},{"word":"mesaj","label":"O"},
+      {"word":"geldi","label":"O"},{"word":"lütfen","label":"O"},{"word":"acil","label":"O"},
+      {"word":"yardım","label":"O"},{"word":"gerekiyor","label":"O"}
+    ]
+  },
+  {
+    "sentence": "acil yardim antakyahatay aile yardim bekliyor 1 engelli 4 çocuk ve ailesi için acil gıda çadır ve barınma ihtiyacı var aile yardım bekliyor serinyol mah akıncılar cad irfan sok seyit ali apt açık alandalar irtibat tamer olgar 05057829122",
+    "labels":[
+      {"word":"acil","label":"O"},{"word":"yardim","label":"O"},{"word":"antakyahatay","label":"B-LOC"},
+      {"word":"aile","label":"O"},{"word":"yardim","label":"O"},{"word":"bekliyor","label":"O"},
+      {"word":"1","label":"O"},{"word":"engelli","label":"O"},{"word":"4","label":"O"},
+      {"word":"çocuk","label":"O"},{"word":"ve","label":"O"},{"word":"ailesi","label":"O"},
+      {"word":"için","label":"O"},{"word":"acil","label":"O"},{"word":"gıda","label":"O"},
+      {"word":"çadır","label":"O"},{"word":"ve","label":"O"},{"word":"barınma","label":"O"},
+      {"word":"ihtiyacı","label":"O"},{"word":"var","label":"O"},{"word":"aile","label":"O"},
+      {"word":"yardım","label":"O"},{"word":"bekliyor","label":"O"},
+      {"word":"serinyol","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+      {"word":"akıncılar","label":"B-LOC"},{"word":"cad","label":"I-LOC"},
+      {"word":"irfan","label":"B-LOC"},{"word":"sok","label":"I-LOC"},
+      {"word":"seyit","label":"B-LOC"},{"word":"ali","label":"I-LOC"},
+      {"word":"apt","label":"I-LOC"},
+      {"word":"açık","label":"O"},{"word":"alandalar","label":"O"},
+      {"word":"irtibat","label":"O"},{"word":"tamer","label":"O"},{"word":"olgar","label":"O"},
+      {"word":"05057829122","label":"O"}
+    ]
+  },
+  {
+    "sentence": "acillll hatay acilll enkaz altindayım hataydayim şarjim 3 nefes alamıyorum annem ses vermiyor öldü galiba lütfen yayın bunu ekınci mah inonu cad b blok 3 kat nefes alamiyorum yardim edin",
+    "labels":[
+      {"word":"acillll","label":"O"},{"word":"hatay","label":"B-LOC"},{"word":"acilll","label":"O"},
+      {"word":"enkaz","label":"O"},{"word":"altindayım","label":"O"},{"word":"hataydayim","label":"B-LOC"},
+      {"word":"şarjim","label":"O"},{"word":"3","label":"O"},{"word":"nefes","label":"O"},
+      {"word":"alamıyorum","label":"O"},{"word":"annem","label":"O"},{"word":"ses","label":"O"},
+      {"word":"vermiyor","label":"O"},{"word":"öldü","label":"O"},{"word":"galiba","label":"O"},
+      {"word":"lütfen","label":"O"},{"word":"yayın","label":"O"},{"word":"bunu","label":"O"},
+      {"word":"ekınci","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+      {"word":"inonu","label":"B-LOC"},{"word":"cad","label":"I-LOC"},
+      {"word":"b","label":"B-LOC"},{"word":"blok","label":"I-LOC"},
+      {"word":"3","label":"B-LOC"},{"word":"kat","label":"I-LOC"},
+      {"word":"nefes","label":"O"},{"word":"alamiyorum","label":"O"},
+      {"word":"yardim","label":"O"},{"word":"edin","label":"O"}
+    ]
+  },
+  {
+    "sentence": "yeminler ediyoruz ses varyabancı ekip hassas ses cihazıyla ses tespit etti ne olur afad gelmeli bize yardim etmelisiniz cünkü umudumuz var sümerler mahallesi harbiye caddesi kooperatif evleri a3 blok iletişim çağatay gökdemir 0544 271 56 64 ndayim",
+    "labels":[
+      {"word":"yeminler","label":"O"},{"word":"ediyoruz","label":"O"},{"word":"ses","label":"O"},
+      {"word":"varyabancı","label":"O"},{"word":"ekip","label":"O"},{"word":"hassas","label":"O"},
+      {"word":"ses","label":"O"},{"word":"cihazıyla","label":"O"},{"word":"ses","label":"O"},
+      {"word":"tespit","label":"O"},{"word":"etti","label":"O"},{"word":"ne","label":"O"},
+      {"word":"olur","label":"O"},{"word":"afad","label":"O"},{"word":"gelmeli","label":"O"},
+      {"word":"bize","label":"O"},{"word":"yardim","label":"O"},{"word":"etmelisiniz","label":"O"},
+      {"word":"cünkü","label":"O"},{"word":"umudumuz","label":"O"},{"word":"var","label":"O"},
+      {"word":"sümerler","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"harbiye","label":"B-LOC"},{"word":"caddesi","label":"I-LOC"},
+      {"word":"kooperatif","label":"B-LOC"},{"word":"evleri","label":"I-LOC"},
+      {"word":"a3","label":"B-LOC"},{"word":"blok","label":"I-LOC"},
+      {"word":"iletişim","label":"O"},{"word":"çağatay","label":"O"},{"word":"gökdemir","label":"O"},
+      {"word":"0544","label":"O"},{"word":"271","label":"O"},{"word":"56","label":"O"},{"word":"64","label":"O"},
+      {"word":"ndayim","label":"O"}
+    ]
+  },{
+    "sentence": "enkazdayım yaşıyorum lütfen yardım edin susuz olduğum için bağıramıyorum sesim çıkmadığı için herkes gitti dedi akevler mah 432sokak torunlar apt no8 içkapıno7 hatay antakya hamis mertcan güler 90 538 490 91 51 teyitli güncel",
+    "labels": [
+      {"word":"enkazdayım","label":"O"},{"word":"yaşıyorum","label":"O"},{"word":"lütfen","label":"O"},
+      {"word":"yardım","label":"O"},{"word":"edin","label":"O"},{"word":"susuz","label":"O"},
+      {"word":"olduğum","label":"O"},{"word":"için","label":"O"},{"word":"bağıramıyorum","label":"O"},
+      {"word":"sesim","label":"O"},{"word":"çıkmadığı","label":"O"},{"word":"için","label":"O"},
+      {"word":"herkes","label":"O"},{"word":"gitti","label":"O"},{"word":"dedi","label":"O"},
+      {"word":"akevler","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+      {"word":"432sokak","label":"B-LOC"},
+      {"word":"torunlar","label":"B-LOC"},{"word":"apt","label":"I-LOC"},
+      {"word":"no8","label":"I-LOC"},{"word":"içkapıno7","label":"I-LOC"},
+      {"word":"hatay","label":"B-LOC"},{"word":"antakya","label":"I-LOC"},
+      {"word":"hamis","label":"O"},{"word":"mertcan","label":"O"},{"word":"güler","label":"O"},
+      {"word":"90","label":"O"},{"word":"538","label":"O"},{"word":"490","label":"O"},
+      {"word":"91","label":"O"},{"word":"51","label":"O"},{"word":"teyitli","label":"O"},
+      {"word":"güncel","label":"O"}
+    ]
+  },
+  {
+    "sentence": "merhaba şuan yardım iletebileceğimiz en güncel ve doğru hesap bilginiz hangisi acaba sağda solda dolandırıcı kimseler hesap paylaşıyor olabilir direkt sizden bilgi almak istedik acil yanıt rica ediyorum",
+    "labels": [
+      {"word":"merhaba","label":"O"},{"word":"şuan","label":"O"},{"word":"yardım","label":"O"},
+      {"word":"iletebileceğimiz","label":"O"},{"word":"en","label":"O"},{"word":"güncel","label":"O"},
+      {"word":"ve","label":"O"},{"word":"doğru","label":"O"},{"word":"hesap","label":"O"},
+      {"word":"bilginiz","label":"O"},{"word":"hangisi","label":"O"},{"word":"acaba","label":"O"},
+      {"word":"sağda","label":"O"},{"word":"solda","label":"O"},{"word":"dolandırıcı","label":"O"},
+      {"word":"kimseler","label":"O"},{"word":"hesap","label":"O"},{"word":"paylaşıyor","label":"O"},
+      {"word":"olabilir","label":"O"},{"word":"direkt","label":"O"},{"word":"sizden","label":"O"},
+      {"word":"bilgi","label":"O"},{"word":"almak","label":"O"},{"word":"istedik","label":"O"},
+      {"word":"acil","label":"O"},{"word":"yanıt","label":"O"},{"word":"rica","label":"O"},
+      {"word":"ediyorum","label":"O"}
+    ]
+  },
+  {
+    "sentence": "hala kuru bakliyat temizlik malzemesi ihtiyaçları var 17 kişiler 3 aile barınakta kalıyor çoğu kişi terliklerle kalmış acil bot ayakkabı kıyafet ihtiyaçları var lütfen yardım ulaştıralım artık saatlerdir bekliyorlar",
+    "labels": [
+      {"word":"hala","label":"O"},{"word":"kuru","label":"O"},{"word":"bakliyat","label":"O"},
+      {"word":"temizlik","label":"O"},{"word":"malzemesi","label":"O"},{"word":"ihtiyaçları","label":"O"},
+      {"word":"var","label":"O"},{"word":"17","label":"O"},{"word":"kişiler","label":"O"},
+      {"word":"3","label":"O"},{"word":"aile","label":"O"},{"word":"barınakta","label":"O"},
+      {"word":"kalıyor","label":"O"},{"word":"çoğu","label":"O"},{"word":"kişi","label":"O"},
+      {"word":"terliklerle","label":"O"},{"word":"kalmış","label":"O"},{"word":"acil","label":"O"},
+      {"word":"bot","label":"O"},{"word":"ayakkabı","label":"O"},{"word":"kıyafet","label":"O"},
+      {"word":"ihtiyaçları","label":"O"},{"word":"var","label":"O"},{"word":"lütfen","label":"O"},
+      {"word":"yardım","label":"O"},{"word":"ulaştıralım","label":"O"},{"word":"artık","label":"O"},
+      {"word":"saatlerdir","label":"O"},{"word":"bekliyorlar","label":"O"}
+    ]
+  },
+  {
+    "sentence": "şehit piyade mehmet demirbüken caddesi emek mahallesi 2 bahçeli sokak özcan apt hatay antakya çok acil yardım lazım retweet yaparmısınız lütfen yardım çok acil",
+    "labels": [
+      {"word":"şehit","label":"B-LOC"},{"word":"piyade","label":"I-LOC"},{"word":"mehmet","label":"I-LOC"},
+      {"word":"demirbüken","label":"I-LOC"},{"word":"caddesi","label":"I-LOC"},
+      {"word":"emek","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"2","label":"B-LOC"},{"word":"bahçeli","label":"I-LOC"},{"word":"sokak","label":"I-LOC"},
+      {"word":"özcan","label":"B-LOC"},{"word":"apt","label":"I-LOC"},
+      {"word":"hatay","label":"B-LOC"},{"word":"antakya","label":"I-LOC"},
+      {"word":"çok","label":"O"},{"word":"acil","label":"O"},{"word":"yardım","label":"O"},
+      {"word":"lazım","label":"O"},{"word":"retweet","label":"O"},{"word":"yaparmısınız","label":"O"},
+      {"word":"lütfen","label":"O"},{"word":"yardım","label":"O"},{"word":"çok","label":"O"},
+      {"word":"acil","label":"O"}
+    ]
+  },
+  {
+    "sentence": "adıyaman kahta ilçesi boğazkaya köyü hiç yardım çadır battaniye ısıtma gitmemiş aileler kalabalık acil yardıma ihtiyaç var yiyecek istemiyoruz acil çadır veya konteyner irtibat 05332617784 aykut güngör",
+    "labels": [
+      {"word":"adıyaman","label":"B-LOC"},{"word":"kahta","label":"I-LOC"},
+      {"word":"ilçesi","label":"I-LOC"},{"word":"boğazkaya","label":"B-LOC"},
+      {"word":"köyü","label":"I-LOC"},{"word":"hiç","label":"O"},{"word":"yardım","label":"O"},
+      {"word":"çadır","label":"O"},{"word":"battaniye","label":"O"},{"word":"ısıtma","label":"O"},
+      {"word":"gitmemiş","label":"O"},{"word":"aileler","label":"O"},{"word":"kalabalık","label":"O"},
+      {"word":"acil","label":"O"},{"word":"yardıma","label":"O"},{"word":"ihtiyaç","label":"O"},
+      {"word":"var","label":"O"},{"word":"yiyecek","label":"O"},{"word":"istemiyoruz","label":"O"},
+      {"word":"acil","label":"O"},{"word":"çadır","label":"O"},{"word":"veya","label":"O"},
+      {"word":"konteyner","label":"O"},{"word":"irtibat","label":"O"},
+      {"word":"05332617784","label":"O"},{"word":"aykut","label":"O"},{"word":"güngör","label":"O"}
+    ]
+  },
+
+  {
+    "sentence": "odabaşı ümrüm bulvarı defne öğretmenler sitesi 7 blok hatay antakya 0539 885 9895 oksijen maskesi lazim lütfen yardimci olun ndayim",
+    "labels": [
+      {"word":"odabaşı","label":"B-LOC"},{"word":"ümrüm","label":"I-LOC"},
+      {"word":"bulvarı","label":"I-LOC"},{"word":"defne","label":"B-LOC"},
+      {"word":"öğretmenler","label":"B-LOC"},{"word":"sitesi","label":"I-LOC"},
+      {"word":"7","label":"B-LOC"},{"word":"blok","label":"I-LOC"},
+      {"word":"hatay","label":"B-LOC"},{"word":"antakya","label":"I-LOC"},
+      {"word":"0539","label":"O"},{"word":"885","label":"O"},{"word":"9895","label":"O"},
+      {"word":"oksijen","label":"O"},{"word":"maskesi","label":"O"},{"word":"lazim","label":"O"},
+      {"word":"lütfen","label":"O"},{"word":"yardimci","label":"O"},{"word":"olun","label":"O"},
+      {"word":"ndayim","label":"O"}
+    ]
+  },
+  {
+    "sentence": "akevler mahallesi 4 akevler sokak iraz apartmanı antakya hatay acil adrese powerbank güç kaynağı lazım enkaz başında iletişim kuran ailenin telefonlarının şarjı bitiyor devamlı bir ihtiyaç durumu var çevrede yardım edebilecek birileri var mıdır",
+    "labels":[
+      {"word":"akevler","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"4","label":"B-LOC"},{"word":"akevler","label":"I-LOC"},
+      {"word":"sokak","label":"I-LOC"},{"word":"iraz","label":"B-LOC"},
+      {"word":"apartmanı","label":"I-LOC"},{"word":"antakya","label":"B-LOC"},
+      {"word":"hatay","label":"I-LOC"},
+      {"word":"acil","label":"O"},{"word":"adrese","label":"O"},{"word":"powerbank","label":"O"},
+      {"word":"güç","label":"O"},{"word":"kaynağı","label":"O"},{"word":"lazım","label":"O"},
+      {"word":"enkaz","label":"O"},{"word":"başında","label":"O"},{"word":"iletişim","label":"O"},
+      {"word":"kuran","label":"O"},{"word":"ailenin","label":"O"},{"word":"telefonlarının","label":"O"},
+      {"word":"şarjı","label":"O"},{"word":"bitiyor","label":"O"},{"word":"devamlı","label":"O"},
+      {"word":"bir","label":"O"},{"word":"ihtiyaç","label":"O"},{"word":"durumu","label":"O"},
+      {"word":"var","label":"O"},{"word":"çevrede","label":"O"},{"word":"yardım","label":"O"},
+      {"word":"edebilecek","label":"O"},{"word":"birileri","label":"O"},{"word":"var","label":"O"},
+      {"word":"mıdır","label":"O"}
+    ]
+  },
+
+  {
+    "sentence": "acil buraya yardim tlf no var en yakindakiler yardim ulaştirsin",
+    "labels":[
+      {"word":"acil","label":"O"},{"word":"buraya","label":"O"},{"word":"yardim","label":"O"},
+      {"word":"tlf","label":"O"},{"word":"no","label":"O"},{"word":"var","label":"O"},
+      {"word":"en","label":"O"},{"word":"yakindakiler","label":"O"},{"word":"yardim","label":"O"},
+      {"word":"ulaştirsin","label":"O"}
+    ]
+  },
+  {
+    "sentence": "gaziantep karacaaahmet şehit ömer halisdemir bulvarı no10927590 şehitkamil acil ihtiyaç bu adreste battaniye bebek bezi bebek maması temiz bebek kıyafeti ve su ayrıca burada bulundukları yerde çok fazla çocuk varmı",
+    "labels":[
+      {"word":"gaziantep","label":"B-LOC"},{"word":"karacaaahmet","label":"I-LOC"},
+      {"word":"şehit","label":"B-LOC"},{"word":"ömer","label":"I-LOC"},
+      {"word":"halisdemir","label":"I-LOC"},{"word":"bulvarı","label":"I-LOC"},
+      {"word":"no10927590","label":"B-LOC"},{"word":"şehitkamil","label":"I-LOC"},
+      {"word":"acil","label":"O"},{"word":"ihtiyaç","label":"O"},{"word":"bu","label":"O"},
+      {"word":"adreste","label":"O"},{"word":"battaniye","label":"O"},{"word":"bebek","label":"O"},
+      {"word":"bezi","label":"O"},{"word":"bebek","label":"O"},{"word":"maması","label":"O"},
+      {"word":"temiz","label":"O"},{"word":"bebek","label":"O"},{"word":"kıyafeti","label":"O"},
+      {"word":"ve","label":"O"},{"word":"su","label":"O"},{"word":"ayrıca","label":"O"},
+      {"word":"burada","label":"O"},{"word":"bulundukları","label":"O"},{"word":"yerde","label":"O"},
+      {"word":"çok","label":"O"},{"word":"fazla","label":"O"},{"word":"çocuk","label":"O"},
+      {"word":"varmı","label":"O"}
+    ]
+  },
+
+  {
+    "sentence": "gaziantep merkezde yardım yığılması var gaziantep köylerine çok acil yardım lazım ayrıyeten ped ve iç çamaşırı yardımı gerekiyor yardım edebilecek tırlar gerekiyor tuğçe organize edecek lütfen iletişim için",
+    "labels":[
+      {"word":"gaziantep","label":"B-LOC"},{"word":"merkezde","label":"I-LOC"},
+      {"word":"yardım","label":"O"},{"word":"yığılması","label":"O"},{"word":"var","label":"O"},
+      {"word":"gaziantep","label":"B-LOC"},{"word":"köylerine","label":"I-LOC"},
+      {"word":"çok","label":"O"},{"word":"acil","label":"O"},{"word":"yardım","label":"O"},
+      {"word":"lazım","label":"O"},{"word":"ayrıyeten","label":"O"},{"word":"ped","label":"O"},
+      {"word":"ve","label":"O"},{"word":"iç","label":"O"},{"word":"çamaşırı","label":"O"},
+      {"word":"yardımı","label":"O"},{"word":"gerekiyor","label":"O"},{"word":"yardım","label":"O"},
+      {"word":"edebilecek","label":"O"},{"word":"tırlar","label":"O"},{"word":"gerekiyor","label":"O"},
+      {"word":"tuğçe","label":"O"},{"word":"organize","label":"O"},{"word":"edecek","label":"O"},
+      {"word":"lütfen","label":"O"},{"word":"iletişim","label":"O"},{"word":"için","label":"O"}
+    ]
+  },
+
+  {
+    "sentence": "arkadaslar te sadece bir bina yikildi furkan aprtmani ve hala icerde insanlar var sismik cihaz yok insanlar ne yaptiklarini bilmiyorlar acil yardim",
+    "labels":[
+      {"word":"arkadaslar","label":"O"},{"word":"te","label":"O"},{"word":"sadece","label":"O"},
+      {"word":"bir","label":"O"},{"word":"bina","label":"O"},{"word":"yikildi","label":"O"},
+      {"word":"furkan","label":"B-LOC"},{"word":"aprtmani","label":"I-LOC"},
+      {"word":"ve","label":"O"},{"word":"hala","label":"O"},{"word":"icerde","label":"O"},
+      {"word":"insanlar","label":"O"},{"word":"var","label":"O"},{"word":"sismik","label":"O"},
+      {"word":"cihaz","label":"O"},{"word":"yok","label":"O"},{"word":"insanlar","label":"O"},
+      {"word":"ne","label":"O"},{"word":"yaptiklarini","label":"O"},{"word":"bilmiyorlar","label":"O"},
+      {"word":"acil","label":"O"},{"word":"yardim","label":"O"}
+    ]
+  },
+  {
+    "sentence": "yardım çağrısı hatay ve ilçeleri acil yardım bekliyor hatay defne armutlu ve hancağiza acil yardim gönderilmesi gerek hiçbşr yemek isinma barinma yardimi yapilmamis lutfen artik hatayi görün",
+    "labels":[
+      {"word":"yardım","label":"O"},{"word":"çağrısı","label":"O"},
+      {"word":"hatay","label":"B-LOC"},{"word":"ve","label":"O"},{"word":"ilçeleri","label":"O"},
+      {"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"bekliyor","label":"O"},
+      {"word":"hatay","label":"B-LOC"},{"word":"defne","label":"I-LOC"},
+      {"word":"armutlu","label":"B-LOC"},{"word":"ve","label":"O"},{"word":"hancağiza","label":"B-LOC"},
+      {"word":"acil","label":"O"},{"word":"yardim","label":"O"},{"word":"gönderilmesi","label":"O"},
+      {"word":"gerek","label":"O"},{"word":"hiçbşr","label":"O"},{"word":"yemek","label":"O"},
+      {"word":"isinma","label":"O"},{"word":"barinma","label":"O"},{"word":"yardimi","label":"O"},
+      {"word":"yapilmamis","label":"O"},{"word":"lutfen","label":"O"},{"word":"artik","label":"O"},
+      {"word":"hatayi","label":"B-LOC"},{"word":"görün","label":"O"}
+    ]
+  },
+
+  {
+    "sentence": "şehit piyade mehmet demirbüken caddesi emek mahallesi 2 bahçeli sokak özcan apt hatay antakya çok acil yardım lazım retweet yaparmısınız lütfen yardım çok acil",
+    "labels":[
+      {"word":"şehit","label":"B-LOC"},{"word":"piyade","label":"I-LOC"},{"word":"mehmet","label":"I-LOC"},
+      {"word":"demirbüken","label":"I-LOC"},{"word":"caddesi","label":"I-LOC"},
+      {"word":"emek","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"2","label":"B-LOC"},{"word":"bahçeli","label":"I-LOC"},{"word":"sokak","label":"I-LOC"},
+      {"word":"özcan","label":"B-LOC"},{"word":"apt","label":"I-LOC"},
+      {"word":"hatay","label":"B-LOC"},{"word":"antakya","label":"I-LOC"},
+      {"word":"çok","label":"O"},{"word":"acil","label":"O"},{"word":"yardım","label":"O"},
+      {"word":"lazım","label":"O"},{"word":"retweet","label":"O"},{"word":"yaparmısınız","label":"O"},
+      {"word":"lütfen","label":"O"},{"word":"yardım","label":"O"},{"word":"çok","label":"O"},
+      {"word":"acil","label":"O"}
+    ]
+  },
+
+  {
+    "sentence": "rt yapalım bol yorum yapalım sesini duyuralım ndayim n",
+    "labels":[
+      {"word":"rt","label":"O"},{"word":"yapalım","label":"O"},{"word":"bol","label":"O"},
+      {"word":"yorum","label":"O"},{"word":"yapalım","label":"O"},{"word":"sesini","label":"O"},
+      {"word":"duyuralım","label":"O"},{"word":"ndayim","label":"O"},{"word":"n","label":"O"}
+    ]
+  },
+
+  {
+    "sentence": "çok acil yardım lazım lütfen l",
+    "labels":[
+      {"word":"çok","label":"O"},{"word":"acil","label":"O"},{"word":"yardım","label":"O"},
+      {"word":"lazım","label":"O"},{"word":"lütfen","label":"O"},{"word":"l","label":"O"}
+    ]
+  },
+
+  {
+    "sentence": "antakya akevler mah fatih yavuz çayırcıya dört gündür ulaşılamıyor",
+    "labels":[
+      {"word":"antakya","label":"B-LOC"},{"word":"akevler","label":"I-LOC"},{"word":"mah","label":"I-LOC"},
+      {"word":"fatih","label":"B-LOC"},{"word":"yavuz","label":"I-LOC"},{"word":"çayırcıya","label":"I-LOC"},
+      {"word":"dört","label":"O"},{"word":"gündür","label":"O"},{"word":"ulaşılamıyor","label":"O"}
+    ]
+  },
+
+  {
+    "sentence": "acil yardım lazım cebrail mh şehit m ali demirbüken caddesi emlakbank sitesi 1 kısım 6a ve 6b antakyahatay fazilet arslan sebahat karagözlü arkadaşlarımız adreste fakat kurtarma ekibi gerekiyor",
+    "labels":[
+      {"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"lazım","label":"O"},
+      {"word":"cebrail","label":"B-LOC"},{"word":"mh","label":"I-LOC"},
+      {"word":"şehit","label":"B-LOC"},{"word":"m","label":"I-LOC"},{"word":"ali","label":"I-LOC"},
+      {"word":"demirbüken","label":"I-LOC"},{"word":"caddesi","label":"I-LOC"},
+      {"word":"emlakbank","label":"B-LOC"},{"word":"sitesi","label":"I-LOC"},
+      {"word":"1","label":"B-LOC"},{"word":"kısım","label":"I-LOC"},
+      {"word":"6a","label":"B-LOC"},{"word":"ve","label":"O"},{"word":"6b","label":"B-LOC"},
+      {"word":"antakyahatay","label":"B-LOC"},
+      {"word":"fazilet","label":"O"},{"word":"arslan","label":"O"},{"word":"sebahat","label":"O"},
+      {"word":"karagözlü","label":"O"},{"word":"arkadaşlarımız","label":"O"},{"word":"adreste","label":"O"},
+      {"word":"fakat","label":"O"},{"word":"kurtarma","label":"O"},{"word":"ekibi","label":"O"},
+      {"word":"gerekiyor","label":"O"}
+    ]
+  },
+
+  {
+    "sentence": "arkadaşlar çok acil yardım lazım teyitli erzak çadır hiçbir şey yok şuan orada konum gaziantepşahinbey perilikaya iletişim 90 539 417 3335",
+    "labels":[
+      {"word":"arkadaşlar","label":"O"},{"word":"çok","label":"O"},{"word":"acil","label":"O"},
+      {"word":"yardım","label":"O"},{"word":"lazım","label":"O"},{"word":"teyitli","label":"O"},
+      {"word":"erzak","label":"O"},{"word":"çadır","label":"O"},{"word":"hiçbir","label":"O"},
+      {"word":"şey","label":"O"},{"word":"yok","label":"O"},{"word":"şuan","label":"O"},
+      {"word":"orada","label":"O"},{"word":"konum","label":"O"},
+      {"word":"gaziantepşahinbey","label":"B-LOC"},{"word":"perilikaya","label":"I-LOC"},
+      {"word":"iletişim","label":"O"},{"word":"90","label":"O"},{"word":"539","label":"O"},
+      {"word":"417","label":"O"},{"word":"3335","label":"O"}
+    ]
+  },
+
+  {
+    "sentence": "acil bir adet çadıra ihtiyacımız var lütfen yardım edin",
+    "labels":[
+      {"word":"acil","label":"O"},{"word":"bir","label":"O"},{"word":"adet","label":"O"},
+      {"word":"çadıra","label":"O"},{"word":"ihtiyacımız","label":"O"},{"word":"var","label":"O"},
+      {"word":"lütfen","label":"O"},{"word":"yardım","label":"O"},{"word":"edin","label":"O"}
+    ]
+  },
+
+  {
+    "sentence": "az önce bir grupdan mesaj geldi osman isimli cocuk ve ailesi kahramanmaras in afsin alparslan mahallesi ravza caddesi mislina sokak no 3 acil yardım",
+    "labels":[
+      {"word":"az","label":"O"},{"word":"önce","label":"O"},{"word":"bir","label":"O"},
+      {"word":"grupdan","label":"O"},{"word":"mesaj","label":"O"},{"word":"geldi","label":"O"},
+      {"word":"osman","label":"O"},{"word":"isimli","label":"O"},{"word":"cocuk","label":"O"},
+      {"word":"ve","label":"O"},{"word":"ailesi","label":"O"},{"word":"kahramanmaras","label":"B-LOC"},
+      {"word":"in","label":"I-LOC"},{"word":"afsin","label":"B-LOC"},
+      {"word":"alparslan","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"ravza","label":"B-LOC"},{"word":"caddesi","label":"I-LOC"},
+      {"word":"mislina","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},
+      {"word":"no","label":"B-LOC"},{"word":"3","label":"I-LOC"},
+      {"word":"acil","label":"O"},{"word":"yardım","label":"O"}
+    ]
+  },
+
+  {
+    "sentence": "adıyaman urfa yolu üzerinde ki akpınar köyü çok acil erzak kıyafet yardımı yapılması gerekiyor köye hiçbir yardım gitmemiş ve aç bir şekilde birilerinin yardımlarına koşmasını bekliyorlar benden ulaşabilirsiniz acil",
+    "labels":[
+      {"word":"adıyaman","label":"B-LOC"},{"word":"urfa","label":"I-LOC"},{"word":"yolu","label":"I-LOC"},
+      {"word":"üzerinde","label":"O"},{"word":"ki","label":"O"},{"word":"akpınar","label":"B-LOC"},
+      {"word":"köyü","label":"I-LOC"},{"word":"çok","label":"O"},{"word":"acil","label":"O"},
+      {"word":"erzak","label":"O"},{"word":"kıyafet","label":"O"},{"word":"yardımı","label":"O"},
+      {"word":"yapılması","label":"O"},{"word":"gerekiyor","label":"O"},{"word":"köye","label":"O"},
+      {"word":"hiçbir","label":"O"},{"word":"yardım","label":"O"},{"word":"gitmemiş","label":"O"},
+      {"word":"ve","label":"O"},{"word":"aç","label":"O"},{"word":"bir","label":"O"},
+      {"word":"şekilde","label":"O"},{"word":"birilerinin","label":"O"},{"word":"yardımlarına","label":"O"},
+      {"word":"koşmasını","label":"O"},{"word":"bekliyorlar","label":"O"},{"word":"benden","label":"O"},
+      {"word":"ulaşabilirsiniz","label":"O"},{"word":"acil","label":"O"}
+    ]
+  },
+
+  {
+    "sentence": "haluk levent acil ihtiyaçlar için sanatçılarla toplandı haluk levent deprem afetinden etkilenen insanlara yardım etmek için sanatçılarla toplandı levent kıvanç tatlıtuğ özge özpirinçci kenan imirzalıoğlu oktay kaynarca irem helvacıoğlu ve",
+    "labels":[
+      {"word":"haluk","label":"O"},{"word":"levent","label":"O"},{"word":"acil","label":"O"},
+      {"word":"ihtiyaçlar","label":"O"},{"word":"için","label":"O"},{"word":"sanatçılarla","label":"O"},
+      {"word":"toplandı","label":"O"},{"word":"haluk","label":"O"},{"word":"levent","label":"O"},
+      {"word":"deprem","label":"O"},{"word":"afetinden","label":"O"},{"word":"etkilenen","label":"O"},
+      {"word":"insanlara","label":"O"},{"word":"yardım","label":"O"},{"word":"etmek","label":"O"},
+      {"word":"için","label":"O"},{"word":"sanatçılarla","label":"O"},{"word":"toplandı","label":"O"},
+      {"word":"levent","label":"O"},{"word":"kıvanç","label":"O"},{"word":"tatlıtuğ","label":"O"},
+      {"word":"özge","label":"O"},{"word":"özpirinçci","label":"O"},{"word":"kenan","label":"O"},
+      {"word":"imirzalıoğlu","label":"O"},{"word":"oktay","label":"O"},{"word":"kaynarca","label":"O"},
+      {"word":"irem","label":"O"},{"word":"helvacıoğlu","label":"O"},{"word":"ve","label":"O"}
+    ]
+  },
+
+  {
+    "sentence": "şehit piyade mehmet demirbüken caddesi emek mahallesi 2 bahçeli sokak özcan apt hatay antakya acil yardım rtwet lütfen yayalım",
+    "labels":[
+      {"word":"şehit","label":"B-LOC"},{"word":"piyade","label":"I-LOC"},{"word":"mehmet","label":"I-LOC"},
+      {"word":"demirbüken","label":"I-LOC"},{"word":"caddesi","label":"I-LOC"},
+      {"word":"emek","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"2","label":"B-LOC"},{"word":"bahçeli","label":"I-LOC"},{"word":"sokak","label":"I-LOC"},
+      {"word":"özcan","label":"B-LOC"},{"word":"apt","label":"I-LOC"},
+      {"word":"hatay","label":"B-LOC"},{"word":"antakya","label":"I-LOC"},
+      {"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"rtwet","label":"O"},
+      {"word":"lütfen","label":"O"},{"word":"yayalım","label":"O"}
+    ]
+  },
+
+  {
+    "sentence": "adıyaman tut pamuklu akçatepe kaşlıca köylerinde barınma için konteyner çadır branda battaniye ısıtıcı soba ve özellikle su ihtiyacı vardır oradaki insanlar acil bu yardım malzemelerine ihtiyac duymaktadır 0534 663 06 82",
+    "labels":[
+      {"word":"adıyaman","label":"B-LOC"},{"word":"tut","label":"I-LOC"},
+      {"word":"pamuklu","label":"I-LOC"},{"word":"akçatepe","label":"I-LOC"},
+      {"word":"kaşlıca","label":"I-LOC"},{"word":"köylerinde","label":"I-LOC"},
+      {"word":"barınma","label":"O"},{"word":"için","label":"O"},{"word":"konteyner","label":"O"},
+      {"word":"çadır","label":"O"},{"word":"branda","label":"O"},{"word":"battaniye","label":"O"},
+      {"word":"ısıtıcı","label":"O"},{"word":"soba","label":"O"},{"word":"ve","label":"O"},
+      {"word":"özellikle","label":"O"},{"word":"su","label":"O"},{"word":"ihtiyacı","label":"O"},
+      {"word":"vardır","label":"O"},{"word":"oradaki","label":"O"},{"word":"insanlar","label":"O"},
+      {"word":"acil","label":"O"},{"word":"bu","label":"O"},{"word":"yardım","label":"O"},
+      {"word":"malzemelerine","label":"O"},{"word":"ihtiyac","label":"O"},{"word":"duymaktadır","label":"O"},
+      {"word":"0534","label":"O"},{"word":"663","label":"O"},{"word":"06","label":"O"},
+      {"word":"82","label":"O"}
+    ]
+  },
+
+  {
+    "sentence": "acil arkadaşlar acil kazı çalışması için ekip lazımsona yaklaşmak üzereyizbize yardım edecek ekipleri bana yönlendirir misiniz hatayantakya 600 evler sitesi 58blok iletişim05437472040",
+    "labels":[
+      {"word":"acil","label":"O"},{"word":"arkadaşlar","label":"O"},{"word":"acil","label":"O"},
+      {"word":"kazı","label":"O"},{"word":"çalışması","label":"O"},{"word":"için","label":"O"},
+      {"word":"ekip","label":"O"},{"word":"lazımsona","label":"O"},{"word":"yaklaşmak","label":"O"},
+      {"word":"üzereyizbize","label":"O"},{"word":"yardım","label":"O"},{"word":"edecek","label":"O"},
+      {"word":"ekipleri","label":"O"},{"word":"bana","label":"O"},{"word":"yönlendirir","label":"O"},
+      {"word":"misiniz","label":"O"},{"word":"hatayantakya","label":"B-LOC"},
+      {"word":"600","label":"B-LOC"},{"word":"evler","label":"I-LOC"},{"word":"sitesi","label":"I-LOC"},
+      {"word":"58blok","label":"B-LOC"},{"word":"iletişim05437472040","label":"O"}
+    ]
+  },
+
+  {
+    "sentence": "tagla sende emniyeti hadi",
+    "labels":[
+      {"word":"tagla","label":"O"},{"word":"sende","label":"O"},{"word":"emniyeti","label":"O"},
+      {"word":"hadi","label":"O"}
+    ]
+  },
+
+  {
+    "sentence": "yeni haber aldık termal kamera ile 4 kişinin olduğu tespit edilmiş lütfen acil yardım lazım",
+    "labels":[
+      {"word":"yeni","label":"O"},{"word":"haber","label":"O"},{"word":"aldık","label":"O"},
+      {"word":"termal","label":"O"},{"word":"kamera","label":"O"},{"word":"ile","label":"O"},
+      {"word":"4","label":"O"},{"word":"kişinin","label":"O"},{"word":"olduğu","label":"O"},
+      {"word":"tespit","label":"O"},{"word":"edilmiş","label":"O"},{"word":"lütfen","label":"O"},
+      {"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"lazım","label":"O"}
+    ]
+  },
+
+  {
+    "sentence": "acil yardım",
+    "labels":[
+      {"word":"acil","label":"O"},{"word":"yardım","label":"O"}
+    ]
+  },
+
+  {
+    "sentence": "arkadaşlar çok acil yayalım teyitli modern evler 302 sokak no91 iskenderun hatay iletişim yaren 05453054469 yaşlı bir çift araç olmadığı için bölgeden barınma alanına gidemiyor yardım lazım",
+    "labels":[
+      {"word":"arkadaşlar","label":"O"},{"word":"çok","label":"O"},{"word":"acil","label":"O"},
+      {"word":"yayalım","label":"O"},{"word":"teyitli","label":"O"},
+      {"word":"modern","label":"B-LOC"},{"word":"evler","label":"I-LOC"},
+      {"word":"302","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},
+      {"word":"no91","label":"B-LOC"},{"word":"iskenderun","label":"B-LOC"},
+      {"word":"hatay","label":"I-LOC"},{"word":"iletişim","label":"O"},{"word":"yaren","label":"O"},
+      {"word":"05453054469","label":"O"},{"word":"yaşlı","label":"O"},{"word":"bir","label":"O"},
+      {"word":"çift","label":"O"},{"word":"araç","label":"O"},{"word":"olmadığı","label":"O"},
+      {"word":"için","label":"O"},{"word":"bölgeden","label":"O"},{"word":"barınma","label":"O"},
+      {"word":"alanına","label":"O"},{"word":"gidemiyor","label":"O"},{"word":"yardım","label":"O"},
+      {"word":"lazım","label":"O"}
+    ]
+  },{
+    "sentence": "acil yardım elif torun ve orhan aydınnın kızı depremin 4 günü hala yaşıyor bilgi 10 dk önce geldi üzerlerinde bir beton blok var onu kaldırmak için de 50 tonluk vinç ihtiyacı var yer antakya merkezde ayşe fitnaz caddesi no 5 ersanın telefonu 90 532 397 95 95",
+    "labels": [
+      {"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"elif","label":"O"},{"word":"torun","label":"O"},{"word":"ve","label":"O"},{"word":"orhan","label":"O"},{"word":"aydınnın","label":"O"},{"word":"kızı","label":"O"},{"word":"depremin","label":"O"},{"word":"4","label":"O"},{"word":"günü","label":"O"},{"word":"hala","label":"O"},{"word":"yaşıyor","label":"O"},{"word":"bilgi","label":"O"},{"word":"10","label":"O"},{"word":"dk","label":"O"},{"word":"önce","label":"O"},{"word":"geldi","label":"O"},{"word":"üzerlerinde","label":"O"},{"word":"bir","label":"O"},{"word":"beton","label":"O"},{"word":"blok","label":"O"},{"word":"var","label":"O"},{"word":"onu","label":"O"},{"word":"kaldırmak","label":"O"},{"word":"için","label":"O"},{"word":"de","label":"O"},{"word":"50","label":"O"},{"word":"tonluk","label":"O"},{"word":"vinç","label":"O"},{"word":"ihtiyacı","label":"O"},{"word":"var","label":"O"},{"word":"yer","label":"O"},{"word":"antakya","label":"B-LOC"},{"word":"merkezde","label":"I-LOC"},{"word":"ayşe","label":"B-LOC"},{"word":"fitnaz","label":"I-LOC"},{"word":"caddesi","label":"I-LOC"},{"word":"no","label":"I-LOC"},{"word":"5","label":"I-LOC"},{"word":"ersanın","label":"O"},{"word":"telefonu","label":"O"},{"word":"90","label":"O"},{"word":"532","label":"O"},{"word":"397","label":"O"},{"word":"95","label":"O"},{"word":"95","label":"O"}
+    ]
+  },
+  {
+    "sentence": "yurtlara yerleşip kavga çıkarıyorlar yurt dolaplarını da yağmalıyorlar gerçek depremzedeler ve kyk öğrencileri korkuyor suriyeli ve afganlar yüzünden yardım da gitmiyormuş acil bir şeyler yapılmalı kendi halkını mağdur bırakma",
+    "labels": [
+      {"word":"yurtlara","label":"O"},{"word":"yerleşip","label":"O"},{"word":"kavga","label":"O"},{"word":"çıkarıyorlar","label":"O"},{"word":"yurt","label":"O"},{"word":"dolaplarını","label":"O"},{"word":"da","label":"O"},{"word":"yağmalıyorlar","label":"O"},{"word":"gerçek","label":"O"},{"word":"depremzedeler","label":"O"},{"word":"ve","label":"O"},{"word":"kyk","label":"O"},{"word":"öğrencileri","label":"O"},{"word":"korkuyor","label":"O"},{"word":"suriyeli","label":"O"},{"word":"ve","label":"O"},{"word":"afganlar","label":"O"},{"word":"yüzünden","label":"O"},{"word":"yardım","label":"O"},{"word":"da","label":"O"},{"word":"gitmiyormuş","label":"O"},{"word":"acil","label":"O"},{"word":"bir","label":"O"},{"word":"şeyler","label":"O"},{"word":"yapılmalı","label":"O"},{"word":"kendi","label":"O"},{"word":"halkını","label":"O"},{"word":"mağdur","label":"O"},{"word":"bırakma","label":"O"}
+    ]
+  },
+  {
+    "sentence": "şahsen tanımasam da pek çok kez ihtiyaç sahiplerine yardım için çabaladığına şahit oldum yakınlarını kaybetmiş dua eden yakınları biz olalım inşallah rabbim şafi ismiyle acil şifalar versin dualarımızı eksik etmeyelim",
+    "labels":[
+      {"word":"şahsen","label":"O"},{"word":"tanımasam","label":"O"},{"word":"da","label":"O"},{"word":"pek","label":"O"},{"word":"çok","label":"O"},{"word":"kez","label":"O"},{"word":"ihtiyaç","label":"O"},{"word":"sahiplerine","label":"O"},{"word":"yardım","label":"O"},{"word":"için","label":"O"},{"word":"çabaladığına","label":"O"},{"word":"şahit","label":"O"},{"word":"oldum","label":"O"},{"word":"yakınlarını","label":"O"},{"word":"kaybetmiş","label":"O"},{"word":"dua","label":"O"},{"word":"eden","label":"O"},{"word":"yakınları","label":"O"},{"word":"biz","label":"O"},{"word":"olalım","label":"O"},{"word":"inşallah","label":"O"},{"word":"rabbim","label":"O"},{"word":"şafi","label":"O"},{"word":"ismiyle","label":"O"},{"word":"acil","label":"O"},{"word":"şifalar","label":"O"},{"word":"versin","label":"O"},{"word":"dualarımızı","label":"O"},{"word":"eksik","label":"O"},{"word":"etmeyelim","label":"O"}
+    ]
+  },
+  {
+    "sentence": "acil yardım lütfen yetişiiiinnn biz olalım sesiii",
+    "labels":[
+      {"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"lütfen","label":"O"},{"word":"yetişiiiinnn","label":"O"},{"word":"biz","label":"O"},{"word":"olalım","label":"O"},{"word":"sesiii","label":"O"}
+    ]
+  },
+  {
+    "sentence": "arkadaslar acil guncel bilgi malzeme gidecek arac yok köy yollari oldugu icin transit arac lazim 0534 833 95 50 instagramdan da ulasabilirsiniz",
+    "labels":[
+      {"word":"arkadaslar","label":"O"},{"word":"acil","label":"O"},{"word":"guncel","label":"O"},{"word":"bilgi","label":"O"},{"word":"malzeme","label":"O"},{"word":"gidecek","label":"O"},{"word":"arac","label":"O"},{"word":"yok","label":"O"},{"word":"köy","label":"O"},{"word":"yollari","label":"O"},{"word":"oldugu","label":"O"},{"word":"icin","label":"O"},{"word":"transit","label":"O"},{"word":"arac","label":"O"},{"word":"lazim","label":"O"},{"word":"0534","label":"O"},{"word":"833","label":"O"},{"word":"95","label":"O"},{"word":"50","label":"O"},{"word":"instagramdan","label":"O"},{"word":"da","label":"O"},{"word":"ulasabilirsiniz","label":"O"}
+    ]
+  },
+  {
+    "sentence": "acil yardım lazım hala giden bir ekip yok",
+    "labels":[
+      {"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"lazım","label":"O"},{"word":"hala","label":"O"},{"word":"giden","label":"O"},{"word":"bir","label":"O"},{"word":"ekip","label":"O"},{"word":"yok","label":"O"}
+    ]
+  },
+  {
+    "sentence": "yardım istiyoruz hava emre ercan emre bilgili tarım zeytinyag fabrikası eski reyhanlı yolukumlu yolu karadurmusluhatay mustafa bey iletişim no0530 463 08 31 2 yatalak hasta icin acıl orta veya buyuk boy hasta bezi içme suyu hic kalmamis acil olanlar bu",
+    "labels":[
+      {"word":"yardım","label":"O"},{"word":"istiyoruz","label":"O"},{"word":"hava","label":"O"},{"word":"emre","label":"O"},{"word":"ercan","label":"O"},{"word":"emre","label":"O"},
+      {"word":"bilgili","label":"B-LOC"},{"word":"tarım","label":"I-LOC"},{"word":"zeytinyag","label":"I-LOC"},{"word":"fabrikası","label":"I-LOC"},
+      {"word":"eski","label":"O"},{"word":"reyhanlı","label":"B-LOC"},
+      {"word":"yolukumlu","label":"B-LOC"},{"word":"yolu","label":"I-LOC"},
+      {"word":"karadurmusluhatay","label":"B-LOC"},
+      {"word":"mustafa","label":"O"},{"word":"bey","label":"O"},{"word":"iletişim","label":"O"},{"word":"no0530","label":"O"},{"word":"463","label":"O"},{"word":"08","label":"O"},{"word":"31","label":"O"},{"word":"2","label":"O"},{"word":"yatalak","label":"O"},{"word":"hasta","label":"O"},{"word":"icin","label":"O"},{"word":"acıl","label":"O"},{"word":"orta","label":"O"},{"word":"veya","label":"O"},{"word":"buyuk","label":"O"},{"word":"boy","label":"O"},{"word":"hasta","label":"O"},{"word":"bezi","label":"O"},{"word":"içme","label":"O"},{"word":"suyu","label":"O"},{"word":"hic","label":"O"},{"word":"kalmamis","label":"O"},{"word":"acil","label":"O"},{"word":"olanlar","label":"O"},{"word":"bu","label":"O"}
+    ]
+  },
+  {
+    "sentence": "acil yardım gerekiyormuş ekip ve ekipman sıkıntısi olduğu söyleniyor bölgede olan birinin irtibat numarasıni bulabilirsem paylaşacağım lütfen elimizden geleni yapalim daha cok kisiye ulaşılsın",
+    "labels":[
+      {"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"gerekiyormuş","label":"O"},{"word":"ekip","label":"O"},{"word":"ve","label":"O"},{"word":"ekipman","label":"O"},{"word":"sıkıntısi","label":"O"},{"word":"olduğu","label":"O"},{"word":"söyleniyor","label":"O"},{"word":"bölgede","label":"O"},{"word":"olan","label":"O"},{"word":"birinin","label":"O"},{"word":"irtibat","label":"O"},{"word":"numarasıni","label":"O"},{"word":"bulabilirsem","label":"O"},{"word":"paylaşacağım","label":"O"},{"word":"lütfen","label":"O"},{"word":"elimizden","label":"O"},{"word":"geleni","label":"O"},{"word":"yapalim","label":"O"},{"word":"daha","label":"O"},{"word":"cok","label":"O"},{"word":"kisiye","label":"O"},{"word":"ulaşılsın","label":"O"}
+    ]
+  },
+  {
+    "sentence": "teyitlidir hala enkazın altındalar ndayim",
+    "labels":[
+      {"word":"teyitlidir","label":"O"},{"word":"hala","label":"O"},{"word":"enkazın","label":"O"},{"word":"altındalar","label":"O"},{"word":"ndayim","label":"O"}
+    ]
+  },
+  {
+    "sentence": "kayabaşı mahallesi gazi demircioğlu caddesi atabey apartmanı blok no 2 dulkadiroğlu kahramanmaraş enkazda olanlar için acil termal kamera lazım lütfen yardım edin yoksa bu insanlara ulaşmak günleri alır lütfen yardım edin",
+    "labels":[
+      {"word":"kayabaşı","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"gazi","label":"B-LOC"},{"word":"demircioğlu","label":"I-LOC"},{"word":"caddesi","label":"I-LOC"},
+      {"word":"atabey","label":"B-LOC"},{"word":"apartmanı","label":"I-LOC"},{"word":"blok","label":"I-LOC"},{"word":"no","label":"I-LOC"},{"word":"2","label":"I-LOC"},
+      {"word":"dulkadiroğlu","label":"B-LOC"},{"word":"kahramanmaraş","label":"I-LOC"},
+      {"word":"enkazda","label":"O"},{"word":"olanlar","label":"O"},{"word":"için","label":"O"},{"word":"acil","label":"O"},{"word":"termal","label":"O"},{"word":"kamera","label":"O"},{"word":"lazım","label":"O"},{"word":"lütfen","label":"O"},{"word":"yardım","label":"O"},{"word":"edin","label":"O"},{"word":"yoksa","label":"O"},{"word":"bu","label":"O"},{"word":"insanlara","label":"O"},{"word":"ulaşmak","label":"O"},{"word":"günleri","label":"O"},{"word":"alır","label":"O"},{"word":"lütfen","label":"O"},{"word":"yardım","label":"O"},{"word":"edin","label":"O"}
+    ]
+  },
+  {
+    "sentence": "ilk depremden beri yardım gitmemis arkadasımıza ulasın lütfen bugun yardım edin diye ses gelmis lütfen akevler mah bedii sabuncu ortaokulu karsi binasi kadir kutay güçlü izem rukay güçlü haticeahmet güçlü",
+    "labels":[
+      {"word":"ilk","label":"O"},{"word":"depremden","label":"O"},{"word":"beri","label":"O"},{"word":"yardım","label":"O"},{"word":"gitmemis","label":"O"},{"word":"arkadasımıza","label":"O"},{"word":"ulasın","label":"O"},{"word":"lütfen","label":"O"},{"word":"bugun","label":"O"},{"word":"yardım","label":"O"},{"word":"edin","label":"O"},{"word":"diye","label":"O"},{"word":"ses","label":"O"},{"word":"gelmis","label":"O"},{"word":"lütfen","label":"O"},
+      {"word":"akevler","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+      {"word":"bedii","label":"B-LOC"},{"word":"sabuncu","label":"I-LOC"},{"word":"ortaokulu","label":"I-LOC"},
+      {"word":"karsi","label":"O"},{"word":"binasi","label":"O"},{"word":"kadir","label":"O"},{"word":"kutay","label":"O"},{"word":"güçlü","label":"O"},{"word":"izem","label":"O"},{"word":"rukay","label":"O"},{"word":"güçlü","label":"O"},{"word":"haticeahmet","label":"O"},{"word":"güçlü","label":"O"}
+    ]
+  },
+  {
+    "sentence": "abdulgani bayrakçı ekinci mah 19 sk kapı no12 daire8 antakyahatay 90 533 088 94 09 enkaz altındalar hâlâ",
+    "labels":[
+      {"word":"abdulgani","label":"O"},{"word":"bayrakçı","label":"O"},
+      {"word":"ekinci","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+      {"word":"19","label":"B-LOC"},{"word":"sk","label":"I-LOC"},{"word":"kapı","label":"I-LOC"},{"word":"no12","label":"I-LOC"},{"word":"daire8","label":"I-LOC"},
+      {"word":"antakyahatay","label":"B-LOC"},
+      {"word":"90","label":"O"},{"word":"533","label":"O"},{"word":"088","label":"O"},{"word":"94","label":"O"},{"word":"09","label":"O"},{"word":"enkaz","label":"O"},{"word":"altındalar","label":"O"},{"word":"hâlâ","label":"O"}
+    ]
+  },
+  {
+    "sentence": "acil yardım gerekiyor çok acil",
+    "labels":[
+      {"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"gerekiyor","label":"O"},{"word":"çok","label":"O"},{"word":"acil","label":"O"}
+    ]
+  },
+  {
+    "sentence": "acil yaşıyorum lütfen yardım edin susuz olduğum için bağıramıyorum sesim çıkmadığı için herkes gitti dedi akevler mah 432sokak torunlar apt no8 içkapıno7 hatay antakya hamis mertcan güler 90 538 490 91 51 teyitli güncel",
+    "labels":[
+      {"word":"acil","label":"O"},{"word":"yaşıyorum","label":"O"},{"word":"lütfen","label":"O"},{"word":"yardım","label":"O"},{"word":"edin","label":"O"},{"word":"susuz","label":"O"},{"word":"olduğum","label":"O"},{"word":"için","label":"O"},{"word":"bağıramıyorum","label":"O"},{"word":"sesim","label":"O"},{"word":"çıkmadığı","label":"O"},{"word":"için","label":"O"},{"word":"herkes","label":"O"},{"word":"gitti","label":"O"},{"word":"dedi","label":"O"},
+      {"word":"akevler","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+      {"word":"432sokak","label":"B-LOC"},
+      {"word":"torunlar","label":"B-LOC"},{"word":"apt","label":"I-LOC"},{"word":"no8","label":"I-LOC"},{"word":"içkapıno7","label":"I-LOC"},
+      {"word":"hatay","label":"B-LOC"},{"word":"antakya","label":"I-LOC"},
+      {"word":"hamis","label":"O"},{"word":"mertcan","label":"O"},{"word":"güler","label":"O"},{"word":"90","label":"O"},{"word":"538","label":"O"},{"word":"490","label":"O"},{"word":"91","label":"O"},{"word":"51","label":"O"},{"word":"teyitli","label":"O"},{"word":"güncel","label":"O"}
+    ]
+  },
+  {
+    "sentence": "nurdagı tüllüce mahallesi dörtevler sokak acil çadır ihtiyacı vardır allah rızası için yardım edin hasta ve çocuklar var",
+    "labels":[
+      {"word":"nurdagı","label":"B-LOC"},{"word":"tüllüce","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},{"word":"dörtevler","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},
+      {"word":"acil","label":"O"},{"word":"çadır","label":"O"},{"word":"ihtiyacı","label":"O"},{"word":"vardır","label":"O"},{"word":"allah","label":"O"},{"word":"rızası","label":"O"},{"word":"için","label":"O"},{"word":"yardım","label":"O"},{"word":"edin","label":"O"},{"word":"hasta","label":"O"},{"word":"ve","label":"O"},{"word":"çocuklar","label":"O"},{"word":"var","label":"O"}
+    ]
+  },
+  {
+    "sentence": "hatay aknehir köyünde imkanlar çok kısıtlı çok acil bir şekilde yardım lazım",
+    "labels":[
+      {"word":"hatay","label":"B-LOC"},{"word":"aknehir","label":"I-LOC"},{"word":"köyünde","label":"I-LOC"},
+      {"word":"imkanlar","label":"O"},{"word":"çok","label":"O"},{"word":"kısıtlı","label":"O"},{"word":"çok","label":"O"},{"word":"acil","label":"O"},{"word":"bir","label":"O"},{"word":"şekilde","label":"O"},{"word":"yardım","label":"O"},{"word":"lazım","label":"O"}
+    ]
+  },
+  {
+    "sentence": "maalesef sesini duyuramayanlar var enkaz altında acil yardım gerekiyor",
+    "labels":[
+      {"word":"maalesef","label":"O"},{"word":"sesini","label":"O"},{"word":"duyuramayanlar","label":"O"},{"word":"var","label":"O"},{"word":"enkaz","label":"O"},{"word":"altında","label":"O"},{"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"gerekiyor","label":"O"}
+    ]
+  },
+  {
+    "sentence": "teyitli malatya akçadağ 4gün oldu yardım gitmemiş çocuklar donmak üzere acil yardım acil çadır gıda emrah kaya 05379111545",
+    "labels":[
+      {"word":"teyitli","label":"O"},
+      {"word":"malatya","label":"B-LOC"},{"word":"akçadağ","label":"I-LOC"},
+      {"word":"4gün","label":"O"},{"word":"oldu","label":"O"},{"word":"yardım","label":"O"},{"word":"gitmemiş","label":"O"},{"word":"çocuklar","label":"O"},{"word":"donmak","label":"O"},{"word":"üzere","label":"O"},{"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"acil","label":"O"},{"word":"çadır","label":"O"},{"word":"gıda","label":"O"},{"word":"emrah","label":"O"},{"word":"kaya","label":"O"},{"word":"05379111545","label":"O"}
+    ]
+  },
+  {
+    "sentence": "teyitli bilgi acillllllllll bu adrese çok acil yardım gerekiyor lutfen yardimci olalim sesimizi duyurun",
+    "labels":[
+      {"word":"teyitli","label":"O"},{"word":"bilgi","label":"O"},{"word":"acillllllllll","label":"O"},{"word":"bu","label":"O"},{"word":"adrese","label":"O"},{"word":"çok","label":"O"},{"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"gerekiyor","label":"O"},{"word":"lutfen","label":"O"},{"word":"yardimci","label":"O"},{"word":"olalim","label":"O"},{"word":"sesimizi","label":"O"},{"word":"duyurun","label":"O"}
+    ]
+  },
+  {
+    "sentence": "hatay defne ilçesi samankaya köyü ne hiç yardım ulaşmamış çok acil yardım beklenmekte özellikle gıda lütfen yayalım",
+    "labels":[
+      {"word":"hatay","label":"B-LOC"},{"word":"defne","label":"I-LOC"},{"word":"ilçesi","label":"I-LOC"},
+      {"word":"samankaya","label":"B-LOC"},{"word":"köyü","label":"I-LOC"},
+      {"word":"ne","label":"O"},{"word":"hiç","label":"O"},{"word":"yardım","label":"O"},{"word":"ulaşmamış","label":"O"},{"word":"çok","label":"O"},{"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"beklenmekte","label":"O"},{"word":"özellikle","label":"O"},{"word":"gıda","label":"O"},{"word":"lütfen","label":"O"},{"word":"yayalım","label":"O"}
+    ]
+  },
+  {
+    "sentence": "nasıl olmalı 3 acil yardım ihtiyaçları nelerdir nasıl olmalıdır",
+    "labels":[
+      {"word":"nasıl","label":"O"},{"word":"olmalı","label":"O"},{"word":"3","label":"O"},{"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"ihtiyaçları","label":"O"},{"word":"nelerdir","label":"O"},{"word":"nasıl","label":"O"},{"word":"olmalıdır","label":"O"}
+    ]
+  },
+  {
+    "sentence": "acil yardım çağrısı",
+    "labels":[
+      {"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"çağrısı","label":"O"}
+    ]
+  },
+  {
+    "sentence": "paylasman için ne yapmam gerekiyor daha acil yardım lazim",
+    "labels":[
+      {"word":"paylasman","label":"O"},{"word":"için","label":"O"},{"word":"ne","label":"O"},{"word":"yapmam","label":"O"},{"word":"gerekiyor","label":"O"},{"word":"daha","label":"O"},{"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"lazim","label":"O"}
+    ]
+  },
+  {
+    "sentence": "yaşıyorum lütfen yardım edin susuz olduğum için bağıramıyorum sesim çıkmadığı için herkes gitti dedi akevler mah 432sokak torunlar apt mertcan güler 90 538 490 91 51 teyitli güncel enkazda yaşıyor lütfen yardım edin 5 6 dakka önce düştü konum yeni geldi",
+    "labels":[
+      {"word":"yaşıyorum","label":"O"},{"word":"lütfen","label":"O"},{"word":"yardım","label":"O"},{"word":"edin","label":"O"},{"word":"susuz","label":"O"},{"word":"olduğum","label":"O"},{"word":"için","label":"O"},{"word":"bağıramıyorum","label":"O"},{"word":"sesim","label":"O"},{"word":"çıkmadığı","label":"O"},{"word":"için","label":"O"},{"word":"herkes","label":"O"},{"word":"gitti","label":"O"},{"word":"dedi","label":"O"},
+      {"word":"akevler","label":"B-LOC"},{"word":"mah","label":"I-LOC"},{"word":"432sokak","label":"B-LOC"},{"word":"torunlar","label":"B-LOC"},{"word":"apt","label":"I-LOC"},
+      {"word":"mertcan","label":"O"},{"word":"güler","label":"O"},{"word":"90","label":"O"},{"word":"538","label":"O"},{"word":"490","label":"O"},{"word":"91","label":"O"},{"word":"51","label":"O"},
+      {"word":"teyitli","label":"O"},{"word":"güncel","label":"O"},{"word":"enkazda","label":"O"},{"word":"yaşıyor","label":"O"},{"word":"lütfen","label":"O"},{"word":"yardım","label":"O"},{"word":"edin","label":"O"},
+      {"word":"5","label":"O"},{"word":"6","label":"O"},{"word":"dakka","label":"O"},{"word":"önce","label":"O"},{"word":"düştü","label":"O"},{"word":"konum","label":"O"},{"word":"yeni","label":"O"},{"word":"geldi","label":"O"}
+    ]
+  },
+  {
+    "sentence": "adiyaman yardim grubundan teyitli gözebasi akbukut köyü kahta yolu üzeri fuar merkezinin orda 2 ve 1 yaş çocuk montu çocuk kıyafeti çocuk bezi çocuk maması hijyenik ped özellikle çocuklar üşüyor acil yardım lütfen kahta yolu üzeri fuar merkezinin orda",
+    "labels":[
+      {"word":"adiyaman","label":"B-LOC"},{"word":"yardim","label":"O"},{"word":"grubundan","label":"O"},{"word":"teyitli","label":"O"},
+      {"word":"gözebasi","label":"B-LOC"},{"word":"akbukut","label":"I-LOC"},{"word":"köyü","label":"I-LOC"},
+      {"word":"kahta","label":"B-LOC"},{"word":"yolu","label":"I-LOC"},{"word":"üzeri","label":"I-LOC"},
+      {"word":"fuar","label":"B-LOC"},{"word":"merkezinin","label":"I-LOC"},{"word":"orda","label":"I-LOC"},
+      {"word":"2","label":"O"},{"word":"ve","label":"O"},{"word":"1","label":"O"},{"word":"yaş","label":"O"},{"word":"çocuk","label":"O"},{"word":"montu","label":"O"},{"word":"çocuk","label":"O"},{"word":"kıyafeti","label":"O"},{"word":"çocuk","label":"O"},{"word":"bezi","label":"O"},{"word":"çocuk","label":"O"},{"word":"maması","label":"O"},{"word":"hijyenik","label":"O"},{"word":"ped","label":"O"},{"word":"özellikle","label":"O"},{"word":"çocuklar","label":"O"},{"word":"üşüyor","label":"O"},{"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"lütfen","label":"O"},
+      {"word":"kahta","label":"B-LOC"},{"word":"yolu","label":"I-LOC"},{"word":"üzeri","label":"I-LOC"},{"word":"fuar","label":"B-LOC"},{"word":"merkezinin","label":"I-LOC"},{"word":"orda","label":"I-LOC"}
+    ]
+  },
+  {
+    "sentence": "nasıl olmalı 2 acil yardım ihtiyaçları nelerdir nasıl olmalıdır",
+    "labels":[
+      {"word":"nasıl","label":"O"},{"word":"olmalı","label":"O"},{"word":"2","label":"O"},{"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"ihtiyaçları","label":"O"},{"word":"nelerdir","label":"O"},{"word":"nasıl","label":"O"},{"word":"olmalıdır","label":"O"}
+    ]
+  },
+  {
+    "sentence": "arkadaşım dilara hamalinin ailesi saatlerdir enkaz altında hala yardım ulaşmadı çok zor şartlar altındalar lütfen acil destek iletişim bilgisi 05347307367 lütfen destek olun sesimizi duyuramıyoruz lütfen",
+    "labels":[
+      {"word":"arkadaşım","label":"O"},{"word":"dilara","label":"O"},{"word":"hamalinin","label":"O"},{"word":"ailesi","label":"O"},{"word":"saatlerdir","label":"O"},{"word":"enkaz","label":"O"},{"word":"altında","label":"O"},{"word":"hala","label":"O"},{"word":"yardım","label":"O"},{"word":"ulaşmadı","label":"O"},{"word":"çok","label":"O"},{"word":"zor","label":"O"},{"word":"şartlar","label":"O"},{"word":"altındalar","label":"O"},{"word":"lütfen","label":"O"},{"word":"acil","label":"O"},{"word":"destek","label":"O"},{"word":"iletişim","label":"O"},{"word":"bilgisi","label":"O"},{"word":"05347307367","label":"O"},{"word":"lütfen","label":"O"},{"word":"destek","label":"O"},{"word":"olun","label":"O"},{"word":"sesimizi","label":"O"},{"word":"duyuramıyoruz","label":"O"},{"word":"lütfen","label":"O"}
+    ]
+  },
+  {
+    "sentence": "acil yardım bekliyorlar",
+    "labels":[
+      {"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"bekliyorlar","label":"O"}
+    ]
+  },
+  {
+    "sentence": "neyini takip ediyorsun tepki gelmese kılını kıpırtmayacaktınız ne gönderdiniz ne yaptınız kaç para bağış yaptınız acil yayınlayın yok öyle bu ülkeden büyük ekmek yiyip yardım yapmamak",
+    "labels":[
+      {"word":"neyini","label":"O"},{"word":"takip","label":"O"},{"word":"ediyorsun","label":"O"},{"word":"tepki","label":"O"},{"word":"gelmese","label":"O"},{"word":"kılını","label":"O"},{"word":"kıpırtmayacaktınız","label":"O"},{"word":"ne","label":"O"},{"word":"gönderdiniz","label":"O"},{"word":"ne","label":"O"},{"word":"yaptınız","label":"O"},{"word":"kaç","label":"O"},{"word":"para","label":"O"},{"word":"bağış","label":"O"},{"word":"yaptınız","label":"O"},{"word":"acil","label":"O"},{"word":"yayınlayın","label":"O"},{"word":"yok","label":"O"},{"word":"öyle","label":"O"},{"word":"bu","label":"O"},{"word":"ülkeden","label":"O"},{"word":"büyük","label":"O"},{"word":"ekmek","label":"O"},{"word":"yiyip","label":"O"},{"word":"yardım","label":"O"},{"word":"yapmamak","label":"O"}
+    ]
+  },
+  {
+    "sentence": "acil yardım lütfen",
+    "labels":[
+      {"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"lütfen","label":"O"}
+    ]
+  },
+  {
+    "sentence": "ses geliyormusçocuk var enkazda acil yardim",
+    "labels":[
+      {"word":"ses","label":"O"},{"word":"geliyormusçocuk","label":"O"},{"word":"var","label":"O"},{"word":"enkazda","label":"O"},{"word":"acil","label":"O"},{"word":"yardim","label":"O"}
+    ]
+  },
+  {
+    "sentence": "hatay hassa bölgesine acil yardım gerekiyor şebeke yok şu yok yemek yok enkaz altinda kalanlar var daha hiç kimse gitmedi ölenler var acil acil acil",
+    "labels": [
+      {"word":"hatay","label":"B-LOC"},{"word":"hassa","label":"I-LOC"},
+      {"word":"bölgesine","label":"I-LOC"},
+      {"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"gerekiyor","label":"O"},
+      {"word":"şebeke","label":"O"},{"word":"yok","label":"O"},{"word":"şu","label":"O"},
+      {"word":"yok","label":"O"},{"word":"yemek","label":"O"},{"word":"yok","label":"O"},
+      {"word":"enkaz","label":"O"},{"word":"altinda","label":"O"},{"word":"kalanlar","label":"O"},
+      {"word":"var","label":"O"},{"word":"daha","label":"O"},{"word":"hiç","label":"O"},
+      {"word":"kimse","label":"O"},{"word":"gitmedi","label":"O"},{"word":"ölenler","label":"O"},
+      {"word":"var","label":"O"},{"word":"acil","label":"O"},{"word":"acil","label":"O"},
+      {"word":"acil","label":"O"}
+    ]
+  },
+  {
+    "sentence": "acil yardım ihtiyaçlarınızı duyurmamız için dm kutumuz açık bu postun altına da yazabilirsiniz",
+    "labels": [
+      {"word":"acil","label":"O"},{"word":"yardım","label":"O"},
+      {"word":"ihtiyaçlarınızı","label":"O"},{"word":"duyurmamız","label":"O"},
+      {"word":"için","label":"O"},{"word":"dm","label":"O"},{"word":"kutumuz","label":"O"},
+      {"word":"açık","label":"O"},{"word":"bu","label":"O"},{"word":"postun","label":"O"},
+      {"word":"altına","label":"O"},{"word":"da","label":"O"},{"word":"yazabilirsiniz","label":"O"}
+    ]
+  },
+  {
+    "sentence": "hatay antakya akasya mahallesi 100 sokak no84 elif melisa allah rızası için yardım gönderin 40 saattir enkaz altındayım teyitli bilgi",
+    "labels": [
+      {"word":"hatay","label":"B-LOC"},{"word":"antakya","label":"I-LOC"},
+      {"word":"akasya","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"100","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},
+      {"word":"no84","label":"I-LOC"},
+      {"word":"elif","label":"O"},{"word":"melisa","label":"O"} 
+    ]
+  },
+  {
+    "sentence": "adıyaman merkez bahçelievler mahallesi atatürk bulvarı no 334 dilek apartmanı hala yaşayanlar var lütfen acil yardım",
+    "labels": [
+      {"word":"adıyaman","label":"B-LOC"},{"word":"merkez","label":"I-LOC"},
+      {"word":"bahçelievler","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"atatürk","label":"B-LOC"},{"word":"bulvarı","label":"I-LOC"},
+      {"word":"no","label":"I-LOC"},{"word":"334","label":"I-LOC"},
+      {"word":"dilek","label":"B-LOC"},{"word":"apartmanı","label":"I-LOC"} 
+    ]
+  },
+  {
+    "sentence": "hatayantakya cebrail mahallesi arikan apartmani ikra kirtasiye karşisi 537 497 4320 bir anne ve 6 yaşındaki oğlu acil yardım yaşam bulguları var",
+    "labels": [
+      {"word":"hatayantakya","label":"B-LOC"},
+      {"word":"cebrail","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+      {"word":"arikan","label":"B-LOC"},{"word":"apartmani","label":"I-LOC"},
+      {"word":"ikra","label":"B-LOC"},{"word":"kirtasiye","label":"I-LOC"},{"word":"karşisi","label":"I-LOC"} 
+    ]
+  }
+]

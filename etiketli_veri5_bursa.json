@@ -1,0 +1,1017 @@
+[
+    {
+      "sentence": "bursa nilüfer görükle mahallesi atatürk caddesi no12 enkaz altında ses var acil yardım vinç lazım",
+      "labels": [
+        {"word":"bursa","label":"B-LOC"},{"word":"nilüfer","label":"I-LOC"},{"word":"görükle","label":"I-LOC"},{"word":"mahallesi","label":"I-LOC"},
+        {"word":"atatürk","label":"B-LOC"},{"word":"caddesi","label":"I-LOC"},{"word":"no12","label":"I-LOC"},
+        {"word":"enkaz","label":"O"},{"word":"altında","label":"O"},{"word":"ses","label":"O"},{"word":"var","label":"O"},{"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"vinç","label":"O"},{"word":"lazım","label":"O"}
+      ]
+    },
+    {
+      "sentence": "osmangazi altıparmak caddesi heykel meydanı yakınında binada yaralılar var acil ekip istiyoruz",
+      "labels": [
+        {"word":"osmangazi","label":"B-LOC"},
+        {"word":"altıparmak","label":"B-LOC"},{"word":"caddesi","label":"I-LOC"},
+        {"word":"heykel","label":"B-LOC"},{"word":"meydanı","label":"I-LOC"},
+        {"word":"yakınında","label":"O"},{"word":"binada","label":"O"},{"word":"yaralılar","label":"O"},{"word":"var","label":"O"},{"word":"acil","label":"O"},{"word":"ekip","label":"O"},{"word":"istiyoruz","label":"O"}
+      ]
+    },
+    {
+      "sentence": "yıldırım selçukbey mahallesi 2 inci sokak 5 katlı bina çöktü kurtarma bekliyor lütfen yardım",
+      "labels": [
+        {"word":"yıldırım","label":"B-LOC"},{"word":"selçukbey","label":"I-LOC"},{"word":"mahallesi","label":"I-LOC"},
+        {"word":"2","label":"B-LOC"},{"word":"inci","label":"I-LOC"},{"word":"sokak","label":"I-LOC"},
+        {"word":"5","label":"B-LOC"},{"word":"katlı","label":"I-LOC"},{"word":"bina","label":"I-LOC"},
+        {"word":"çöktü","label":"O"},{"word":"kurtarma","label":"O"},{"word":"bekliyor","label":"O"},{"word":"lütfen","label":"O"},{"word":"yardım","label":"O"}
+      ]
+    },
+    {
+      "sentence": "inegöl sinanbey mahallesi mobilyacılar sitesi 7 blokta insanlar mahsur kaldı acil jeneratör gerek",
+      "labels": [
+        {"word":"inegöl","label":"B-LOC"},{"word":"sinanbey","label":"I-LOC"},{"word":"mahallesi","label":"I-LOC"},
+        {"word":"mobilyacılar","label":"B-LOC"},{"word":"sitesi","label":"I-LOC"},
+        {"word":"7","label":"B-LOC"},{"word":"blokta","label":"I-LOC"},
+        {"word":"insanlar","label":"O"},{"word":"mahsur","label":"O"},{"word":"kaldı","label":"O"},{"word":"acil","label":"O"},{"word":"jeneratör","label":"O"},{"word":"gerek","label":"O"}
+      ]
+    },
+    {
+      "sentence": "gemlik kumla mahallesi sahil caddesi no18 yaşlı çift evde sıkıştı ses geliyor acil kurtarma",
+      "labels": [
+        {"word":"gemlik","label":"B-LOC"},{"word":"kumla","label":"I-LOC"},{"word":"mahallesi","label":"I-LOC"},
+        {"word":"sahil","label":"B-LOC"},{"word":"caddesi","label":"I-LOC"},{"word":"no18","label":"I-LOC"},
+        {"word":"yaşlı","label":"O"},{"word":"çift","label":"O"},{"word":"evde","label":"O"},{"word":"sıkıştı","label":"O"},{"word":"ses","label":"O"},{"word":"geliyor","label":"O"},{"word":"acil","label":"O"},{"word":"kurtarma","label":"O"}
+      ]
+    },
+    {
+      "sentence": "mudanya güzelyalı siteler mah rıhtım sokak çadır yok çocuklar üşüyor battaniye acil",
+      "labels": [
+        {"word":"mudanya","label":"B-LOC"},
+        {"word":"güzelyalı","label":"B-LOC"},{"word":"siteler","label":"I-LOC"},{"word":"mah","label":"I-LOC"},
+        {"word":"rıhtım","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},
+        {"word":"çadır","label":"O"},{"word":"yok","label":"O"},{"word":"çocuklar","label":"O"},{"word":"üşüyor","label":"O"},{"word":"battaniye","label":"O"},{"word":"acil","label":"O"}
+      ]
+    },
+    {
+      "sentence": "karacabey eski garaj karşısı cumhuriyet alanı çadır dağıtımı yetersiz su ve erzak acil lazım",
+      "labels": [
+        {"word":"karacabey","label":"B-LOC"},
+        {"word":"eski","label":"B-LOC"},{"word":"garaj","label":"I-LOC"},{"word":"karşısı","label":"I-LOC"},
+        {"word":"cumhuriyet","label":"B-LOC"},{"word":"alanı","label":"I-LOC"},
+        {"word":"çadır","label":"O"},{"word":"dağıtımı","label":"O"},{"word":"yetersiz","label":"O"},{"word":"su","label":"O"},{"word":"ve","label":"O"},{"word":"erzak","label":"O"},{"word":"acil","label":"O"},{"word":"lazım","label":"O"}
+      ]
+    },
+    {
+      "sentence": "gürsu setbaşı yolu dervişpaşa sokak no3 apartmanda beş kişi göçük altında acil yardım",
+      "labels": [
+        {"word":"gürsu","label":"B-LOC"},
+        {"word":"setbaşı","label":"B-LOC"},{"word":"yolu","label":"I-LOC"},
+        {"word":"dervişpaşa","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},{"word":"no3","label":"I-LOC"},
+        {"word":"apartmanda","label":"O"},{"word":"beş","label":"O"},{"word":"kişi","label":"O"},{"word":"göçük","label":"O"},{"word":"altında","label":"O"},{"word":"acil","label":"O"},{"word":"yardım","label":"O"}
+      ]
+    },
+    {
+      "sentence": "kestel barakfakih organize sanayi bölgesi 4 cadde kesiminde fabrika çöktü işçiler içeride acil vinç",
+      "labels": [
+        {"word":"kestel","label":"B-LOC"},
+        {"word":"barakfakih","label":"B-LOC"},{"word":"organize","label":"I-LOC"},{"word":"sanayi","label":"I-LOC"},{"word":"bölgesi","label":"I-LOC"},
+        {"word":"4","label":"B-LOC"},{"word":"cadde","label":"I-LOC"},
+        {"word":"kesiminde","label":"O"},{"word":"fabrika","label":"O"},{"word":"çöktü","label":"O"},{"word":"işçiler","label":"O"},{"word":"içeride","label":"O"},{"word":"acil","label":"O"},{"word":"vinç","label":"O"}
+      ]
+    },
+    {
+      "sentence": "orhangazi çakırlı köyü merkez cami yanı çadır yok bebek maması su ihtiyaç acil",
+      "labels": [
+        {"word":"orhangazi","label":"B-LOC"},
+        {"word":"çakırlı","label":"B-LOC"},{"word":"köyü","label":"I-LOC"},
+        {"word":"merkez","label":"B-LOC"},{"word":"cami","label":"I-LOC"},{"word":"yanı","label":"I-LOC"},
+        {"word":"çadır","label":"O"},{"word":"yok","label":"O"},{"word":"bebek","label":"O"},{"word":"maması","label":"O"},{"word":"su","label":"O"},{"word":"ihtiyaç","label":"O"},{"word":"acil","label":"O"}
+      ]
+    },
+    {
+      "sentence": "mustafakemalpaşa meydan mahallesi ada sokak no7 enkazda termal kameraya canlı tespit 3 kişi acil",
+      "labels": [
+        {"word":"mustafakemalpaşa","label":"B-LOC"},
+        {"word":"meydan","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+        {"word":"ada","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},{"word":"no7","label":"I-LOC"},
+        {"word":"enkazda","label":"O"},{"word":"termal","label":"O"},{"word":"kameraya","label":"O"},
+        {"word":"canlı","label":"O"},{"word":"tespit","label":"O"},{"word":"3","label":"O"},{"word":"kişi","label":"O"},{"word":"acil","label":"O"}
+      ]
+    },
+    {
+      "sentence": "yenisehir kurtuluş mahallesi hastane caddesi no23 acil ambulans gerek yaralı çok",
+      "labels": [
+        {"word":"yenisehir","label":"B-LOC"},
+        {"word":"kurtuluş","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+        {"word":"hastane","label":"B-LOC"},{"word":"caddesi","label":"I-LOC"},{"word":"no23","label":"I-LOC"},
+        {"word":"acil","label":"O"},{"word":"ambulans","label":"O"},{"word":"gerek","label":"O"},{"word":"yaralı","label":"O"},{"word":"çok","label":"O"}
+      ]
+    },
+    {
+      "sentence": "iznik güzelköy mahallesi zeytinlik yolu kapalı yardım ekipleri ulaşamıyor acil iş makinesi",
+      "labels": [
+        {"word":"iznik","label":"B-LOC"},
+        {"word":"güzelköy","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+        {"word":"zeytinlik","label":"B-LOC"},{"word":"yolu","label":"I-LOC"},
+        {"word":"kapalı","label":"O"},{"word":"yardım","label":"O"},{"word":"ekipleri","label":"O"},{"word":"ulaşamıyor","label":"O"},{"word":"acil","label":"O"},{"word":"iş","label":"O"},{"word":"makinesi","label":"O"}
+      ]
+    },
+    {
+      "sentence": "bursa nilüfer ataevler mahallesi fatih sultan mehmet bulvarı trafik sıkıştı acil yardım araçları geçemiyor",
+      "labels": [
+        {"word":"bursa","label":"B-LOC"},{"word":"nilüfer","label":"I-LOC"},
+        {"word":"ataevler","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+        {"word":"fatih","label":"B-LOC"},{"word":"sultan","label":"I-LOC"},{"word":"mehmet","label":"I-LOC"},{"word":"bulvarı","label":"I-LOC"},
+        {"word":"trafik","label":"O"},{"word":"sıkıştı","label":"O"},{"word":"acil","label":"O"},{"word":"yardım","label":"O"},{"word":"araçları","label":"O"},{"word":"geçemiyor","label":"O"}
+      ]
+    },{
+        "sentence": "bursa osmangazi kuşkınar mahallesi çınar sokak no4 bina yıkıldı içeride çocuklar var acil ekip",
+        "labels": [
+          {"word":"bursa","label":"B-LOC"},{"word":"osmangazi","label":"I-LOC"},
+          {"word":"kuşkınar","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+          {"word":"çınar","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},{"word":"no4","label":"I-LOC"},
+          {"word":"bina","label":"O"},{"word":"yıkıldı","label":"O"},{"word":"içeride","label":"O"},
+          {"word":"çocuklar","label":"O"},{"word":"var","label":"O"},{"word":"acil","label":"O"},{"word":"ekip","label":"O"}
+        ]
+      },
+      {
+        "sentence": "bursa yıldırım millet mahallesi ileri caddesi no28 enkazdan ses geliyor termal kamera acil",
+        "labels": [
+          {"word":"bursa","label":"B-LOC"},{"word":"yıldırım","label":"I-LOC"},
+          {"word":"millet","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+          {"word":"ileri","label":"B-LOC"},{"word":"caddesi","label":"I-LOC"},{"word":"no28","label":"I-LOC"},
+          {"word":"enkazdan","label":"O"},{"word":"ses","label":"O"},{"word":"geliyor","label":"O"},
+          {"word":"termal","label":"O"},{"word":"kamera","label":"O"},{"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "bursa nilüfer beşevler kavaklıdere caddesi öğretmenler sitesi b blok çatlak ilerliyor çadır lazım",
+        "labels": [
+          {"word":"bursa","label":"B-LOC"},{"word":"nilüfer","label":"I-LOC"},
+          {"word":"beşevler","label":"B-LOC"},{"word":"kavaklıdere","label":"I-LOC"},{"word":"caddesi","label":"I-LOC"},
+          {"word":"öğretmenler","label":"B-LOC"},{"word":"sitesi","label":"I-LOC"},{"word":"b","label":"B-LOC"},{"word":"blok","label":"I-LOC"},
+          {"word":"çatlak","label":"O"},{"word":"ilerliyor","label":"O"},{"word":"çadır","label":"O"},{"word":"lazım","label":"O"}
+        ]
+      },
+      {
+        "sentence": "bursa inegöl alanyurt yeni mah selçuk sokak 3 araç geçemiyor ambulans acil yol açılsın",
+        "labels": [
+          {"word":"bursa","label":"B-LOC"},{"word":"inegöl","label":"I-LOC"},
+          {"word":"alanyurt","label":"B-LOC"},{"word":"yeni","label":"I-LOC"},{"word":"mah","label":"I-LOC"},
+          {"word":"selçuk","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},{"word":"3","label":"I-LOC"},
+          {"word":"araç","label":"O"},{"word":"geçemiyor","label":"O"},{"word":"ambulans","label":"O"},
+          {"word":"acil","label":"O"},{"word":"yol","label":"O"},{"word":"açılsın","label":"O"}
+        ]
+      },
+      {
+        "sentence": "bursa gemlik umurbey köyü meydan cami yanı çadır kurulmadı yaşlılar üşüyor acil battaniye",
+        "labels": [
+          {"word":"bursa","label":"B-LOC"},{"word":"gemlik","label":"I-LOC"},
+          {"word":"umurbey","label":"B-LOC"},{"word":"köyü","label":"I-LOC"},
+          {"word":"meydan","label":"B-LOC"},{"word":"cami","label":"I-LOC"},{"word":"yanı","label":"I-LOC"},
+          {"word":"çadır","label":"O"},{"word":"kurulmadı","label":"O"},{"word":"yaşlılar","label":"O"},
+          {"word":"üşüyor","label":"O"},{"word":"acil","label":"O"},{"word":"battaniye","label":"O"}
+        ]
+      },
+      {
+        "sentence": "bursa mudanya tirilye sahil yolu no56 restoran çöktü üç personel enkazda acil vinç",
+        "labels": [
+          {"word":"bursa","label":"B-LOC"},{"word":"mudanya","label":"I-LOC"},
+          {"word":"tirilye","label":"B-LOC"},
+          {"word":"sahil","label":"B-LOC"},{"word":"yolu","label":"I-LOC"},{"word":"no56","label":"I-LOC"},
+          {"word":"restoran","label":"O"},{"word":"çöktü","label":"O"},{"word":"üç","label":"O"},
+          {"word":"personel","label":"O"},{"word":"enkazda","label":"O"},{"word":"acil","label":"O"},{"word":"vinç","label":"O"}
+        ]
+      },
+      {
+        "sentence": "bursa kestel erdoğanköy organize sanayi 2 cadde fabrikada yangın çıktı deprem sonrası acil itfaiye",
+        "labels": [
+          {"word":"bursa","label":"B-LOC"},{"word":"kestel","label":"I-LOC"},
+          {"word":"erdoğanköy","label":"B-LOC"},
+          {"word":"organize","label":"B-LOC"},{"word":"sanayi","label":"I-LOC"},
+          {"word":"2","label":"B-LOC"},{"word":"cadde","label":"I-LOC"},
+          {"word":"fabrikada","label":"O"},{"word":"yangın","label":"O"},{"word":"çıktı","label":"O"},
+          {"word":"deprem","label":"O"},{"word":"sonrası","label":"O"},{"word":"acil","label":"O"},{"word":"itfaiye","label":"O"}
+        ]
+      },
+      {
+        "sentence": "bursa gürsu ivazpaşa mahallesi selvi sokak no12 kolonlar kırık tahliye gerekiyor acil destek",
+        "labels": [
+          {"word":"bursa","label":"B-LOC"},{"word":"gürsu","label":"I-LOC"},
+          {"word":"ivazpaşa","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+          {"word":"selvi","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},{"word":"no12","label":"I-LOC"},
+          {"word":"kolonlar","label":"O"},{"word":"kırık","label":"O"},{"word":"tahliye","label":"O"},
+          {"word":"gerekiyor","label":"O"},{"word":"acil","label":"O"},{"word":"destek","label":"O"}
+        ]
+      },
+      {
+        "sentence": "bursa karacabey ova mahallesi bandırma caddesi no7 konteyner yok bebek maması su acil",
+        "labels": [
+          {"word":"bursa","label":"B-LOC"},{"word":"karacabey","label":"I-LOC"},
+          {"word":"ova","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+          {"word":"bandırma","label":"B-LOC"},{"word":"caddesi","label":"I-LOC"},{"word":"no7","label":"I-LOC"},
+          {"word":"konteyner","label":"O"},{"word":"yok","label":"O"},{"word":"bebek","label":"O"},
+          {"word":"maması","label":"O"},{"word":"su","label":"O"},{"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "bursa orhangazi göl yolu iznik istikameti 5 km trafik durdu yardım tırları geçemiyor acil",
+        "labels": [
+          {"word":"bursa","label":"B-LOC"},{"word":"orhangazi","label":"I-LOC"},
+          {"word":"göl","label":"B-LOC"},{"word":"yolu","label":"I-LOC"},
+          {"word":"iznik","label":"B-LOC"},{"word":"istikameti","label":"I-LOC"},
+          {"word":"5","label":"B-LOC"},{"word":"km","label":"I-LOC"},
+          {"word":"trafik","label":"O"},{"word":"durdu","label":"O"},{"word":"yardım","label":"O"},
+          {"word":"tırları","label":"O"},{"word":"geçemiyor","label":"O"},{"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "bursa mustafakemalpaşa lalaşahin mahallesi pazar yeri çatı çöktü yaralılar var acil ambulans",
+        "labels": [
+          {"word":"bursa","label":"B-LOC"},{"word":"mustafakemalpaşa","label":"I-LOC"},
+          {"word":"lalaşahin","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+          {"word":"pazar","label":"B-LOC"},{"word":"yeri","label":"I-LOC"},
+          {"word":"çatı","label":"O"},{"word":"çöktü","label":"O"},{"word":"yaralılar","label":"O"},
+          {"word":"var","label":"O"},{"word":"acil","label":"O"},{"word":"ambulans","label":"O"}
+        ]
+      },
+      {
+        "sentence": "bursa iznik elbeyli beldesi bağlar sokak no3 ev yıkıldı haber alamıyoruz acil arama kurtarma",
+        "labels": [
+          {"word":"bursa","label":"B-LOC"},{"word":"iznik","label":"I-LOC"},
+          {"word":"elbeyli","label":"B-LOC"},{"word":"beldesi","label":"I-LOC"},
+          {"word":"bağlar","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},{"word":"no3","label":"I-LOC"},
+          {"word":"ev","label":"O"},{"word":"yıkıldı","label":"O"},{"word":"haber","label":"O"},
+          {"word":"alamıyoruz","label":"O"},{"word":"acil","label":"O"},{"word":"arama","label":"O"},
+          {"word":"kurtarma","label":"O"}
+        ]
+      },
+      {
+        "sentence": "bursa yenişehir çınarlı yol köprüsü çöktü köyler ulaşım dışı erzak ulaştırılamıyor acil iş makinesi",
+        "labels": [
+          {"word":"bursa","label":"B-LOC"},{"word":"yenişehir","label":"I-LOC"},
+          {"word":"çınarlı","label":"B-LOC"},{"word":"yol","label":"I-LOC"},
+          {"word":"köprüsü","label":"B-LOC"},
+          {"word":"çıktü","label":"O"}
+        ]
+      },{
+        "sentence": "yayalar mahallesi 29 ekim cad no12 orta hasarlı bina çökmek üzere acil destek bursa",
+        "labels": [
+          {"word":"yayalar","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+          {"word":"29","label":"B-LOC"},{"word":"ekim","label":"I-LOC"},{"word":"cad","label":"I-LOC"},{"word":"no12","label":"I-LOC"},
+          {"word":"orta","label":"O"},{"word":"hasarlı","label":"O"},{"word":"bina","label":"O"},{"word":"çökmek","label":"O"},
+          {"word":"üzere","label":"O"},{"word":"acil","label":"O"},{"word":"destek","label":"O"},
+          {"word":"bursa","label":"B-LOC"}
+        ]
+      },
+      {
+        "sentence": "osmangazi gülbahçe sokak no7 bursa itfaiye bekliyor içeride yaralılar var",
+        "labels": [
+          {"word":"osmangazi","label":"B-LOC"},{"word":"gülbahçe","label":"I-LOC"},{"word":"sokak","label":"I-LOC"},{"word":"no7","label":"I-LOC"},
+          {"word":"bursa","label":"B-LOC"},
+          {"word":"itfaiye","label":"O"},{"word":"bekliyor","label":"O"},{"word":"içeride","label":"O"},
+          {"word":"yaralılar","label":"O"},{"word":"var","label":"O"}
+        ]
+      },
+      {
+        "sentence": "karacabey yeniköy sahil sitesi a blok bursa deniz taşması oldu acil tahliye",
+        "labels": [
+          {"word":"karacabey","label":"B-LOC"},{"word":"yeniköy","label":"I-LOC"},
+          {"word":"sahil","label":"I-LOC"},{"word":"sitesi","label":"I-LOC"},{"word":"a","label":"I-LOC"},{"word":"blok","label":"I-LOC"},
+          {"word":"bursa","label":"B-LOC"},
+          {"word":"deniz","label":"O"},{"word":"taşması","label":"O"},{"word":"oldu","label":"O"},{"word":"acil","label":"O"},{"word":"tahliye","label":"O"}
+        ]
+      },
+      {
+        "sentence": "gürsu erikli mah şafak sokak 14 numara bina yan yatıyor bursa lütfen vinç",
+        "labels": [
+          {"word":"gürsu","label":"B-LOC"},{"word":"erikli","label":"I-LOC"},{"word":"mah","label":"I-LOC"},
+          {"word":"şafak","label":"B-LOC"},{"word":"sokak","label":"I-LOC"},{"word":"14","label":"I-LOC"},{"word":"numara","label":"I-LOC"},
+          {"word":"bina","label":"O"},{"word":"yan","label":"O"},{"word":"yatıyor","label":"O"},
+          {"word":"bursa","label":"B-LOC"},
+          {"word":"lütfen","label":"O"},{"word":"vinç","label":"O"}
+        ]
+      },
+      {
+        "sentence": "yardım tırları nilüfer ataevler fatih sultan mehmet bulvarı üzerinde sıkıştı bursa acil yönlendirme",
+        "labels": [
+          {"word":"yardım","label":"O"},{"word":"tırları","label":"O"},
+          {"word":"nilüfer","label":"B-LOC"},{"word":"ataevler","label":"I-LOC"},
+          {"word":"fatih","label":"B-LOC"},{"word":"sultan","label":"I-LOC"},{"word":"mehmet","label":"I-LOC"},{"word":"bulvarı","label":"I-LOC"},
+          {"word":"üzerinde","label":"O"},{"word":"sıkıştı","label":"O"},
+          {"word":"bursa","label":"B-LOC"},{"word":"acil","label":"O"},{"word":"yönlendirme","label":"O"}
+        ]
+      },
+      {
+        "sentence": "iznik çakırca köyü alt yol köprüsü hasarlı geçiş durdu acil onarım ekibi bursa",
+        "labels": [
+          {"word":"iznik","label":"B-LOC"},{"word":"çakırca","label":"I-LOC"},{"word":"köyü","label":"I-LOC"},
+          {"word":"alt","label":"B-LOC"},{"word":"yol","label":"I-LOC"},{"word":"köprüsü","label":"I-LOC"},
+          {"word":"hasarlı","label":"O"},{"word":"geçiş","label":"O"},{"word":"durdu","label":"O"},{"word":"acil","label":"O"},
+          {"word":"onarım","label":"O"},{"word":"ekibi","label":"O"},
+          {"word":"bursa","label":"B-LOC"}
+        ]
+      },
+      {
+        "sentence": "bademli mh 23 nisan cad üzeri köşedeki market yıkıldı kurtarma bekliyor bursa",
+        "labels": [
+          {"word":"bademli","label":"B-LOC"},{"word":"mh","label":"I-LOC"},
+          {"word":"23","label":"B-LOC"},{"word":"nisan","label":"I-LOC"},{"word":"cad","label":"I-LOC"},{"word":"üzeri","label":"I-LOC"},
+          {"word":"köşedeki","label":"O"},{"word":"market","label":"O"},{"word":"yıkıldı","label":"O"},
+          {"word":"kurtarma","label":"O"},{"word":"bekliyor","label":"O"},
+          {"word":"bursa","label":"B-LOC"}
+        ]
+      },
+      {
+        "sentence": "acil jeneratör lazım mustafakemalpaşa orta mahalle dere kenarı çadır kampında bursa elektrik yok",
+        "labels": [
+          {"word":"acil","label":"O"},{"word":"jeneratör","label":"O"},{"word":"lazım","label":"O"},
+          {"word":"mustafakemalpaşa","label":"B-LOC"},{"word":"orta","label":"I-LOC"},{"word":"mahalle","label":"I-LOC"},
+          {"word":"dere","label":"B-LOC"},{"word":"kenarı","label":"I-LOC"},
+          {"word":"çadır","label":"O"},{"word":"kampında","label":"O"},
+          {"word":"bursa","label":"B-LOC"},{"word":"elektrik","label":"O"},{"word":"yok","label":"O"}
+        ]
+      },
+      {
+        "sentence": "ortaokul bahçesi dosab demirtaş organize bursa bölgesinde 200 kişi açıkta battaniye yok",
+        "labels": [
+          {"word":"ortaokul","label":"O"},{"word":"bahçesi","label":"O"},
+          {"word":"dosab","label":"B-LOC"},{"word":"demirtaş","label":"I-LOC"},{"word":"organize","label":"I-LOC"},
+          {"word":"bursa","label":"B-LOC"},{"word":"bölgesinde","label":"O"},
+          {"word":"200","label":"O"},{"word":"kişi","label":"O"},{"word":"açıkta","label":"O"},
+          {"word":"battaniye","label":"O"},{"word":"yok","label":"O"}
+        ]
+      },
+      {
+        "sentence": "acil ses dinleme cihazı bekleniyor orhangazi çevre yolu shell karşısı çöken bina bursa",
+        "labels": [
+          {"word":"acil","label":"O"},{"word":"ses","label":"O"},{"word":"dinleme","label":"O"},{"word":"cihazı","label":"O"},{"word":"bekleniyor","label":"O"},
+          {"word":"orhangazi","label":"B-LOC"},{"word":"çevre","label":"I-LOC"},{"word":"yolu","label":"I-LOC"},
+          {"word":"shell","label":"B-LOC"},{"word":"karşısı","label":"I-LOC"},
+          {"word":"çöken","label":"O"},{"word":"bina","label":"O"},
+          {"word":"bursa","label":"B-LOC"}
+        ]
+      },
+      {
+        "sentence": "acil sağlık ekibi arslanbeyli köyü harmanlık mevkii karacabey bursa beş yaralı var",
+        "labels": [
+          {"word":"acil","label":"O"},{"word":"sağlık","label":"O"},{"word":"ekibi","label":"O"},
+          {"word":"arslanbeyli","label":"B-LOC"},{"word":"köyü","label":"I-LOC"},
+          {"word":"harmanlık","label":"B-LOC"},{"word":"mevkii","label":"I-LOC"},
+          {"word":"karacabey","label":"B-LOC"},
+          {"word":"bursa","label":"B-LOC"},
+          {"word":"beş","label":"O"},{"word":"yaralı","label":"O"},{"word":"var","label":"O"}
+        ]
+      },
+      {
+        "sentence": "iznik göl sahili çakırca kamp alanı çadır bitmiş bursa gönüllüler acil getirsin",
+        "labels": [
+          {"word":"iznik","label":"B-LOC"},{"word":"göl","label":"I-LOC"},{"word":"sahili","label":"I-LOC"},
+          {"word":"çakırca","label":"B-LOC"},{"word":"kamp","label":"I-LOC"},{"word":"alanı","label":"I-LOC"},
+          {"word":"çadır","label":"O"},{"word":"bitmiş","label":"O"},
+          {"word":"bursa","label":"B-LOC"},{"word":"gönüllüler","label":"O"},{"word":"acil","label":"O"},{"word":"getirsin","label":"O"}
+        ]
+      },
+      {
+        "sentence": "bademlik tepe çıkışı teleferik direği hasarlı yol kapandı acil mühendis bekleniyor bursa",
+        "labels": [
+          {"word":"bademlik","label":"B-LOC"},{"word":"tepe","label":"I-LOC"},{"word":"çıkışı","label":"I-LOC"},
+          {"word":"teleferik","label":"B-LOC"},{"word":"direği","label":"I-LOC"},
+          {"word":"hasarlı","label":"O"},{"word":"yol","label":"O"},{"word":"kapandı","label":"O"},{"word":"acil","label":"O"},{"word":"mühendis","label":"O"},{"word":"bekleniyor","label":"O"},
+          {"word":"bursa","label":"B-LOC"}
+        ]
+      },
+      {
+        "sentence": "hürriyet mah 6 eylül sokak no20 yıldırım bursa bebek maması su ve jeneratör lazım acil",
+        "labels": [
+          {"word":"hürriyet","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+          {"word":"6","label":"B-LOC"},{"word":"eylül","label":"I-LOC"},{"word":"sokak","label":"I-LOC"},{"word":"no20","label":"I-LOC"},
+          {"word":"yıldırım","label":"B-LOC"},
+          {"word":"bursa","label":"B-LOC"},
+          {"word":"bebek","label":"O"},{"word":"maması","label":"O"},{"word":"su","label":"O"},{"word":"ve","label":"O"},{"word":"jeneratör","label":"O"},{"word":"lazım","label":"O"},{"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "trafo patladı kayapa sanayi içi 4 cadde elektrik kesik bursa ekip gelsin acil",
+        "labels": [
+          {"word":"trafo","label":"O"},{"word":"patladı","label":"O"},
+          {"word":"kayapa","label":"B-LOC"},{"word":"sanayi","label":"I-LOC"},{"word":"içi","label":"I-LOC"},
+          {"word":"4","label":"B-LOC"},{"word":"cadde","label":"I-LOC"},
+          {"word":"elektrik","label":"O"},{"word":"kesik","label":"O"},
+          {"word":"bursa","label":"B-LOC"},{"word":"ekip","label":"O"},{"word":"gelsin","label":"O"},{"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "acil psikolojik destek hattı kuruldu ama görükle kampüs yurtlarına henüz ulaşmadı bursa",
+        "labels": [
+          {"word":"acil","label":"O"},{"word":"psikolojik","label":"O"},{"word":"destek","label":"O"},{"word":"hattı","label":"O"},{"word":"kuruldu","label":"O"},
+          {"word":"ama","label":"O"},{"word":"görükle","label":"B-LOC"},{"word":"kampüs","label":"I-LOC"},{"word":"yurtlarına","label":"I-LOC"},
+          {"word":"henüz","label":"O"},{"word":"ulaşmadı","label":"O"},
+          {"word":"bursa","label":"B-LOC"}
+        ]
+      },{
+        "sentence": "osmangazi emek mah yildirim cad 24 bursa ses var acil vinç",
+        "labels": [
+          {"word":"osmangazi","label":"B-LOC"},
+          {"word":"emek","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"yildirim","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"24","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"},
+          {"word":"ses","label":"O"},
+          {"word":"var","label":"O"},
+          {"word":"acil","label":"O"},
+          {"word":"vinç","label":"O"}
+        ]
+      },
+      {
+        "sentence": "nilüfer görükle mah doğu sok 7 numara çadır yok bursa",
+        "labels": [
+          {"word":"nilüfer","label":"B-LOC"},
+          {"word":"görükle","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"doğu","label":"I-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"7","label":"I-LOC"},
+          {"word":"numara","label":"O"},
+          {"word":"çadır","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"bursa","label":"B-LOC"}
+        ]
+      },
+      {
+        "sentence": "yardım bekleyenler var kestel yeni mah cumhuriyet cad 15 bursa",
+        "labels": [
+          {"word":"yardım","label":"O"},
+          {"word":"bekleyenler","label":"O"},
+          {"word":"var","label":"O"},
+          {"word":"kestel","label":"B-LOC"},
+          {"word":"yeni","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"cumhuriyet","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"15","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"}
+        ]
+      },
+      {
+        "sentence": "gürsu kavaklı mah karanfil sok 3 soba lazım acil bursa",
+        "labels": [
+          {"word":"gürsu","label":"B-LOC"},
+          {"word":"kavaklı","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"karanfil","label":"I-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"3","label":"I-LOC"},
+          {"word":"soba","label":"O"},
+          {"word":"lazım","label":"O"},
+          {"word":"acil","label":"O"},
+          {"word":"bursa","label":"B-LOC"}
+        ]
+      },
+      {
+        "sentence": "bursa mudanya halitpaşa mah iskender sok 10 jeneratör istiyor",
+        "labels": [
+          {"word":"bursa","label":"B-LOC"},
+          {"word":"mudanya","label":"I-LOC"},
+          {"word":"halitpaşa","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"iskender","label":"I-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"10","label":"I-LOC"},
+          {"word":"jeneratör","label":"O"},
+          {"word":"istiyor","label":"O"}
+        ]
+      },
+      {
+        "sentence": "gemlik umurbey mah zeytinlik cad 5 bursa gıda su yok",
+        "labels": [
+          {"word":"gemlik","label":"B-LOC"},
+          {"word":"umurbey","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"zeytinlik","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"5","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"},
+          {"word":"gıda","label":"O"},
+          {"word":"su","label":"O"},
+          {"word":"yok","label":"O"}
+        ]
+      },
+      {
+        "sentence": "inegöl alanyurt mah sakarya sok 19 battaniye eksik bursa",
+        "labels": [
+          {"word":"inegöl","label":"B-LOC"},
+          {"word":"alanyurt","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"sakarya","label":"I-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"19","label":"I-LOC"},
+          {"word":"battaniye","label":"O"},
+          {"word":"eksik","label":"O"},
+          {"word":"bursa","label":"B-LOC"}
+        ]
+      },
+      {
+        "sentence": "karacabey ovacık köy meydanı no 2 bursa çocuklar üşüyor",
+        "labels": [
+          {"word":"karacabey","label":"B-LOC"},
+          {"word":"ovacık","label":"I-LOC"},
+          {"word":"köy","label":"I-LOC"},
+          {"word":"meydanı","label":"I-LOC"},
+          {"word":"no","label":"I-LOC"},
+          {"word":"2","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"},
+          {"word":"çocuklar","label":"O"},
+          {"word":"üşüyor","label":"O"}
+        ]
+      },
+      {
+        "sentence": "bursa orhangazi camikebir mah atatürk cad 8 ses var vinç lazım",
+        "labels": [
+          {"word":"bursa","label":"B-LOC"},
+          {"word":"orhangazi","label":"I-LOC"},
+          {"word":"camikebir","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"atatürk","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"8","label":"I-LOC"},
+          {"word":"ses","label":"O"},
+          {"word":"var","label":"O"},
+          {"word":"vinç","label":"O"},
+          {"word":"lazım","label":"O"}
+        ]
+      },
+      {
+        "sentence": "iznik elbeyli mah göl yolu 4 numara bursa powerbank gerekiyor",
+        "labels": [
+          {"word":"iznik","label":"B-LOC"},
+          {"word":"elbeyli","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"göl","label":"I-LOC"},
+          {"word":"yolu","label":"I-LOC"},
+          {"word":"4","label":"I-LOC"},
+          {"word":"numara","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"},
+          {"word":"powerbank","label":"O"},
+          {"word":"gerekiyor","label":"O"}
+        ]
+      },
+      {
+        "sentence": "yenişehir gündoğan mah ankara cad 11 bursa soba odun yok",
+        "labels": [
+          {"word":"yenişehir","label":"B-LOC"},
+          {"word":"gündoğan","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"ankara","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"11","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"},
+          {"word":"soba","label":"O"},
+          {"word":"odun","label":"O"},
+          {"word":"yok","label":"O"}
+        ]
+      },
+      {
+        "sentence": "orhaneli çivili mah dere sok 6 acil çadır istiyoruz bursa",
+        "labels": [
+          {"word":"orhaneli","label":"B-LOC"},
+          {"word":"çivili","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"dere","label":"I-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"6","label":"I-LOC"},
+          {"word":"acil","label":"O"},
+          {"word":"çadır","label":"O"},
+          {"word":"istiyoruz","label":"O"},
+          {"word":"bursa","label":"B-LOC"}
+        ]
+      },
+      {
+        "sentence": "büyükorhan merkez mah atik cad 3 bursa ekip gelmedi",
+        "labels": [
+          {"word":"büyükorhan","label":"B-LOC"},
+          {"word":"merkez","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"atik","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"3","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"},
+          {"word":"ekip","label":"O"},
+          {"word":"gelmedi","label":"O"}
+        ]
+      },
+      {
+        "sentence": "harmancık balaban köy içi sok 1 bursa gıda su acil",
+        "labels": [
+          {"word":"harmancık","label":"B-LOC"},
+          {"word":"balaban","label":"I-LOC"},
+          {"word":"köy","label":"I-LOC"},
+          {"word":"içi","label":"I-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"1","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"},
+          {"word":"gıda","label":"O"},
+          {"word":"su","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "osmangazi altıparmak mah fevzi çakmak cad 29 jeneratör bursa lazım",
+        "labels": [
+          {"word":"osmangazi","label":"B-LOC"},
+          {"word":"altıparmak","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"fevzi","label":"I-LOC"},
+          {"word":"çakmak","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"29","label":"I-LOC"},
+          {"word":"jeneratör","label":"O"},
+          {"word":"bursa","label":"B-LOC"},
+          {"word":"lazım","label":"O"}
+        ]
+      },
+      {
+        "sentence": "yildirim millet mah kaplikaya cad 14 bursa ses geliyor vinç yok",
+        "labels": [
+          {"word":"yildirim","label":"B-LOC"},
+          {"word":"millet","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"kaplikaya","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"14","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"},
+          {"word":"ses","label":"O"},
+          {"word":"geliyor","label":"O"},
+          {"word":"vinç","label":"O"},
+          {"word":"yok","label":"O"}
+        ]
+      },
+      {
+        "sentence": "nilüfer odunluk mah izmir yolu 372 bursa bebek maması lazım",
+        "labels": [
+          {"word":"nilüfer","label":"B-LOC"},
+          {"word":"odunluk","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"izmir","label":"B-LOC"},
+          {"word":"yolu","label":"I-LOC"},
+          {"word":"372","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"},
+          {"word":"bebek","label":"O"},
+          {"word":"maması","label":"O"},
+          {"word":"lazım","label":"O"}
+        ]
+      },
+      {
+        "sentence": "gürsu erikli mah meşe sok 2 numara bursa termal kamera acil",
+        "labels": [
+          {"word":"gürsu","label":"B-LOC"},
+          {"word":"erikli","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"meşe","label":"I-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"2","label":"I-LOC"},
+          {"word":"numara","label":"O"},
+          {"word":"bursa","label":"B-LOC"},
+          {"word":"termal","label":"O"},
+          {"word":"kamera","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "bursa kestel yağmurca köy meydanı jeneratör yok çocuklar üşüyor",
+        "labels": [
+          {"word":"bursa","label":"B-LOC"},
+          {"word":"kestel","label":"I-LOC"},
+          {"word":"yağmurca","label":"I-LOC"},
+          {"word":"köy","label":"I-LOC"},
+          {"word":"meydanı","label":"I-LOC"},
+          {"word":"jeneratör","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"çocuklar","label":"O"},
+          {"word":"üşüyor","label":"O"}
+        ]
+      },
+      {
+        "sentence": "mudanya tirilye mah sahil cad 55 vinç lazım bursa",
+        "labels": [
+          {"word":"mudanya","label":"B-LOC"},
+          {"word":"tirilye","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"sahil","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"55","label":"I-LOC"},
+          {"word":"vinç","label":"O"},
+          {"word":"lazım","label":"O"},
+          {"word":"bursa","label":"B-LOC"}
+        ]
+      },
+      {
+        "sentence": "gemlik dr ziya kaya mah portakal sok 20 bursa battaniye istiyor",
+        "labels": [
+          {"word":"gemlik","label":"B-LOC"},
+          {"word":"dr","label":"I-LOC"},
+          {"word":"ziya","label":"I-LOC"},
+          {"word":"kaya","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"portakal","label":"I-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"20","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"},
+          {"word":"battaniye","label":"O"},
+          {"word":"istiyor","label":"O"}
+        ]
+      },
+      {
+        "sentence": "inegöl merkez yenice mah ankara cad 60 soba yok bursa üşüyoruz",
+        "labels": [
+          {"word":"inegöl","label":"B-LOC"},
+          {"word":"merkez","label":"I-LOC"},
+          {"word":"yenice","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"ankara","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"60","label":"I-LOC"},
+          {"word":"soba","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"bursa","label":"B-LOC"},
+          {"word":"üşüyoruz","label":"O"}
+        ]
+      },
+      {
+        "sentence": "orhangazi pancar mah atakent cad 9 ses duyuluyor vinç bursa acil",
+        "labels": [
+          {"word":"orhangazi","label":"B-LOC"},
+          {"word":"pancar","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"atakent","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"9","label":"I-LOC"},
+          {"word":"ses","label":"O"},
+          {"word":"duyuluyor","label":"O"},
+          {"word":"vinç","label":"O"},
+          {"word":"bursa","label":"B-LOC"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "iznik candarlı köy cami karşısı no 4 bursa bebek bezi lazım",
+        "labels": [
+          {"word":"iznik","label":"B-LOC"},
+          {"word":"candarlı","label":"I-LOC"},
+          {"word":"köy","label":"I-LOC"},
+          {"word":"cami","label":"I-LOC"},
+          {"word":"karşısı","label":"I-LOC"},
+          {"word":"no","label":"I-LOC"},
+          {"word":"4","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"},
+          {"word":"bebek","label":"O"},
+          {"word":"bezi","label":"O"},
+          {"word":"lazım","label":"O"}
+        ]
+      },
+      {
+        "sentence": "yenişehir iznik yolu 8 kilometre karaçam köy meydan bursa çadır yok",
+        "labels": [
+          {"word":"yenişehir","label":"B-LOC"},
+          {"word":"iznik","label":"I-LOC"},
+          {"word":"yolu","label":"I-LOC"},
+          {"word":"8","label":"B-LOC"},
+          {"word":"kilometre","label":"O"},
+          {"word":"karaçam","label":"B-LOC"},
+          {"word":"köy","label":"I-LOC"},
+          {"word":"meydan","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"},
+          {"word":"çadır","label":"O"},
+          {"word":"yok","label":"O"}
+        ]
+      },
+      {
+        "sentence": "orhaneli dağgüney mah okul sok 2 bursa termal battaniye acil",
+        "labels": [
+          {"word":"orhaneli","label":"B-LOC"},
+          {"word":"dağgüney","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"okul","label":"I-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"2","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"},
+          {"word":"termal","label":"O"},
+          {"word":"battaniye","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "büyükorhan perçin mah derebaşı cad 6 jeneratör yok bursa yardım",
+        "labels": [
+          {"word":"büyükorhan","label":"B-LOC"},
+          {"word":"perçin","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"derebaşı","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"6","label":"I-LOC"},
+          {"word":"jeneratör","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"bursa","label":"B-LOC"},
+          {"word":"yardım","label":"O"}
+        ]
+      },
+      {
+        "sentence": "harmancık narlı mah çınar sok 12 bursa ekip gelmedi ses var",
+        "labels": [
+          {"word":"harmancık","label":"B-LOC"},
+          {"word":"narlı","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"çınar","label":"I-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"12","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"},
+          {"word":"ekip","label":"O"},
+          {"word":"gelmedi","label":"O"},
+          {"word":"ses","label":"O"},
+          {"word":"var","label":"O"}
+        ]
+      },
+      {
+        "sentence": "osmangazi demirtaş mah zafer cad 40 bursa gıda dağıtılmadı",
+        "labels": [
+          {"word":"osmangazi","label":"B-LOC"},
+          {"word":"demirtaş","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"zafer","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"40","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"},
+          {"word":"gıda","label":"O"},
+          {"word":"dağıtılmadı","label":"O"}
+        ]
+      },
+      {
+        "sentence": "nilüfer ataevler mah bilgin sok 17 çadır battaniye bursa lazım",
+        "labels": [
+          {"word":"nilüfer","label":"B-LOC"},
+          {"word":"ataevler","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"bilgin","label":"I-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"17","label":"I-LOC"},
+          {"word":"çadır","label":"O"},
+          {"word":"battaniye","label":"O"},
+          {"word":"bursa","label":"B-LOC"},
+          {"word":"lazım","label":"O"}
+        ]
+      },
+      {
+        "sentence": "yildirim arabayatağı mah çınar cad 5 bursa termal kamera bekliyor",
+        "labels": [
+          {"word":"yildirim","label":"B-LOC"},
+          {"word":"arabayatağı","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"çınar","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"5","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"},
+          {"word":"termal","label":"O"},
+          {"word":"kamera","label":"O"},
+          {"word":"bekliyor","label":"O"}
+        ]
+      },
+      {
+        "sentence": "gürsu isabey mah tren yolu sk 2 bursa vinç yok ses var",
+        "labels": [
+          {"word":"gürsu","label":"B-LOC"},
+          {"word":"isabey","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"tren","label":"I-LOC"},
+          {"word":"yolu","label":"I-LOC"},
+          {"word":"sk","label":"I-LOC"},
+          {"word":"2","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"},
+          {"word":"vinç","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"ses","label":"O"},
+          {"word":"var","label":"O"}
+        ]
+      },
+      {
+        "sentence": "kestel barakfakih osb 4 cad 9 bursa çalışanlar için sıcak yemek yok",
+        "labels": [
+          {"word":"kestel","label":"B-LOC"},
+          {"word":"barakfakih","label":"I-LOC"},
+          {"word":"osb","label":"I-LOC"},
+          {"word":"4","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"9","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"},
+          {"word":"çalışanlar","label":"O"},
+          {"word":"için","label":"O"},
+          {"word":"sıcak","label":"O"},
+          {"word":"yemek","label":"O"},
+          {"word":"yok","label":"O"}
+        ]
+      },
+      {
+        "sentence": "mudanya aydınpınar köy çeşme başı no 1 bursa su ve jeneratör lazım",
+        "labels": [
+          {"word":"mudanya","label":"B-LOC"},
+          {"word":"aydınpınar","label":"I-LOC"},
+          {"word":"köy","label":"I-LOC"},
+          {"word":"çeşme","label":"I-LOC"},
+          {"word":"başı","label":"I-LOC"},
+          {"word":"no","label":"I-LOC"},
+          {"word":"1","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"},
+          {"word":"su","label":"O"},
+          {"word":"ve","label":"O"},
+          {"word":"jeneratör","label":"O"},
+          {"word":"lazım","label":"O"}
+        ]
+      },
+      {
+        "sentence": "karacabey hamidiye mah liman sok 5 bursa arama kurtarma gelmedi",
+        "labels": [
+          {"word":"karacabey","label":"B-LOC"},
+          {"word":"hamidiye","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"liman","label":"I-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"5","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"},
+          {"word":"arama","label":"O"},
+          {"word":"kurtarma","label":"O"},
+          {"word":"gelmedi","label":"O"}
+        ]
+      },
+      {
+        "sentence": "osmnagazi alaaddin mah kapalıçarşı içi 18 bursa dükkanlar yıkıldı destek",
+        "labels": [
+          {"word":"osmnagazi","label":"B-LOC"},
+          {"word":"alaaddin","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"kapalıçarşı","label":"I-LOC"},
+          {"word":"içi","label":"I-LOC"},
+          {"word":"18","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"},
+          {"word":"dükkanlar","label":"O"},
+          {"word":"yıkıldı","label":"O"},
+          {"word":"destek","label":"O"}
+        ]
+      },
+      {
+        "sentence": "yenişehir köprühisar mah ova sok 14 çadır battaniye bursa acil",
+        "labels": [
+          {"word":"yenişehir","label":"B-LOC"},
+          {"word":"köprühisar","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"ova","label":"I-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"14","label":"I-LOC"},
+          {"word":"çadır","label":"O"},
+          {"word":"battaniye","label":"O"},
+          {"word":"bursa","label":"B-LOC"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "bursa gemlik umurbey köyiçi meydan no 6 vinç bekliyor termal kamera",
+        "labels": [
+          {"word":"bursa","label":"B-LOC"},
+          {"word":"gemlik","label":"I-LOC"},
+          {"word":"umurbey","label":"I-LOC"},
+          {"word":"köyiçi","label":"I-LOC"},
+          {"word":"meydan","label":"I-LOC"},
+          {"word":"no","label":"I-LOC"},
+          {"word":"6","label":"I-LOC"},
+          {"word":"vinç","label":"O"},
+          {"word":"bekliyor","label":"O"},
+          {"word":"termal","label":"O"},
+          {"word":"kamera","label":"O"}
+        ]
+      },
+      {
+        "sentence": "nilüfer üçevler mah bostan sok 27 bursa elektrik kesik jeneratör yok",
+        "labels": [
+          {"word":"nilüfer","label":"B-LOC"},
+          {"word":"üçevler","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"bostan","label":"I-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"27","label":"I-LOC"},
+          {"word":"bursa","label":"I-LOC"},
+          {"word":"elektrik","label":"O"},
+          {"word":"kesik","label":"O"},
+          {"word":"jeneratör","label":"O"},
+          {"word":"yok","label":"O"}
+        ]
+      },
+    {
+      "sentence": "osmangazi demirtaşpaşa mahallesi istasyon caddesi no5 çatlak bina boşaltıldı çadır alanı bekliyor acil",
+      "labels": [
+        {"word":"osmangazi","label":"B-LOC"},
+        {"word":"demirtaşpaşa","label":"B-LOC"},{"word":"mahallesi","label":"I-LOC"},
+        {"word":"istasyon","label":"B-LOC"},{"word":"caddesi","label":"I-LOC"},{"word":"no5","label":"I-LOC"},
+        {"word":"çatlak","label":"O"},{"word":"bina","label":"O"},{"word":"boşaltıldı","label":"O"},{"word":"çadır","label":"O"},{"word":"alanı","label":"O"},{"word":"bekliyor","label":"O"},{"word":"acil","label":"O"}
+      ]
+    }
+  ]
+  

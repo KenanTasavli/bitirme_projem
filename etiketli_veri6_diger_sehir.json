@@ -1,0 +1,1807 @@
+[
+    {
+      "sentence": "çankaya bahçelievler 7 cad no15 ankara acil vinç lazım bina çöktü",
+      "labels": [
+        {"word":"çankaya","label":"B-LOC"},
+        {"word":"bahçelievler","label":"I-LOC"},
+        {"word":"7","label":"B-LOC"},
+        {"word":"cad","label":"I-LOC"},
+        {"word":"no15","label":"I-LOC"},
+        {"word":"ankara","label":"B-LOC"},
+        {"word":"acil","label":"O"},{"word":"vinç","label":"O"},{"word":"lazım","label":"O"},{"word":"bina","label":"O"},{"word":"çöktü","label":"O"}
+      ]
+    },
+    {
+      "sentence": "üsküdar selami ali mah dr fahri atabey sok 12 ekip bekliyor istanbul",
+      "labels": [
+        {"word":"üsküdar","label":"B-LOC"},{"word":"selami","label":"I-LOC"},{"word":"ali","label":"I-LOC"},{"word":"mah","label":"I-LOC"},
+        {"word":"dr","label":"I-LOC"},{"word":"fahri","label":"I-LOC"},{"word":"atabey","label":"I-LOC"},{"word":"sok","label":"I-LOC"},
+        {"word":"12","label":"B-LOC"},
+        {"word":"ekip","label":"O"},{"word":"bekliyor","label":"O"},
+        {"word":"istanbul","label":"B-LOC"}
+      ]
+    },
+    {
+      "sentence": "karabağlar esenlik sok 34 no4 izmir çocuklar enkazda ses var acil",
+      "labels": [
+        {"word":"karabağlar","label":"B-LOC"},{"word":"esenlik","label":"I-LOC"},{"word":"sok","label":"I-LOC"},
+        {"word":"34","label":"B-LOC"},{"word":"no4","label":"I-LOC"},
+        {"word":"izmir","label":"B-LOC"},
+        {"word":"çocuklar","label":"O"},{"word":"enkazda","label":"O"},{"word":"ses","label":"O"},{"word":"var","label":"O"},{"word":"acil","label":"O"}
+      ]
+    },
+    {
+      "sentence": "şehitkamil üniversite bulvarı gazi apt b blok 3 kat gaziantep yardım",
+      "labels": [
+        {"word":"şehitkamil","label":"B-LOC"},{"word":"üniversite","label":"I-LOC"},{"word":"bulvarı","label":"I-LOC"},
+        {"word":"gazi","label":"I-LOC"},{"word":"apt","label":"I-LOC"},{"word":"b","label":"I-LOC"},{"word":"blok","label":"I-LOC"},
+        {"word":"3","label":"B-LOC"},{"word":"kat","label":"I-LOC"},
+        {"word":"gaziantep","label":"B-LOC"},
+        {"word":"yardım","label":"O"}
+      ]
+    },
+    {
+      "sentence": "seyhan kızılırmak mah atatürk cad 4083 sok adana battaniye yok acil",
+      "labels": [
+        {"word":"seyhan","label":"B-LOC"},{"word":"kızılırmak","label":"I-LOC"},{"word":"mah","label":"I-LOC"},
+        {"word":"atatürk","label":"B-LOC"},{"word":"cad","label":"I-LOC"},
+        {"word":"4083","label":"B-LOC"},{"word":"sok","label":"I-LOC"},
+        {"word":"adana","label":"B-LOC"},
+        {"word":"battaniye","label":"O"},{"word":"yok","label":"O"},{"word":"acil","label":"O"}
+      ]
+    },
+    {
+      "sentence": "odabaşı mah uğur mumcu bulvarı hatay hala yardım gelmedi",
+      "labels": [
+        {"word":"odabaşı","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+        {"word":"uğur","label":"B-LOC"},{"word":"mumcu","label":"I-LOC"},{"word":"bulvarı","label":"I-LOC"},
+        {"word":"hatay","label":"B-LOC"},
+        {"word":"hala","label":"O"},{"word":"yardım","label":"O"},{"word":"gelmedi","label":"O"}
+      ]
+    },
+    {
+      "sentence": "yeşilyurt inönü mah turgut özal cad no9 malatya vinç ihtiyacı var",
+      "labels": [
+        {"word":"yeşilyurt","label":"B-LOC"},{"word":"inönü","label":"I-LOC"},{"word":"mah","label":"I-LOC"},
+        {"word":"turgut","label":"B-LOC"},{"word":"özal","label":"I-LOC"},{"word":"cad","label":"I-LOC"},{"word":"no9","label":"I-LOC"},
+        {"word":"malatya","label":"B-LOC"},
+        {"word":"vinç","label":"O"},{"word":"ihtiyacı","label":"O"},{"word":"var","label":"O"}
+      ]
+    },
+    {
+      "sentence": "dulkadiroğlu ismetpaşa mah şehit mücahit şimşek sok 5 maraş acil",
+      "labels": [
+        {"word":"dulkadiroğlu","label":"B-LOC"},{"word":"ismetpaşa","label":"I-LOC"},{"word":"mah","label":"I-LOC"},
+        {"word":"şehit","label":"B-LOC"},{"word":"mücahit","label":"I-LOC"},{"word":"şimşek","label":"I-LOC"},{"word":"sok","label":"I-LOC"},
+        {"word":"5","label":"B-LOC"},
+        {"word":"maraş","label":"B-LOC"},
+        {"word":"acil","label":"O"}
+      ]
+    },
+    {
+      "sentence": "sur melikahmet mah gazi cad 116 diyarbakır ekipler gelmedi lütfen",
+      "labels": [
+        {"word":"sur","label":"B-LOC"},{"word":"melikahmet","label":"I-LOC"},{"word":"mah","label":"I-LOC"},
+        {"word":"gazi","label":"B-LOC"},{"word":"cad","label":"I-LOC"},{"word":"116","label":"B-LOC"},
+        {"word":"diyarbakır","label":"B-LOC"},
+        {"word":"ekipler","label":"O"},{"word":"gelmedi","label":"O"},{"word":"lütfen","label":"O"}
+      ]
+    },
+    {
+      "sentence": "kepez varsak altıay mah 2519 sok no3 antalya su ve çadır yok",
+      "labels": [
+        {"word":"kepez","label":"B-LOC"},{"word":"varsak","label":"I-LOC"},{"word":"altıay","label":"I-LOC"},{"word":"mah","label":"I-LOC"},
+        {"word":"2519","label":"B-LOC"},{"word":"sok","label":"I-LOC"},{"word":"no3","label":"I-LOC"},
+        {"word":"antalya","label":"B-LOC"},
+        {"word":"su","label":"O"},{"word":"ve","label":"O"},{"word":"çadır","label":"O"},{"word":"yok","label":"O"}
+      ]
+    },
+    {
+      "sentence": "canik yeni mah atatürk bulvarı 123 samsun acil jeneratör talebi",
+      "labels": [
+        {"word":"canik","label":"B-LOC"},{"word":"yeni","label":"I-LOC"},{"word":"mah","label":"I-LOC"},
+        {"word":"atatürk","label":"B-LOC"},{"word":"bulvarı","label":"I-LOC"},
+        {"word":"123","label":"B-LOC"},
+        {"word":"samsun","label":"B-LOC"},
+        {"word":"acil","label":"O"},{"word":"jeneratör","label":"O"},{"word":"talebi","label":"O"}
+      ]
+    },
+    {
+      "sentence": "ortahisar kalkınma mah farabi cad no20 trabzon yardıma ihtiyaç var",
+      "labels": [
+        {"word":"ortahisar","label":"B-LOC"},{"word":"kalkınma","label":"I-LOC"},{"word":"mah","label":"I-LOC"},
+        {"word":"farabi","label":"B-LOC"},{"word":"cad","label":"I-LOC"},{"word":"no20","label":"I-LOC"},
+        {"word":"trabzon","label":"B-LOC"},
+        {"word":"yardıma","label":"O"},{"word":"ihtiyaç","label":"O"},{"word":"var","label":"O"}
+      ]
+    },
+    {
+      "sentence": "palandöken abdurrahman gazi mah miraç sok 8 erzurum bina çatladı acil",
+      "labels": [
+        {"word":"palandöken","label":"B-LOC"},{"word":"abdurrahman","label":"I-LOC"},{"word":"gazi","label":"I-LOC"},{"word":"mah","label":"I-LOC"},
+        {"word":"miraç","label":"B-LOC"},{"word":"sok","label":"I-LOC"},{"word":"8","label":"B-LOC"},
+        {"word":"erzurum","label":"B-LOC"},
+        {"word":"bina","label":"O"},{"word":"çatladı","label":"O"},{"word":"acil","label":"O"}
+      ]
+    },
+    {
+      "sentence": "yahyakaptan mah seka park yanı izmit kocaeli çadır dağıtın lütfen",
+      "labels": [
+        {"word":"yahyakaptan","label":"B-LOC"},{"word":"mah","label":"I-LOC"},{"word":"seka","label":"B-LOC"},{"word":"park","label":"I-LOC"},{"word":"yanı","label":"I-LOC"},
+        {"word":"izmit","label":"B-LOC"},{"word":"kocaeli","label":"I-LOC"},
+        {"word":"çadır","label":"O"},{"word":"dağıtın","label":"O"},{"word":"lütfen","label":"O"}
+      ]
+    },
+    {
+      "sentence": "odunpazarı vişnelik mah barış cad numara 7 eskişehir enkaz sesi",
+      "labels": [
+        {"word":"odunpazarı","label":"B-LOC"},{"word":"vişnelik","label":"I-LOC"},{"word":"mah","label":"I-LOC"},
+        {"word":"barış","label":"B-LOC"},{"word":"cad","label":"I-LOC"},{"word":"numara","label":"I-LOC"},{"word":"7","label":"B-LOC"},
+        {"word":"eskişehir","label":"B-LOC"},
+        {"word":"enkaz","label":"O"},{"word":"sesi","label":"O"}
+      ]
+    },
+    {
+      "sentence": "selçuklu sultan alaaddin cad no42 konya ekipman yok acil destek",
+      "labels": [
+        {"word":"selçuklu","label":"B-LOC"},
+        {"word":"sultan","label":"B-LOC"},{"word":"alaaddin","label":"I-LOC"},{"word":"cad","label":"I-LOC"},{"word":"no42","label":"I-LOC"},
+        {"word":"konya","label":"B-LOC"},
+        {"word":"ekipman","label":"O"},{"word":"yok","label":"O"},{"word":"acil","label":"O"},{"word":"destek","label":"O"}
+      ]
+    },
+    {
+      "sentence": "toroslar çavuşlu mah 12026 sok no8 mersin kıyafet eksik acil",
+      "labels": [
+        {"word":"toroslar","label":"B-LOC"},{"word":"çavuşlu","label":"I-LOC"},{"word":"mah","label":"I-LOC"},
+        {"word":"12026","label":"B-LOC"},{"word":"sok","label":"I-LOC"},{"word":"no8","label":"I-LOC"},
+        {"word":"mersin","label":"B-LOC"},
+        {"word":"kıyafet","label":"O"},{"word":"eksik","label":"O"},{"word":"acil","label":"O"}
+      ]
+    },
+    {
+      "sentence": "devteşti mah ahmet yesevi cad 242 haliliye urfa çocuk hasta su yok",
+      "labels": [
+        {"word":"devteşti","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+        {"word":"ahmet","label":"B-LOC"},{"word":"yesevi","label":"I-LOC"},{"word":"cad","label":"I-LOC"},{"word":"242","label":"B-LOC"},
+        {"word":"haliliye","label":"B-LOC"},{"word":"urfa","label":"I-LOC"},
+        {"word":"çocuk","label":"O"},{"word":"hasta","label":"O"},{"word":"su","label":"O"},{"word":"yok","label":"O"}
+      ]
+    },
+    {
+      "sentence": "asmalıevler mah çamlık bulvarı numara 6 pamukkale denizli acil vinç",
+      "labels": [
+        {"word":"asmalıevler","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+        {"word":"çamlık","label":"B-LOC"},{"word":"bulvarı","label":"I-LOC"},{"word":"numara","label":"I-LOC"},{"word":"6","label":"B-LOC"},
+        {"word":"pamukkale","label":"B-LOC"},{"word":"denizli","label":"I-LOC"},
+        {"word":"acil","label":"O"},{"word":"vinç","label":"O"}
+      ]
+    },
+    {
+      "sentence": "yarhasanlar mah milli egemenlik cad 50 manisa şehzadeler göçük altında",
+      "labels": [
+        {"word":"yarhasanlar","label":"B-LOC"},{"word":"mah","label":"I-LOC"},
+        {"word":"milli","label":"B-LOC"},{"word":"egemenlik","label":"I-LOC"},{"word":"cad","label":"I-LOC"},{"word":"50","label":"B-LOC"},
+        {"word":"manisa","label":"B-LOC"},{"word":"şehzadeler","label":"I-LOC"},
+        {"word":"göçük","label":"O"},{"word":"altında","label":"O"}
+      ]
+    },{
+        "sentence": "altıeylül bahçelievler mah vali konağı cad 32 balıkesir enkazda ses var acil",
+        "labels": [
+          {"word":"altıeylül","label":"B-LOC"},
+          {"word":"bahçelievler","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"vali","label":"B-LOC"},
+          {"word":"konağı","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"32","label":"B-LOC"},
+          {"word":"balıkesir","label":"B-LOC"},
+          {"word":"enkazda","label":"O"},
+          {"word":"ses","label":"O"},
+          {"word":"var","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "ata mah incirliova sok 14 efeler aydın çadır yok üşüyoruz",
+        "labels": [
+          {"word":"ata","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"incirliova","label":"I-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"14","label":"B-LOC"},
+          {"word":"efeler","label":"B-LOC"},
+          {"word":"aydın","label":"I-LOC"},
+          {"word":"çadır","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"üşüyoruz","label":"O"}
+        ]
+      },
+      {
+        "sentence": "çorlu şeyhsinan mah kale ardı cad no5 tekirdağ profesyonel ekip acil",
+        "labels": [
+          {"word":"çorlu","label":"B-LOC"},
+          {"word":"şeyhsinan","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"kale","label":"B-LOC"},
+          {"word":"ardı","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"no5","label":"I-LOC"},
+          {"word":"tekirdağ","label":"B-LOC"},
+          {"word":"profesyonel","label":"O"},
+          {"word":"ekip","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "hilal mah vali konağı sok 9 batman su yok bebekler üşüyor",
+        "labels": [
+          {"word":"hilal","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"vali","label":"B-LOC"},
+          {"word":"konağı","label":"I-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"9","label":"B-LOC"},
+          {"word":"batman","label":"B-LOC"},
+          {"word":"su","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"bebekler","label":"O"},
+          {"word":"üşüyor","label":"O"}
+        ]
+      },
+      {
+        "sentence": "rüstem paşa mah sarayaltı cad 18 elazığ vinç bekleniyor lütfen",
+        "labels": [
+          {"word":"rüstem","label":"B-LOC"},
+          {"word":"paşa","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"sarayaltı","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"18","label":"B-LOC"},
+          {"word":"elazığ","label":"B-LOC"},
+          {"word":"vinç","label":"O"},
+          {"word":"bekleniyor","label":"O"},
+          {"word":"lütfen","label":"O"}
+        ]
+      },
+      {
+        "sentence": "faikbey mah atatürk cad no27 kars çadır battaniye acil gerekiyor",
+        "labels": [
+          {"word":"faikbey","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"atatürk","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"no27","label":"I-LOC"},
+          {"word":"kars","label":"B-LOC"},
+          {"word":"çadır","label":"O"},
+          {"word":"battaniye","label":"O"},
+          {"word":"acil","label":"O"},
+          {"word":"gerekiyor","label":"O"}
+        ]
+      },
+      {
+        "sentence": "gazi cad 56 merkez çorum kurtarma ekibi gelmedi çok soğuk",
+        "labels": [
+          {"word":"gazi","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"56","label":"B-LOC"},
+          {"word":"merkez","label":"B-LOC"},
+          {"word":"çorum","label":"I-LOC"},
+          {"word":"kurtarma","label":"O"},
+          {"word":"ekibi","label":"O"},
+          {"word":"gelmedi","label":"O"},
+          {"word":"çok","label":"O"},
+          {"word":"soğuk","label":"O"}
+        ]
+      },
+      {
+        "sentence": "yedişehitler mah istiklal cad 105 isparta enkaz altından ses var",
+        "labels": [
+          {"word":"yedişehitler","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"istiklal","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"105","label":"B-LOC"},
+          {"word":"isparta","label":"B-LOC"},
+          {"word":"enkaz","label":"O"},
+          {"word":"altından","label":"O"},
+          {"word":"ses","label":"O"},
+          {"word":"var","label":"O"}
+        ]
+      },
+      {
+        "sentence": "subaşı beldesi atatürk cad 19 yalova jeneratör ihtiyacı acil",
+        "labels": [
+          {"word":"subaşı","label":"B-LOC"},
+          {"word":"beldesi","label":"I-LOC"},
+          {"word":"atatürk","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"19","label":"B-LOC"},
+          {"word":"yalova","label":"B-LOC"},
+          {"word":"jeneratör","label":"O"},
+          {"word":"ihtiyacı","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "kemer mah dere sok 3 bartın ekip yok tek başımıza kaldık",
+        "labels": [
+          {"word":"kemer","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"dere","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"3","label":"B-LOC"},
+          {"word":"bartın","label":"B-LOC"},
+          {"word":"ekip","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"tek","label":"O"},
+          {"word":"başımıza","label":"O"},
+          {"word":"kaldık","label":"O"}
+        ]
+      },
+      {
+        "sentence": "çayeli sabuncular mah zümrüt sok 11 rize gıda su çadır acil",
+        "labels": [
+          {"word":"çayeli","label":"B-LOC"},
+          {"word":"sabuncular","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"zümrüt","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"11","label":"B-LOC"},
+          {"word":"rize","label":"B-LOC"},
+          {"word":"gıda","label":"O"},
+          {"word":"su","label":"O"},
+          {"word":"çadır","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "kötekli mah muğla üniversite cad 8 menteşe muğla destek bekliyor",
+        "labels": [
+          {"word":"kötekli","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"muğla","label":"B-LOC"},
+          {"word":"üniversite","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"8","label":"B-LOC"},
+          {"word":"menteşe","label":"B-LOC"},
+          {"word":"muğla","label":"I-LOC"},
+          {"word":"destek","label":"O"},
+          {"word":"bekliyor","label":"O"}
+        ]
+      },
+      {
+        "sentence": "gelincik mah deniz sok 4 sinop elektrik yok çocuk hasta acil",
+        "labels": [
+          {"word":"gelincik","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"deniz","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"4","label":"B-LOC"},
+          {"word":"sinop","label":"B-LOC"},
+          {"word":"elektrik","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"çocuk","label":"O"},
+          {"word":"hasta","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "gaybiefendi mah dumlupınar cad 29 kütahya vinç gelmedi hala",
+        "labels": [
+          {"word":"gaybiefendi","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"dumlupınar","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"29","label":"B-LOC"},
+          {"word":"kütahya","label":"B-LOC"},
+          {"word":"vinç","label":"O"},
+          {"word":"gelmedi","label":"O"},
+          {"word":"hala","label":"O"}
+        ]
+      },
+      {
+        "sentence": "serdivan kemalpaşa mah 410 sok no10 sakarya battaniye lazım acil",
+        "labels": [
+          {"word":"serdivan","label":"B-LOC"},
+          {"word":"kemalpaşa","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"410","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"no10","label":"I-LOC"},
+          {"word":"sakarya","label":"B-LOC"},
+          {"word":"battaniye","label":"O"},
+          {"word":"lazım","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "düzce merkez kültür mah bolu cad 12 jeneratör yok acil",
+        "labels": [
+          {"word":"düzce","label":"B-LOC"},
+          {"word":"merkez","label":"I-LOC"},
+          {"word":"kültür","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"bolu","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"12","label":"B-LOC"},
+          {"word":"jeneratör","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "bor bahçeli mah atatürk cad 6 niğde ekiplere ihtiyaç var",
+        "labels": [
+          {"word":"bor","label":"B-LOC"},
+          {"word":"bahçeli","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"atatürk","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"6","label":"B-LOC"},
+          {"word":"niğde","label":"B-LOC"},
+          {"word":"ekiplere","label":"O"},
+          {"word":"ihtiyaç","label":"O"},
+          {"word":"var","label":"O"}
+        ]
+      },
+      {
+        "sentence": "ahmet yılmaz mah 135 sok karaman merkez su gıda yok acil destek",
+        "labels": [
+          {"word":"ahmet","label":"B-LOC"},
+          {"word":"yılmaz","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"135","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"karaman","label":"B-LOC"},
+          {"word":"merkez","label":"I-LOC"},
+          {"word":"su","label":"O"},
+          {"word":"gıda","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"acil","label":"O"},
+          {"word":"destek","label":"O"}
+        ]
+      },
+      {
+        "sentence": "ürgüp esbelli mah kaya sok 7 nevşehir kurtarma gelmedi acil",
+        "labels": [
+          {"word":"ürgüp","label":"B-LOC"},
+          {"word":"esbelli","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"kaya","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"7","label":"B-LOC"},
+          {"word":"nevşehir","label":"B-LOC"},
+          {"word":"kurtarma","label":"O"},
+          {"word":"gelmedi","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },{
+        "sentence": "yıldızkent mah palandöken cad 10 erzurum kurtarma bekliyor acil",
+        "labels": [
+          {"word":"yıldızkent","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"palandöken","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"10","label":"B-LOC"},
+          {"word":"erzurum","label":"B-LOC"},
+          {"word":"kurtarma","label":"O"},
+          {"word":"bekliyor","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "çiğli evka5 mah kızılay sok 22 izmir jeneratör yok acil",
+        "labels": [
+          {"word":"çiğli","label":"B-LOC"},
+          {"word":"evka5","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"kızılay","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"22","label":"B-LOC"},
+          {"word":"izmir","label":"B-LOC"},
+          {"word":"jeneratör","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "barbaros mah gültepe cad 7 mersin toroslar çadır ihtiyacı var",
+        "labels": [
+          {"word":"barbaros","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"gültepe","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"7","label":"B-LOC"},
+          {"word":"mersin","label":"B-LOC"},
+          {"word":"toroslar","label":"I-LOC"},
+          {"word":"çadır","label":"O"},
+          {"word":"ihtiyacı","label":"O"},
+          {"word":"var","label":"O"}
+        ]
+      },
+      {
+        "sentence": "melikgazi anbar mah bağdat sok 5 kayseri termal kamera lazım acil",
+        "labels": [
+          {"word":"melikgazi","label":"B-LOC"},
+          {"word":"anbar","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"bağdat","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"5","label":"B-LOC"},
+          {"word":"kayseri","label":"B-LOC"},
+          {"word":"termal","label":"O"},
+          {"word":"kamera","label":"O"},
+          {"word":"lazım","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "esentepe mah istasyon cad 18 siverek şanlıurfa su yok bebek var",
+        "labels": [
+          {"word":"esentepe","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"istasyon","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"18","label":"B-LOC"},
+          {"word":"siverek","label":"B-LOC"},
+          {"word":"şanlıurfa","label":"I-LOC"},
+          {"word":"su","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"bebek","label":"O"},
+          {"word":"var","label":"O"}
+        ]
+      },
+      {
+        "sentence": "yenidoğan mah menekşe sok 9 sivas gıda battaniye acil destek",
+        "labels": [
+          {"word":"yenidoğan","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"menekşe","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"9","label":"B-LOC"},
+          {"word":"sivas","label":"B-LOC"},
+          {"word":"gıda","label":"O"},
+          {"word":"battaniye","label":"O"},
+          {"word":"acil","label":"O"},
+          {"word":"destek","label":"O"}
+        ]
+      },
+      {
+        "sentence": "selçuklu bosna hersek mah saraybosna cad 30 konya vinç bekliyor",
+        "labels": [
+          {"word":"selçuklu","label":"B-LOC"},
+          {"word":"bosna","label":"I-LOC"},
+          {"word":"hersek","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"saraybosna","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"30","label":"B-LOC"},
+          {"word":"konya","label":"B-LOC"},
+          {"word":"vinç","label":"O"},
+          {"word":"bekliyor","label":"O"}
+        ]
+      },
+      {
+        "sentence": "canik karşıyaka mah 19 mayıs bulvarı 12 samsun ekip gelmedi acil",
+        "labels": [
+          {"word":"canik","label":"B-LOC"},
+          {"word":"karşıyaka","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"19","label":"B-LOC"},
+          {"word":"mayıs","label":"I-LOC"},
+          {"word":"bulvarı","label":"I-LOC"},
+          {"word":"12","label":"B-LOC"},
+          {"word":"samsun","label":"B-LOC"},
+          {"word":"ekip","label":"O"},
+          {"word":"gelmedi","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "yeşilırmak mah gaziosmanpaşa cad 6 tokat jeneratör çok lazım",
+        "labels": [
+          {"word":"yeşilırmak","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"gaziosmanpaşa","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"6","label":"B-LOC"},
+          {"word":"tokat","label":"B-LOC"},
+          {"word":"jeneratör","label":"O"},
+          {"word":"çok","label":"O"},
+          {"word":"lazım","label":"O"}
+        ]
+      },
+      {
+        "sentence": "bağlar nükhet coşkun cad 44 diyarkent diyabakır çadır yok acil",
+        "labels": [
+          {"word":"bağlar","label":"B-LOC"},
+          {"word":"nükhet","label":"B-LOC"},
+          {"word":"coşkun","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"44","label":"B-LOC"},
+          {"word":"diyarkent","label":"B-LOC"},
+          {"word":"diyabakır","label":"I-LOC"},
+          {"word":"çadır","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "ipekyolu halilağa mah cumhuriyet sok 3 van gıda su acil",
+        "labels": [
+          {"word":"ipekyolu","label":"B-LOC"},
+          {"word":"halilağa","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"cumhuriyet","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"3","label":"B-LOC"},
+          {"word":"van","label":"B-LOC"},
+          {"word":"gıda","label":"O"},
+          {"word":"su","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "derince yenikent mah ışık sok 2 kocaeli vinç ekipman acil",
+        "labels": [
+          {"word":"derince","label":"B-LOC"},
+          {"word":"yenikent","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"ışık","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"2","label":"B-LOC"},
+          {"word":"kocaeli","label":"B-LOC"},
+          {"word":"vinç","label":"O"},
+          {"word":"ekipman","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "odunpazarı ikiqızlar cad 50 eskişehir battaniye soba acil lazım",
+        "labels": [
+          {"word":"odunpazarı","label":"B-LOC"},
+          {"word":"ikiqızlar","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"50","label":"B-LOC"},
+          {"word":"eskişehir","label":"B-LOC"},
+          {"word":"battaniye","label":"O"},
+          {"word":"soba","label":"O"},
+          {"word":"acil","label":"O"},
+          {"word":"lazım","label":"O"}
+        ]
+      },
+      {
+        "sentence": "şehzadeler nizamiye mah fatih sok 27 manisa ses var lütfen",
+        "labels": [
+          {"word":"şehzadeler","label":"B-LOC"},
+          {"word":"nizamiye","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"fatih","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"27","label":"B-LOC"},
+          {"word":"manisa","label":"B-LOC"},
+          {"word":"ses","label":"O"},
+          {"word":"var","label":"O"},
+          {"word":"lütfen","label":"O"}
+        ]
+      },
+      {
+        "sentence": "ortahisar çarşı mah kunduracılar cad 90 trabzon ekip yok acil",
+        "labels": [
+          {"word":"ortahisar","label":"B-LOC"},
+          {"word":"çarşı","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"kunduracılar","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"90","label":"B-LOC"},
+          {"word":"trabzon","label":"B-LOC"},
+          {"word":"ekip","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "kepez varsak mah göksu bulvarı 66 antalya su gıda acil",
+        "labels": [
+          {"word":"kepez","label":"B-LOC"},
+          {"word":"varsak","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"göksu","label":"B-LOC"},
+          {"word":"bulvarı","label":"I-LOC"},
+          {"word":"66","label":"B-LOC"},
+          {"word":"antalya","label":"B-LOC"},
+          {"word":"su","label":"O"},
+          {"word":"gıda","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "merkez belediye mah atatürk cad 5 çanakkale jeneratör istiyorlar",
+        "labels": [
+          {"word":"merkez","label":"B-LOC"},
+          {"word":"belediye","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"atatürk","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"5","label":"B-LOC"},
+          {"word":"çanakkale","label":"B-LOC"},
+          {"word":"jeneratör","label":"O"},
+          {"word":"istiyorlar","label":"O"}
+        ]
+      },
+      {
+        "sentence": "piraziz yalı mah sahil sok 4 giresun battaniye yok acil",
+        "labels": [
+          {"word":"piraziz","label":"B-LOC"},
+          {"word":"yalı","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"sahil","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"4","label":"B-LOC"},
+          {"word":"giresun","label":"B-LOC"},
+          {"word":"battaniye","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "ordu altınordu cumhuriyet mah 52 sok 11 jeneratör ve vinç acil",
+        "labels": [
+          {"word":"ordu","label":"B-LOC"},
+          {"word":"altınordu","label":"I-LOC"},
+          {"word":"cumhuriyet","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"52","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"11","label":"B-LOC"},
+          {"word":"jeneratör","label":"O"},
+          {"word":"ve","label":"O"},
+          {"word":"vinç","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "milas zeytinköy mah zeytin sok 9 muğla vinç bekliyor ses var",
+        "labels": [
+          {"word":"milas","label":"B-LOC"},
+          {"word":"zeytinköy","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"zeytin","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"9","label":"B-LOC"},
+          {"word":"muğla","label":"B-LOC"},
+          {"word":"vinç","label":"O"},
+          {"word":"bekliyor","label":"O"},
+          {"word":"ses","label":"O"},
+          {"word":"var","label":"O"}
+        ]
+      },
+      {
+        "sentence": "aksaray merkez ereğlikapı mah 123 sok no6 su gıda acil",
+        "labels": [
+          {"word":"aksaray","label":"B-LOC"},
+          {"word":"merkez","label":"I-LOC"},
+          {"word":"ereğlikapı","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"123","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"no6","label":"I-LOC"},
+          {"word":"su","label":"O"},
+          {"word":"gıda","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },{
+        "sentence": "mezitli viranşehir mah akdeniz cad 14 mersin jeneratör yok acil destek",
+        "labels": [
+          {"word":"mezitli","label":"B-LOC"},
+          {"word":"viranşehir","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"akdeniz","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"14","label":"B-LOC"},
+          {"word":"mersin","label":"B-LOC"},
+          {"word":"jeneratör","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"acil","label":"O"},
+          {"word":"destek","label":"O"}
+        ]
+      },
+      {
+        "sentence": "uluanda mah yıldırım sok 23 bursa nilüfer su gıda yok acil",
+        "labels": [
+          {"word":"uluanda","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"yıldırım","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"23","label":"B-LOC"},
+          {"word":"bursa","label":"B-LOC"},
+          {"word":"nilüfer","label":"I-LOC"},
+          {"word":"su","label":"O"},
+          {"word":"gıda","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "yalova merkez bahçelievler cad 8 çınarcık vinç bekliyor ses geliyor",
+        "labels": [
+          {"word":"yalova","label":"B-LOC"},
+          {"word":"merkez","label":"I-LOC"},
+          {"word":"bahçelievler","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"8","label":"B-LOC"},
+          {"word":"çınarcık","label":"B-LOC"},
+          {"word":"vinç","label":"O"},
+          {"word":"bekliyor","label":"O"},
+          {"word":"ses","label":"O"},
+          {"word":"geliyor","label":"O"}
+        ]
+      },
+      {
+        "sentence": "serdivan istiklal mah ada sok 11 sakarya battaniye çadır acil",
+        "labels": [
+          {"word":"serdivan","label":"B-LOC"},
+          {"word":"istiklal","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"ada","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"11","label":"B-LOC"},
+          {"word":"sakarya","label":"B-LOC"},
+          {"word":"battaniye","label":"O"},
+          {"word":"çadır","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "nevşehir merkez esentepe mah gül sok 4 vinç ve termal kamera lazım",
+        "labels": [
+          {"word":"nevşehir","label":"B-LOC"},
+          {"word":"merkez","label":"I-LOC"},
+          {"word":"esentepe","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"gül","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"4","label":"B-LOC"},
+          {"word":"vinç","label":"O"},
+          {"word":"ve","label":"O"},
+          {"word":"termal","label":"O"},
+          {"word":"kamera","label":"O"},
+          {"word":"lazım","label":"O"}
+        ]
+      },
+      {
+        "sentence": "yozgat sorgun selçuk mah fatih cad 35 jeneratör hiç yok acil",
+        "labels": [
+          {"word":"yozgat","label":"B-LOC"},
+          {"word":"sorgun","label":"I-LOC"},
+          {"word":"selçuk","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"fatih","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"35","label":"B-LOC"},
+          {"word":"jeneratör","label":"O"},
+          {"word":"hiç","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "darıca osman gazi mah atakent bul 70 kocaeli mahsur kalanlar var acil",
+        "labels": [
+          {"word":"darıca","label":"B-LOC"},
+          {"word":"osman","label":"I-LOC"},
+          {"word":"gazi","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"atakent","label":"B-LOC"},
+          {"word":"bul","label":"I-LOC"},
+          {"word":"70","label":"B-LOC"},
+          {"word":"kocaeli","label":"B-LOC"},
+          {"word":"mahsur","label":"O"},
+          {"word":"kalanlar","label":"O"},
+          {"word":"var","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "uşak merkez dikilitaş mah 29 ekim cad 6 su gıda battaniye acil",
+        "labels": [
+          {"word":"uşak","label":"B-LOC"},
+          {"word":"merkez","label":"I-LOC"},
+          {"word":"dikilitaş","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"29","label":"B-LOC"},
+          {"word":"ekim","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"6","label":"B-LOC"},
+          {"word":"su","label":"O"},
+          {"word":"gıda","label":"O"},
+          {"word":"battaniye","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "aydın efeler girne mah ordu bulvarı 52 iş makinesi bekliyor acil",
+        "labels": [
+          {"word":"aydın","label":"B-LOC"},
+          {"word":"efeler","label":"I-LOC"},
+          {"word":"girne","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"ordu","label":"B-LOC"},
+          {"word":"bulvarı","label":"I-LOC"},
+          {"word":"52","label":"B-LOC"},
+          {"word":"iş","label":"O"},
+          {"word":"makinesi","label":"O"},
+          {"word":"bekliyor","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "erzincan merkez çarşı mah istiklal sok 2 enkazda ses var acil",
+        "labels": [
+          {"word":"erzincan","label":"B-LOC"},
+          {"word":"merkez","label":"I-LOC"},
+          {"word":"çarşı","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"istiklal","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"2","label":"B-LOC"},
+          {"word":"enkazda","label":"O"},
+          {"word":"ses","label":"O"},
+          {"word":"var","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "zonguldak karadenizereğli gülüç beldesi sahil cad 10 çadır yok",
+        "labels": [
+          {"word":"zonguldak","label":"B-LOC"},
+          {"word":"karadenizereğli","label":"I-LOC"},
+          {"word":"gülüç","label":"I-LOC"},
+          {"word":"beldesi","label":"I-LOC"},
+          {"word":"sahil","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"10","label":"B-LOC"},
+          {"word":"çadır","label":"O"},
+          {"word":"yok","label":"O"}
+        ]
+      },
+      {
+        "sentence": "düzce kalıcı konutlar 4 bölge 28 sok 15 gıda ve soba acil",
+        "labels": [
+          {"word":"düzce","label":"B-LOC"},
+          {"word":"kalıcı","label":"I-LOC"},
+          {"word":"konutlar","label":"I-LOC"},
+          {"word":"4","label":"B-LOC"},
+          {"word":"bölge","label":"I-LOC"},
+          {"word":"28","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"15","label":"B-LOC"},
+          {"word":"gıda","label":"O"},
+          {"word":"ve","label":"O"},
+          {"word":"soba","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "artvin hopa merkez sahil yolu cad 3 elektrik yok acil jeneratör",
+        "labels": [
+          {"word":"artvin","label":"B-LOC"},
+          {"word":"hopa","label":"I-LOC"},
+          {"word":"merkez","label":"I-LOC"},
+          {"word":"sahil","label":"B-LOC"},
+          {"word":"yolu","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"3","label":"B-LOC"},
+          {"word":"elektrik","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"acil","label":"O"},
+          {"word":"jeneratör","label":"O"}
+        ]
+      },
+      {
+        "sentence": "kırşehir çiçekdağı fatih mah selçuk sok 20 su yok bebek var acil",
+        "labels": [
+          {"word":"kırşehir","label":"B-LOC"},
+          {"word":"çiçekdağı","label":"I-LOC"},
+          {"word":"fatih","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"selçuk","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"20","label":"B-LOC"},
+          {"word":"su","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"bebek","label":"O"},
+          {"word":"var","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "kilis merkez istasyon mah türkmen sok 1 battaniye acil lazım",
+        "labels": [
+          {"word":"kilis","label":"B-LOC"},
+          {"word":"merkez","label":"I-LOC"},
+          {"word":"istasyon","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"türkmen","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"1","label":"B-LOC"},
+          {"word":"battaniye","label":"O"},
+          {"word":"acil","label":"O"},
+          {"word":"lazım","label":"O"}
+        ]
+      },
+      {
+        "sentence": "sinop ayancık belediye cad 6 yeni mahalle vinç ekip yok acil",
+        "labels": [
+          {"word":"sinop","label":"B-LOC"},
+          {"word":"ayancık","label":"I-LOC"},
+          {"word":"belediye","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"6","label":"B-LOC"},
+          {"word":"yeni","label":"B-LOC"},
+          {"word":"mahalle","label":"I-LOC"},
+          {"word":"vinç","label":"O"},
+          {"word":"ekip","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "çorum osmancık yeni mah istiklal cad 55 çadır ve soba acil",
+        "labels": [
+          {"word":"çorum","label":"B-LOC"},
+          {"word":"osmancık","label":"I-LOC"},
+          {"word":"yeni","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"istiklal","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"55","label":"B-LOC"},
+          {"word":"çadır","label":"O"},
+          {"word":"ve","label":"O"},
+          {"word":"soba","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "giresun tirebolu yıldızlı mah sahil sok 18 vinç lazım ses alındı",
+        "labels": [
+          {"word":"giresun","label":"B-LOC"},
+          {"word":"tirebolu","label":"I-LOC"},
+          {"word":"yıldızlı","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"sahil","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"18","label":"B-LOC"},
+          {"word":"vinç","label":"O"},
+          {"word":"lazım","label":"O"},
+          {"word":"ses","label":"O"},
+          {"word":"alındı","label":"O"}
+        ]
+      },
+      {
+        "sentence": "kütahya tavşanlı moymul mah ankara cad 9 jeneratör su battaniye acil",
+        "labels": [
+          {"word":"kütahya","label":"B-LOC"},
+          {"word":"tavşanlı","label":"I-LOC"},
+          {"word":"moymul","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"ankara","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"9","label":"B-LOC"},
+          {"word":"jeneratör","label":"O"},
+          {"word":"su","label":"O"},
+          {"word":"battaniye","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "osmaniye merkez fakıuşağı mah 7039 sok 2 enkaz var ses duyduk acil",
+        "labels": [
+          {"word":"osmaniye","label":"B-LOC"},
+          {"word":"merkez","label":"I-LOC"},
+          {"word":"fakıuşağı","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"7039","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"2","label":"B-LOC"},
+          {"word":"enkaz","label":"O"},
+          {"word":"var","label":"O"},
+          {"word":"ses","label":"O"},
+          {"word":"duyduk","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "niğde bor çukurkuyu beldesi cumhuriyet cad 30 vinç ekip lazım acil",
+        "labels": [
+          {"word":"niğde","label":"B-LOC"},
+          {"word":"bor","label":"I-LOC"},
+          {"word":"çukurkuyu","label":"I-LOC"},
+          {"word":"beldesi","label":"I-LOC"},
+          {"word":"cumhuriyet","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"30","label":"B-LOC"},
+          {"word":"vinç","label":"O"},
+          {"word":"ekip","label":"O"},
+          {"word":"lazım","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "bilecik bozüyük yeşilkent mah kavaklı sok 6 su yok soba yok",
+        "labels": [
+          {"word":"bilecik","label":"B-LOC"},
+          {"word":"bozüyük","label":"I-LOC"},
+          {"word":"yeşilkent","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"kavaklı","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"6","label":"B-LOC"},
+          {"word":"su","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"soba","label":"O"},
+          {"word":"yok","label":"O"}
+        ]
+      },
+      {
+        "sentence": "karaman ermenek merkez mahalle göktepe cad 12 gıda çadır acil",
+        "labels": [
+          {"word":"karaman","label":"B-LOC"},
+          {"word":"ermenek","label":"I-LOC"},
+          {"word":"merkez","label":"I-LOC"},
+          {"word":"mahalle","label":"I-LOC"},
+          {"word":"göktepe","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"12","label":"B-LOC"},
+          {"word":"gıda","label":"O"},
+          {"word":"çadır","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "hatay hassa akbez mah tepe sok 33 ekip yok çığlık var acil",
+        "labels": [
+          {"word":"hatay","label":"B-LOC"},
+          {"word":"hassa","label":"I-LOC"},
+          {"word":"akbez","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"tepe","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"33","label":"B-LOC"},
+          {"word":"ekip","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"çığlık","label":"O"},
+          {"word":"var","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "mardin nusaybin yenişehir mah barış cad 48 jeneratör su lazım",
+        "labels": [
+          {"word":"mardin","label":"B-LOC"},
+          {"word":"nusaybin","label":"I-LOC"},
+          {"word":"yenişehir","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"barış","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"48","label":"B-LOC"},
+          {"word":"jeneratör","label":"O"},
+          {"word":"su","label":"O"},
+          {"word":"lazım","label":"O"}
+        ]
+      },
+      {
+        "sentence": "kırıkkale yahşihan yenişehir mah 19 mayıs cad 9 battaniye acil",
+        "labels": [
+          {"word":"kırıkkale","label":"B-LOC"},
+          {"word":"yahşihan","label":"I-LOC"},
+          {"word":"yenişehir","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"19","label":"B-LOC"},
+          {"word":"mayıs","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"9","label":"B-LOC"},
+          {"word":"battaniye","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "batman merkez belde mah petrol cad 2 vinç ve ekip yok acil",
+        "labels": [
+          {"word":"batman","label":"B-LOC"},
+          {"word":"merkez","label":"I-LOC"},
+          {"word":"belde","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"petrol","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"2","label":"B-LOC"},
+          {"word":"vinç","label":"O"},
+          {"word":"ve","label":"O"},
+          {"word":"ekip","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "tekkeköy kutlukent mah harman sok 7 samsun jeneratör ve su acil",
+        "labels": [
+          {"word":"tekkeköy","label":"B-LOC"},
+          {"word":"kutlukent","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"harman","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"7","label":"B-LOC"},
+          {"word":"samsun","label":"B-LOC"},
+          {"word":"jeneratör","label":"O"},
+          {"word":"ve","label":"O"},
+          {"word":"su","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "edirne keşan mustafa kemal mah atatürk cad 14 çadır desteği yok",
+        "labels": [
+          {"word":"edirne","label":"B-LOC"},
+          {"word":"keşan","label":"I-LOC"},
+          {"word":"mustafa","label":"B-LOC"},
+          {"word":"kemal","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"atatürk","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"14","label":"B-LOC"},
+          {"word":"çadır","label":"O"},
+          {"word":"desteği","label":"O"},
+          {"word":"yok","label":"O"}
+        ]
+      },
+      {
+        "sentence": "afyonkarahisar sandıklı yunusemre mah iman sok 19 gıda ve battaniye acil",
+        "labels": [
+          {"word":"afyonkarahisar","label":"B-LOC"},
+          {"word":"sandıklı","label":"I-LOC"},
+          {"word":"yunusemre","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"iman","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"19","label":"B-LOC"},
+          {"word":"gıda","label":"O"},
+          {"word":"ve","label":"O"},
+          {"word":"battaniye","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "ığdır merkez çarıkcı mah sınır cad 1 soba odun yok acil",
+        "labels": [
+          {"word":"ığdır","label":"B-LOC"},
+          {"word":"merkez","label":"I-LOC"},
+          {"word":"çarıkcı","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"sınır","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"1","label":"B-LOC"},
+          {"word":"soba","label":"O"},
+          {"word":"odun","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "burdur bucak çamlık mah selvi sok 5 termal kamera ve vinç acil",
+        "labels": [
+          {"word":"burdur","label":"B-LOC"},
+          {"word":"bucak","label":"I-LOC"},
+          {"word":"çamlık","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"selvi","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"5","label":"B-LOC"},
+          {"word":"termal","label":"O"},
+          {"word":"kamera","label":"O"},
+          {"word":"ve","label":"O"},
+          {"word":"vinç","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "tokat turhal cumhuriyet mah gazi cad 31 elektrik yok jeneratör acil",
+        "labels": [
+          {"word":"tokat","label":"B-LOC"},
+          {"word":"turhal","label":"I-LOC"},
+          {"word":"cumhuriyet","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"gazi","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"31","label":"B-LOC"},
+          {"word":"elektrik","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"jeneratör","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      }, {
+        "sentence": "serik belek mah atatürk cad 22 antalya çadır battaniye acil",
+        "labels": [
+          {"word":"serik","label":"B-LOC"},
+          {"word":"belek","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"atatürk","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"22","label":"B-LOC"},
+          {"word":"antalya","label":"B-LOC"},
+          {"word":"çadır","label":"O"},
+          {"word":"battaniye","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "izmir bayraklı adalet mah manas bulvarı 6 vinç yok ses var",
+        "labels": [
+          {"word":"izmir","label":"B-LOC"},
+          {"word":"bayraklı","label":"I-LOC"},
+          {"word":"adalet","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"manas","label":"B-LOC"},
+          {"word":"bulvarı","label":"I-LOC"},
+          {"word":"6","label":"B-LOC"},
+          {"word":"vinç","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"ses","label":"O"},
+          {"word":"var","label":"O"}
+        ]
+      },
+      {
+        "sentence": "istanbul pendik yenişehir mah şehir sok 10 jeneratör acil yardım",
+        "labels": [
+          {"word":"istanbul","label":"B-LOC"},
+          {"word":"pendik","label":"I-LOC"},
+          {"word":"yenişehir","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"şehir","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"10","label":"B-LOC"},
+          {"word":"jeneratör","label":"O"},
+          {"word":"acil","label":"O"},
+          {"word":"yardım","label":"O"}
+        ]
+      },
+      {
+        "sentence": "ankara keçiören ertes mah fatih cad 55 ekipman bekliyor acil",
+        "labels": [
+          {"word":"ankara","label":"B-LOC"},
+          {"word":"keçiören","label":"I-LOC"},
+          {"word":"ertes","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"fatih","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"55","label":"B-LOC"},
+          {"word":"ekipman","label":"O"},
+          {"word":"bekliyor","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "balıkesir bandırma paşabayır mah sahil cad 18 su yok çadır lazım",
+        "labels": [
+          {"word":"balıkesir","label":"B-LOC"},
+          {"word":"bandırma","label":"I-LOC"},
+          {"word":"paşabayır","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"sahil","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"18","label":"B-LOC"},
+          {"word":"su","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"çadır","label":"O"},
+          {"word":"lazım","label":"O"}
+        ]
+      },
+      {
+        "sentence": "manisa soma istasyon mah maden sok 3 termal kamera gerekiyor acil",
+        "labels": [
+          {"word":"manisa","label":"B-LOC"},
+          {"word":"soma","label":"I-LOC"},
+          {"word":"istasyon","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"maden","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"3","label":"B-LOC"},
+          {"word":"termal","label":"O"},
+          {"word":"kamera","label":"O"},
+          {"word":"gerekiyor","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "şanlıurfa haliliye karaköprü mah 35 sok 7 battaniye bebek maması acil",
+        "labels": [
+          {"word":"şanlıurfa","label":"B-LOC"},
+          {"word":"haliliye","label":"I-LOC"},
+          {"word":"karaköprü","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"35","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"7","label":"B-LOC"},
+          {"word":"battaniye","label":"O"},
+          {"word":"bebek","label":"O"},
+          {"word":"maması","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "adana seyhan çınarlı mah ziya paşa bulvarı 44 vinç lazım",
+        "labels": [
+          {"word":"adana","label":"B-LOC"},
+          {"word":"seyhan","label":"I-LOC"},
+          {"word":"çınarlı","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"ziya","label":"B-LOC"},
+          {"word":"paşa","label":"I-LOC"},
+          {"word":"bulvarı","label":"I-LOC"},
+          {"word":"44","label":"B-LOC"},
+          {"word":"vinç","label":"O"},
+          {"word":"lazım","label":"O"}
+        ]
+      },
+      {
+        "sentence": "muğla fethiye taşyaka mah ölüdeniz cad 12 enkaz var ses geliyor",
+        "labels": [
+          {"word":"muğla","label":"B-LOC"},
+          {"word":"fethiye","label":"I-LOC"},
+          {"word":"taşyaka","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"ölüdeniz","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"12","label":"B-LOC"},
+          {"word":"enkaz","label":"O"},
+          {"word":"var","label":"O"},
+          {"word":"ses","label":"O"},
+          {"word":"geliyor","label":"O"}
+        ]
+      },
+      {
+        "sentence": "denizli pamukkale aktepe mah 2019 sok 2 çadır ve soba acil",
+        "labels": [
+          {"word":"denizli","label":"B-LOC"},
+          {"word":"pamukkale","label":"I-LOC"},
+          {"word":"aktepe","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"2019","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"2","label":"B-LOC"},
+          {"word":"çadır","label":"O"},
+          {"word":"ve","label":"O"},
+          {"word":"soba","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "kayseri melikgazi osb mah 32 cad 9 araç yok gıda yok",
+        "labels": [
+          {"word":"kayseri","label":"B-LOC"},
+          {"word":"melikgazi","label":"I-LOC"},
+          {"word":"osb","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"32","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"9","label":"B-LOC"},
+          {"word":"araç","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"gıda","label":"O"},
+          {"word":"yok","label":"O"}
+        ]
+      },
+      {
+        "sentence": "trabzon akçaabat orhanlı mah yayla sok 14 kurtarma bekliyor acil",
+        "labels": [
+          {"word":"trabzon","label":"B-LOC"},
+          {"word":"akçaabat","label":"I-LOC"},
+          {"word":"orhanlı","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"yayla","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"14","label":"B-LOC"},
+          {"word":"kurtarma","label":"O"},
+          {"word":"bekliyor","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "rize merkez kalkandere mah 17 sok 5 sel riski ekip acil",
+        "labels": [
+          {"word":"rize","label":"B-LOC"},
+          {"word":"merkez","label":"I-LOC"},
+          {"word":"kalkandere","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"17","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"5","label":"B-LOC"},
+          {"word":"sel","label":"O"},
+          {"word":"riski","label":"O"},
+          {"word":"ekip","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "gümüşhane şiran yeşilbük mah köy içi cad 1 çadır yok gece soğuk",
+        "labels": [
+          {"word":"gümüşhane","label":"B-LOC"},
+          {"word":"şiran","label":"I-LOC"},
+          {"word":"yeşilbük","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"köy","label":"B-LOC"},
+          {"word":"içi","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"1","label":"B-LOC"},
+          {"word":"çadır","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"gece","label":"O"},
+          {"word":"soğuk","label":"O"}
+        ]
+      },
+      {
+        "sentence": "erzurum palandöken yunus emre mah erenler cad 20 vinç istiyor acil",
+        "labels": [
+          {"word":"erzurum","label":"B-LOC"},
+          {"word":"palandöken","label":"I-LOC"},
+          {"word":"yunus","label":"B-LOC"},
+          {"word":"emre","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"erenler","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"20","label":"B-LOC"},
+          {"word":"vinç","label":"O"},
+          {"word":"istiyor","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "van tuşba abdurrahman gazi mah sosyal konutlar cad 8 soba lazım",
+        "labels": [
+          {"word":"van","label":"B-LOC"},
+          {"word":"tuşba","label":"I-LOC"},
+          {"word":"abdurrahman","label":"B-LOC"},
+          {"word":"gazi","label":"I-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"sosyal","label":"B-LOC"},
+          {"word":"konutlar","label":"I-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"8","label":"B-LOC"},
+          {"word":"soba","label":"O"},
+          {"word":"lazım","label":"O"}
+        ]
+      },
+      {
+        "sentence": "siirt merkez barış mah vali cad 13 su gıda battaniye acil",
+        "labels": [
+          {"word":"siirt","label":"B-LOC"},
+          {"word":"merkez","label":"I-LOC"},
+          {"word":"barış","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"vali","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"13","label":"B-LOC"},
+          {"word":"su","label":"O"},
+          {"word":"gıda","label":"O"},
+          {"word":"battaniye","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "diyarbakır bağlar cemiloğlu bulvarı 27 umut apt ses var vinç lazım",
+        "labels": [
+          {"word":"diyarbakır","label":"B-LOC"},
+          {"word":"bağlar","label":"I-LOC"},
+          {"word":"cemiloğlu","label":"B-LOC"},
+          {"word":"bulvarı","label":"I-LOC"},
+          {"word":"27","label":"B-LOC"},
+          {"word":"umut","label":"B-LOC"},
+          {"word":"apt","label":"I-LOC"},
+          {"word":"ses","label":"O"},
+          {"word":"var","label":"O"},
+          {"word":"vinç","label":"O"},
+          {"word":"lazım","label":"O"}
+        ]
+      },
+      {
+        "sentence": "çanakkale ayvacık sahil mah liman sok 6 destek bekliyor acil",
+        "labels": [
+          {"word":"çanakkale","label":"B-LOC"},
+          {"word":"ayvacık","label":"I-LOC"},
+          {"word":"sahil","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"liman","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"6","label":"B-LOC"},
+          {"word":"destek","label":"O"},
+          {"word":"bekliyor","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "eskişehir tepebaşı gençlik mah söğütlü sok 9 elektrik yok",
+        "labels": [
+          {"word":"eskişehir","label":"B-LOC"},
+          {"word":"tepebaşı","label":"I-LOC"},
+          {"word":"gençlik","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"söğütlü","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"9","label":"B-LOC"},
+          {"word":"elektrik","label":"O"},
+          {"word":"yok","label":"O"}
+        ]
+      },
+      {
+        "sentence": "kastamonu tosya cumhuriyet mah sanayi cad 4 soba odun yok acil",
+        "labels": [
+          {"word":"kastamonu","label":"B-LOC"},
+          {"word":"tosya","label":"I-LOC"},
+          {"word":"cumhuriyet","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"sanayi","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"4","label":"B-LOC"},
+          {"word":"soba","label":"O"},
+          {"word":"odun","label":"O"},
+          {"word":"yok","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "malatya yazıhan boztepe mah kanal sok 11 ekip gelmedi acil",
+        "labels": [
+          {"word":"malatya","label":"B-LOC"},
+          {"word":"yazıhan","label":"I-LOC"},
+          {"word":"boztepe","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"kanal","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"11","label":"B-LOC"},
+          {"word":"ekip","label":"O"},
+          {"word":"gelmedi","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "mersin tarsus yeni mahalle istasyon cad 30 bebek için mama lazım",
+        "labels": [
+          {"word":"mersin","label":"B-LOC"},
+          {"word":"tarsus","label":"I-LOC"},
+          {"word":"yeni","label":"B-LOC"},
+          {"word":"mahalle","label":"I-LOC"},
+          {"word":"istasyon","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"30","label":"B-LOC"},
+          {"word":"bebek","label":"O"},
+          {"word":"için","label":"O"},
+          {"word":"mama","label":"O"},
+          {"word":"lazım","label":"O"}
+        ]
+      },
+      {
+        "sentence": "kars sarıkamış inkılap mah çamlık cad 2 soba kömür acil",
+        "labels": [
+          {"word":"kars","label":"B-LOC"},
+          {"word":"sarıkamış","label":"I-LOC"},
+          {"word":"inkılap","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"çamlık","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"2","label":"B-LOC"},
+          {"word":"soba","label":"O"},
+          {"word":"kömür","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "aksaray ortaköy balcı mah çınar sok 21 vinç ekipman bekliyor",
+        "labels": [
+          {"word":"aksaray","label":"B-LOC"},
+          {"word":"ortaköy","label":"I-LOC"},
+          {"word":"balcı","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"çınar","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"21","label":"B-LOC"},
+          {"word":"vinç","label":"O"},
+          {"word":"ekipman","label":"O"},
+          {"word":"bekliyor","label":"O"}
+        ]
+      },
+      {
+        "sentence": "bartın amasra küçükköy mah sahil cad 9 gıda su yok",
+        "labels": [
+          {"word":"bartın","label":"B-LOC"},
+          {"word":"amasra","label":"I-LOC"},
+          {"word":"küçükköy","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"sahil","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"9","label":"B-LOC"},
+          {"word":"gıda","label":"O"},
+          {"word":"su","label":"O"},
+          {"word":"yok","label":"O"}
+        ]
+      },
+      {
+        "sentence": "ordu ulubey cevizli mah dere sok 5 elektrik kesik jeneratör acil",
+        "labels": [
+          {"word":"ordu","label":"B-LOC"},
+          {"word":"ulubey","label":"I-LOC"},
+          {"word":"cevizli","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"dere","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"5","label":"B-LOC"},
+          {"word":"elektrik","label":"O"},
+          {"word":"kesik","label":"O"},
+          {"word":"jeneratör","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "bolu gerede çarşı mah ankara cad 16 çadır battaniye lazım",
+        "labels": [
+          {"word":"bolu","label":"B-LOC"},
+          {"word":"gerede","label":"I-LOC"},
+          {"word":"çarşı","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"ankara","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"16","label":"B-LOC"},
+          {"word":"çadır","label":"O"},
+          {"word":"battaniye","label":"O"},
+          {"word":"lazım","label":"O"}
+        ]
+      },
+      {
+        "sentence": "sivas suşehri karaftun mah çayır sok 7 enkazda ses var",
+        "labels": [
+          {"word":"sivas","label":"B-LOC"},
+          {"word":"suşehri","label":"I-LOC"},
+          {"word":"karaftun","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"çayır","label":"B-LOC"},
+          {"word":"sok","label":"I-LOC"},
+          {"word":"7","label":"B-LOC"},
+          {"word":"enkazda","label":"O"},
+          {"word":"ses","label":"O"},
+          {"word":"var","label":"O"}
+        ]
+      },
+      {
+        "sentence": "şırnak silopi yenişehir mah petrol cad 19 çadır su bebek bezi acil",
+        "labels": [
+          {"word":"şırnak","label":"B-LOC"},
+          {"word":"silopi","label":"I-LOC"},
+          {"word":"yenişehir","label":"B-LOC"},
+          {"word":"mah","label":"I-LOC"},
+          {"word":"petrol","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"19","label":"B-LOC"},
+          {"word":"çadır","label":"O"},
+          {"word":"su","label":"O"},
+          {"word":"bebek","label":"O"},
+          {"word":"bezi","label":"O"},
+          {"word":"acil","label":"O"}
+        ]
+      },
+      {
+        "sentence": "hopa merkez sahil cad no30 artvin sel altında çadır acil lazım",
+        "labels": [
+          {"word":"hopa","label":"B-LOC"},
+          {"word":"merkez","label":"I-LOC"},
+          {"word":"sahil","label":"B-LOC"},
+          {"word":"cad","label":"I-LOC"},
+          {"word":"no30","label":"I-LOC"},
+          {"word":"artvin","label":"B-LOC"},
+          {"word":"sel","label":"O"},
+          {"word":"altında","label":"O"},
+          {"word":"çadır","label":"O"},
+          {"word":"acil","label":"O"},
+          {"word":"lazım","label":"O"}
+        ]
+      }
+  ]
+  

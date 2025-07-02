@@ -1,0 +1,160 @@
+
+[
+{"city":"Bursa","timestamp":"25.06.2025 14:10",
+     "tweet":" #deprem Mimarsinan Mahallesi , Mimar Sinan Bulvarı , Eflak Cd No: 177 16310 Yıldırım"},
+    {"city":"Bursa","timestamp":"25.06.2025 14:22",
+     "tweet":"ortabağlar mahallesi 1. yerli sokak no 81 bursa #deprem"},
+    {"city":"Bursa","timestamp":"25.06.2025 14:35",
+     "tweet":"çankaya bahçelievler 7 cad no15 ankara acil vinç lazım bina çöktü"},
+    {"city":"Bursa","timestamp":"25.06.2025 14:41",
+     "tweet":"Görükle Kampüsü KYK yurdunda çatlaklar oluştu, tahliye gerekiyor!"},
+    {"city":"Bursa","timestamp":"25.06.2025 14:55",
+     "tweet":"Mudanya Halitpaşa’da apartmanda mahsur kalan aile var!"},
+    {"city":"Bursa","timestamp":"25.06.2025 15:01",
+     "tweet":"İnegöl Kültürpark civarında ağır hasarlı bina bildirildi!"},
+     {
+       "city": "Bursa",
+       "timestamp": "25.06.2025 15:38",
+       "tweet": "Nilüfer İhsaniye Mahallesi Akademi Caddesi Erguvan Sitesi A-2 blokta merdiven boşluğu çöktü!"
+     },
+     {
+       "city": "Bursa",
+       "timestamp": "25.06.2025 15:42",
+       "tweet": "Osmangazi Çekirge Mah. Hamzabey Caddesi No:56 Zümrüt Apartmanı’nda iki daire tamamen çöktü!"
+     },
+     {
+       "city": "Bursa",
+       "timestamp": "25.06.2025 15:46",
+       "tweet": "Kestel Ahmet Vefik Paşa Mah. Çınar Sokak 8’de engelli çocuk enkaz altında, sessiz yardım gerekiyor."
+     },
+     {
+       "city": "Bursa",
+       "timestamp": "25.06.2025 15:49",
+       "tweet": "Gemlik Dr. Ziya Kaya Mh. Kordonboyu Caddesi Denizkent Sitesi D-Blok girişinde yoğun gaz kokusu var!"
+     },
+     {
+       "city": "Bursa",
+       "timestamp": "25.06.2025 15:54",
+       "tweet": "İnegöl Orhaniye Mahallesi Bursa Caddesi Askerlik Şubesi karşısında yol çöktü, araçlar mahsur."
+     },
+     {
+       "city": "Bursa",
+       "timestamp": "25.06.2025 15:59",
+       "tweet": "Yenişehir Çayırlı Mahallesi Köyiçi Sokak cami avlusunda 120 kişi toplanmış, su ve çorba istiyorlar."
+     },
+     {
+       "city": "Bursa",
+       "timestamp": "25.06.2025 16:03",
+       "tweet": "Mudanya Tirilye Mah. İskele Caddesi balıkçı barınağı yanında kanalizasyon hattı patladı!"
+     },
+     {
+       "city": "Bursa",
+       "timestamp": "25.06.2025 16:07",
+       "tweet": "Karacabey Kurşunlu Mah. Sahil Yolu No:18 Ahşap ev çöktü, iki çocuk içerde kaldı!"
+     },
+     {
+       "city": "Bursa",
+       "timestamp": "25.06.2025 16:11",
+       "tweet": "Orhangazi Gedelek Mah. Zeytinlik Sokak çıkışında kayan toprak yolu kapattı, köye ulaşım yok."
+     },
+     {
+       "city": "Bursa",
+       "timestamp": "25.06.2025 16:15",
+       "tweet": "Mustafakemalpaşa Barış Mahallesi Sanayi Caddesi Öztaş Fabrikası çatısı çöktü, işçiler içeride!"
+     }
+   ,
+   
+     {
+          "city": "Bursa",
+          "timestamp": "25.06.2025 14:10",
+          "tweet": "Nilüfer Görükle Mahallesi Üçoluk Caddesi Yerleşim Sitesi’nde blok çöktü, yaralılar var!"
+        },
+        {
+          "city": "Bursa",
+          "timestamp": "25.06.2025 14:18",
+          "tweet": "Osmangazi Altıparmak Caddesi No:124 önünde bina ağır hasarlı, acil kurtarma ekibi gerekli!"
+        },
+        {
+          "city": "Bursa",
+          "timestamp": "25.06.2025 14:22",
+          "tweet": "Yıldırım Erikli Mahallesi Selçuk Sokak 6’da enkaz altında üç kişi olduğu bildirildi!"
+        },
+        {
+          "city": "Bursa",
+          "timestamp": "25.06.2025 14:28",
+          "tweet": "Nilüfer Ataevler Mah. 24. Cadde Dostkent Sitesi B-Blokta çatlaklar büyüyor, tahliye gerekiyor."
+        },
+        {
+          "city": "Bursa",
+          "timestamp": "25.06.2025 14:35",
+          "tweet": "Mudanya Halitpaşa Mahallesi Halitpaşa Caddesi Güneş Apartmanı’nda mahsur kalan aile var!"
+        },
+        {
+          "city": "Bursa",
+          "timestamp": "25.06.2025 14:41",
+          "tweet": "Görükle Balkan Mah. Öğrenci Sok. No:18 bodrum katında ses duyuluyor, termal kameraya ihtiyaç var."
+        },
+        {
+          "city": "Bursa",
+          "timestamp": "25.06.2025 14:48",
+          "tweet": "Kestel Vani Mehmet Mahallesi Fabrika Caddesi 3. Organize mevkiinde fabrika çatısı çöktü!"
+        },
+        {
+          "city": "Bursa",
+          "timestamp": "25.06.2025 14:55",
+          "tweet": "İnegöl Yeni Mahalle Nuri Doğrul Sokak No:4’te apartman tamamen yıkıldı, ekip yok!"
+        },
+        {
+          "city": "Bursa",
+          "timestamp": "25.06.2025 15:01",
+          "tweet": "Gemlik Umurbey Mah. Kemal Paşa Caddesi sahil tarafında çatlak artıyor, çadır ve battaniye lazım."
+        },
+        {
+          "city": "Bursa",
+          "timestamp": "25.06.2025 15:05",
+          "tweet": "Karacabey Bakırköy Mahallesi Sahil Caddesi Balıkçı Barınağı yanında içme suyu yok, tanker gönderin."
+        },
+        {
+          "city": "Bursa",
+          "timestamp": "25.06.2025 15:09",
+          "tweet": "Orhaneli Fevzipaşa Mahallesi Dereboyu Sokak üzerindeki iki katlı ev çöktü, yaşlı çift enkazda!"
+        },
+        {
+          "city": "Bursa",
+          "timestamp": "25.06.2025 15:12",
+          "tweet": "Osmangazi Dikkaldırım Mah. Spor Caddesi Atatürk Spor Salonu’nda yaralılar çıkarılamıyor!"
+        },
+        {
+          "city": "Bursa",
+          "timestamp": "25.06.2025 15:18",
+          "tweet": "Yıldırım Değirmenönü Mah. Okul Sokak İlkokul bahçesinde 200 kişi soğukta, battaniye ve su gerek."
+        },
+        {
+          "city": "Bursa",
+          "timestamp": "25.06.2025 15:25",
+          "tweet": "Nilüfer Odunluk Mahallesi TOKİ Blok A-3 girişinde engelli vatandaş mahsur, asansör boşluğu çöktü!"
+        },
+        {
+          "city": "Bursa",
+          "timestamp": "25.06.2025 15:32",
+          "tweet": "İznik Mecidiye Mah. Atatürk Caddesi Yeşil Cami duvarında derin çatlak oluştu, güvenlik şeridi yok."
+        },
+    {"city":"Bursa","timestamp":"25.06.2025 15:05",
+     "tweet":"Karacabey Uluabat kıyısında çadır ihtiyacı var!"},
+    {"city":"Bursa","timestamp":"25.06.2025 15:09",
+     "tweet":"Gemlik Cumhuriyet Mah. bodrum katta ses var, ekip lazım!"},
+    {"city":"Bursa","timestamp":"25.06.2025 15:12",
+     "tweet":"Nilüfer Beşevler Metrosu yakınında yaralıların olduğu bildirildi!"},
+    {"city":"Bursa","timestamp":"25.06.2025 15:18",
+     "tweet":"Yıldırım Değirmenönü İlkokulu bahçesinde toplananlar var, battaniye gerek!"},
+    {"city":"Bursa","timestamp":"25.06.2025 15:25",
+     "tweet":"Orhaneli merkezde su hattı patladı, ekip yönlendirilmeli!"},
+    {"city":"Bursa","timestamp":"25.06.2025 15:32",
+     "tweet":"Osmangazi Dikkaldırım Spor Salonu çatısı çöktü, yaralı var!"},
+    {"city":"Bursa","timestamp":"25.06.2025 15:37",
+     "tweet":"Hürriyet Mh. pazar yerinde çökme riski bildirildi!"},
+    {"city":"Bursa","timestamp":"25.06.2025 15:43",
+     "tweet":"Nilüfer Odunluk TOKİ’de engelli vatandaş mahsur kaldı!"},
+    {"city":"Bursa","timestamp":"25.06.2025 15:50",
+     "tweet":"İznik Yeşil Cami çevresinde tarihi yapıda hasar var!"}
+]
